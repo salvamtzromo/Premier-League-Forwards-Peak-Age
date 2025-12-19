@@ -1,0 +1,2021 @@
+Season,Player,Pos,Squad,Min,MP,Gls,Ast,G+A,Gls per 90,Ast per 90,Age,G+A per 90
+2011-2012,Kerim Frei,"FW,MF",Fulham,680,16,0,0,0,0,0,17,0
+2011-2012,Alex Oxlade-Chamberlain,"FW,MF",Arsenal,562,16,2,1,3,0.32,0.16,17,0.48
+2012-2013,Raheem Sterling,"FW,MF",Liverpool,1748,24,2,2,4,0.1,0.1,17,0.21
+2013-2014,Sam Gallagher,"FW,MF",Southampton,390,18,1,0,1,0.23,0,17,0.23
+2015-2016,Marcus Rashford,"FW,MF",Manchester Utd,855,11,5,2,7,0.53,0.21,17,0.74
+2018-2019,Callum Hudson-Odoi,FW,Chelsea,393,10,0,1,1,0,0.23,17,0.23
+2019-2020,Mason Greenwood,FW,Manchester Utd,1320,31,10,1,11,0.68,0.07,17,0.75
+2019-2020,Bukayo Saka,"DF,FW",Arsenal,1753,26,1,5,6,0.05,0.26,17,0.31
+2021-2022,Carney Chukwuemeka,"MF,FW",Aston Villa,301,12,0,1,1,0,0.3,17,0.3
+2022-2023,Facundo Buonanotte,"FW,MF",Brighton,565,13,1,1,2,0.16,0.16,17,0.32
+2022-2023,Evan Ferguson,FW,Brighton,950,19,6,2,8,0.57,0.19,17,0.76
+2024-2025,Ethan Nwaneri,"FW,MF",Arsenal,895,26,4,2,6,0.4,0.2,17,0.6
+2011-2012,Ryo Miyaichi,"FW,MF",Bolton,683,12,0,2,2,0,0.26,18,0.26
+2011-2012,Connor Wickham,"FW,MF",Sunderland,532,16,1,0,1,0.17,0,18,0.17
+2012-2013,Alex Oxlade-Chamberlain,"FW,MF",Arsenal,1063,25,1,3,4,0.08,0.25,18,0.34
+2012-2013,Suso,"FW,MF",Liverpool,601,14,0,0,0,0,0,18,0
+2013-2014,Serge Gnabry,"FW,MF",Arsenal,401,8,1,0,1,0.22,0,18,0.22
+2013-2014,Adnan Januzaj,"FW,MF",Manchester Utd,1644,27,4,3,7,0.22,0.16,18,0.38
+2013-2014,Mats Møller Dæhli,"FW,MF",Cardiff City,628,13,1,0,1,0.14,0,18,0.14
+2013-2014,Raheem Sterling,"FW,MF",Liverpool,2218,33,9,5,14,0.37,0.2,18,0.57
+2013-2014,Cauley Woodrow,"FW,MF",Fulham,410,6,1,0,1,0.22,0,18,0.22
+2014-2015,Jack Grealish,"FW,MF",Aston Villa,821,17,0,1,1,0,0.11,18,0.11
+2014-2015,Jordon Ibe,"FW,MF",Liverpool,617,12,0,0,0,0,0,18,0
+2014-2015,James Wilson,"FW,MF",Manchester Utd,357,13,1,0,1,0.25,0,18,0.25
+2015-2016,Kelechi Iheanacho,"FW,MF",Manchester City,766,26,8,1,9,0.94,0.12,18,1.06
+2015-2016,Sheyi Ojo,"FW,MF",Liverpool,397,8,0,3,3,0,0.68,18,0.68
+2016-2017,Marcus Rashford,"FW,MF",Manchester Utd,1710,32,5,1,6,0.26,0.05,18,0.32
+2018-2019,Morgan Gibbs-White,"MF,FW",Wolves,663,26,0,1,1,0,0.14,18,0.14
+2018-2019,Ryan Sessegnon,"FW,DF",Fulham,2300,35,2,6,8,0.08,0.23,18,0.31
+2019-2020,Anthony Gordon,"MF,FW",Everton,440,11,0,1,1,0,0.2,18,0.2
+2019-2020,Callum Hudson-Odoi,"FW,MF",Chelsea,863,22,1,5,6,0.1,0.52,18,0.63
+2019-2020,Gabriel Martinelli,FW,Arsenal,663,14,3,0,3,0.41,0,18,0.41
+2020-2021,Mason Greenwood,FW,Manchester Utd,1822,31,7,2,9,0.35,0.1,18,0.44
+2020-2021,Bukayo Saka,"FW,MF",Arsenal,2553,32,5,3,8,0.18,0.11,18,0.28
+2020-2021,Fábio Silva,FW,Wolves,1369,32,4,3,7,0.26,0.2,18,0.46
+2022-2023,Carney Chukwuemeka,"MF,FW",Chelsea,354,14,0,0,0,0,0,18,0
+2022-2023,Julio Enciso,"FW,MF",Brighton,806,20,4,2,6,0.45,0.22,18,0.67
+2022-2023,Alejandro Garnacho,"FW,MF",Manchester Utd,569,19,3,2,5,0.47,0.32,18,0.79
+2022-2023,Wilfried Gnonto,"FW,MF",Leeds United,1354,24,2,4,6,0.13,0.27,18,0.4
+2023-2024,Facundo Buonanotte,"FW,MF",Brighton,1364,27,3,1,4,0.2,0.07,18,0.26
+2023-2024,Evan Ferguson,FW,Brighton,1367,27,6,0,6,0.4,0,18,0.4
+2023-2024,Luca Koleosho,"MF,FW",Burnley,974,15,1,1,2,0.09,0.09,18,0.18
+2023-2024,Wilson Odobert,"MF,FW",Burnley,2098,29,3,2,5,0.13,0.09,18,0.21
+2024-2025,Tyler Dibling,"FW,MF",Southampton,1874,33,2,0,2,0.1,0,18,0.1
+2024-2025,Oliver Scarles,"DF,FW",West Ham,665,15,0,0,0,0,0,18,0
+2010-2011,Mario Balotelli,FW,Manchester City,1091,17,6,0,6,0.49,0,19,0.49
+2010-2011,Nathan Delfouneso,"FW,MF",Aston Villa,398,11,1,0,1,0.23,0,19,0.23
+2010-2011,Victor Moses,"DF,FW",Wigan Athletic,815,21,1,3,4,0.11,0.33,19,0.44
+2010-2011,Matt Phillips,"DF,FW",Blackpool,1050,27,1,4,5,0.09,0.34,19,0.43
+2010-2011,Nile Ranger,FW,Newcastle Utd,588,24,0,1,1,0,0.15,19,0.15
+2010-2011,Rodrigo,"FW,MF",Bolton,503,17,1,1,2,0.18,0.18,19,0.36
+2010-2011,Danny Welbeck,"FW,MF",Sunderland,1756,26,6,1,7,0.31,0.05,19,0.36
+2011-2012,Andreas Weimann,"FW,MF",Aston Villa,541,14,2,0,2,0.33,0,19,0.33
+2012-2013,Romelu Lukaku,FW,West Brom,2005,35,17,4,21,0.76,0.18,19,0.94
+2012-2013,Connor Wickham,"FW,MF",Sunderland,444,12,0,0,0,0,0,19,0
+2013-2014,Saido Berahino,"FW,MF",West Brom,1418,32,5,1,6,0.32,0.06,19,0.38
+2013-2014,Gerard Deulofeu,"FW,MF",Everton,900,25,3,3,6,0.3,0.3,19,0.6
+2013-2014,Alex Oxlade-Chamberlain,"FW,MF",Arsenal,529,14,2,2,4,0.34,0.34,19,0.68
+2013-2014,Nathan Redmond,"FW,MF",Norwich City,2158,34,1,3,4,0.04,0.13,19,0.17
+2014-2015,Adnan Januzaj,"FW,MF",Manchester Utd,856,18,0,0,0,0,0,19,0
+2014-2015,Raheem Sterling,"FW,MF",Liverpool,3045,35,7,7,14,0.21,0.21,19,0.41
+2015-2016,Dele Alli,"FW,MF",Tottenham,2470,33,10,9,19,0.36,0.33,19,0.69
+2015-2016,Jack Grealish,"FW,MF",Aston Villa,833,16,1,0,1,0.11,0,19,0.11
+2015-2016,Jordon Ibe,"FW,MF",Liverpool,1178,27,1,2,3,0.08,0.15,19,0.23
+2015-2016,Alex Iwobi,"FW,MF",Arsenal,628,13,2,2,4,0.29,0.29,19,0.57
+2015-2016,Kenedy,"FW,MF",Chelsea,556,14,1,0,1,0.16,0,19,0.16
+2015-2016,Anthony Martial,"FW,MF",Manchester Utd,2632,31,11,4,15,0.38,0.14,19,0.51
+2015-2016,Bertrand Traoré,"FW,MF",Chelsea,375,10,2,1,3,0.48,0.24,19,0.72
+2016-2017,Dominic Calvert-Lewin,"FW,MF",Everton,347,11,1,0,1,0.26,0,19,0.26
+2016-2017,Kelechi Iheanacho,"FW,MF",Manchester City,537,20,4,3,7,0.67,0.5,19,1.17
+2016-2017,Gabriel Jesus,"FW,MF",Manchester City,650,10,7,4,11,0.97,0.55,19,1.52
+2017-2018,Tammy Abraham,FW,Swansea City,1726,31,5,1,6,0.26,0.05,19,0.31
+2017-2018,Marcus Rashford,"FW,MF",Manchester Utd,1813,35,7,5,12,0.35,0.25,19,0.6
+2017-2018,Dominic Solanke,FW,Liverpool,596,21,1,1,2,0.15,0.15,19,0.3
+2017-2018,Nikola Vlaši?,"MF,FW",Everton,576,12,0,0,0,0,0,19,0
+2018-2019,Diogo Dalot,"DF,FW",Manchester Utd,1013,16,0,2,2,0,0.18,19,0.18
+2019-2020,Aaron Connolly,FW,Brighton,1258,24,3,1,4,0.21,0.07,19,0.29
+2019-2020,Phil Foden,"FW,MF",Manchester City,901,23,5,2,7,0.5,0.2,19,0.7
+2019-2020,Moise Kean,FW,Everton,852,29,2,2,4,0.21,0.21,19,0.42
+2019-2020,Reiss Nelson,FW,Arsenal,631,17,1,0,1,0.14,0,19,0.14
+2019-2020,Pedro Neto,"FW,MF",Wolves,939,29,3,3,6,0.29,0.29,19,0.58
+2019-2020,Michael Obafemi,FW,Southampton,665,21,3,2,5,0.41,0.27,19,0.68
+2019-2020,Ryan Sessegnon,"DF,FW",Tottenham,342,6,0,0,0,0,0,19,0
+2019-2020,Joe Willock,"MF,FW",Arsenal,857,29,1,1,2,0.11,0.11,19,0.21
+2020-2021,Callum Hudson-Odoi,"FW,DF",Chelsea,1059,23,2,3,5,0.17,0.25,19,0.42
+2020-2021,Gabriel Martinelli,FW,Arsenal,589,14,2,1,3,0.31,0.15,19,0.46
+2021-2022,Armando Broja,FW,Southampton,1975,32,6,0,6,0.27,0,19,0.27
+2021-2022,Anthony Elanga,FW,Manchester Utd,1214,21,2,2,4,0.15,0.15,19,0.3
+2021-2022,Joe Gelhardt,"FW,MF",Leeds United,746,20,2,2,4,0.24,0.24,19,0.48
+2021-2022,Mason Greenwood,"FW,MF",Manchester Utd,1271,18,5,1,6,0.35,0.07,19,0.42
+2021-2022,João Pedro,"FW,MF",Watford,1644,28,3,1,4,0.16,0.05,19,0.22
+2021-2022,Michael Olise,"FW,MF",Crystal Palace,1141,26,2,5,7,0.16,0.39,19,0.55
+2021-2022,Bukayo Saka,"FW,MF",Arsenal,2978,38,11,7,18,0.33,0.21,19,0.54
+2021-2022,Fábio Silva,FW,Wolves,572,22,0,0,0,0,0,19,0
+2021-2022,Christos Tzolis,"FW,MF",Norwich City,336,14,0,0,0,0,0,19,0
+2022-2023,Carlos Alcaraz,"MF,FW",Southampton,1029,18,4,2,6,0.35,0.17,19,0.52
+2022-2023,Elliot Anderson,"MF,FW",Newcastle Utd,410,22,0,1,1,0,0.22,19,0.22
+2022-2023,Fabio Carvalho,"MF,FW",Liverpool,347,13,2,0,2,0.52,0,19,0.52
+2022-2023,Samuel Edozie,"FW,MF",Southampton,567,17,0,0,0,0,0,19,0
+2022-2023,Harvey Elliott,"MF,FW",Liverpool,1613,32,1,2,3,0.06,0.11,19,0.17
+2023-2024,Valentín Barco,"DF,FW",Brighton,307,6,0,0,0,0,0,19,0
+2023-2024,Jáder Durán,"FW,MF",Aston Villa,475,23,5,0,5,0.95,0,19,0.95
+2023-2024,Julio Enciso,"MF,FW",Brighton,475,12,0,2,2,0,0.38,19,0.38
+2023-2024,Alejandro Garnacho,FW,Manchester Utd,2565,36,7,4,11,0.25,0.14,19,0.39
+2023-2024,William Osula,FW,Sheffield Utd,786,21,0,0,0,0,0,19,0
+2024-2025,Facundo Buonanotte,"FW,MF",Leicester City,1523,31,5,2,7,0.3,0.12,19,0.41
+2024-2025,Wilson Odobert,"FW,MF",Tottenham,850,16,1,0,1,0.11,0,19,0.11
+2024-2025,Mathys Tel,FW,Tottenham,911,13,2,1,3,0.2,0.1,19,0.3
+2010-2011,Marc Albrighton,"DF,FW",Aston Villa,1799,29,5,4,9,0.25,0.2,20,0.45
+2010-2011,Junior Hoilett,"FW,MF",Blackburn,1494,24,5,1,6,0.3,0.06,20,0.36
+2010-2011,Freddie Sears,"FW,MF",West Ham,759,11,1,0,1,0.12,0,20,0.12
+2010-2011,Junior Stanislas,"FW,MF",West Ham,348,6,1,0,1,0.26,0,20,0.26
+2010-2011,Daniel Sturridge,"FW,MF",Bolton,972,12,8,0,8,0.74,0,20,0.74
+2011-2012,Mario Balotelli,FW,Manchester City,1328,23,13,1,14,0.88,0.07,20,0.95
+2011-2012,Ji Dong-won,"FW,MF",Sunderland,453,19,2,2,4,0.4,0.4,20,0.79
+2011-2012,Victor Moses,"DF,FW",Wigan Athletic,3212,38,6,1,7,0.17,0.03,20,0.2
+2011-2012,Rubén Rochina,"FW,MF",Blackburn,818,18,2,0,2,0.22,0,20,0.22
+2011-2012,Danny Welbeck,"FW,MF",Manchester Utd,2012,30,9,4,13,0.4,0.18,20,0.58
+2012-2013,Philippe Coutinho,"FW,MF",Liverpool,923,13,3,5,8,0.29,0.49,20,0.78
+2012-2013,Alexander Ka?anikli?,"FW,MF",Fulham,1255,20,4,2,6,0.29,0.14,20,0.43
+2012-2013,Oscar,"FW,MF",Chelsea,2292,34,4,5,9,0.16,0.2,20,0.35
+2012-2013,Andreas Weimann,"FW,MF",Aston Villa,2242,30,7,2,9,0.28,0.08,20,0.36
+2013-2014,Harry Kane,FW,Tottenham,499,10,3,0,3,0.54,0,20,0.54
+2013-2014,Connor Wickham,"FW,MF",Sunderland,849,15,5,1,6,0.53,0.11,20,0.64
+2014-2015,Saido Berahino,"FW,MF",West Brom,2924,38,14,1,15,0.43,0.03,20,0.46
+2014-2015,Lazar Markovi?,"FW,MF",Liverpool,934,19,2,1,3,0.19,0.1,20,0.29
+2014-2015,Alex Oxlade-Chamberlain,"FW,MF",Arsenal,1490,23,1,1,2,0.06,0.06,20,0.12
+2015-2016,Aleksandar Mitrovi?,FW,Newcastle Utd,2118,34,9,4,13,0.38,0.17,20,0.55
+2015-2016,Divock Origi,"FW,MF",Liverpool,670,16,5,1,6,0.67,0.13,20,0.81
+2015-2016,Raheem Sterling,"FW,MF",Manchester City,1920,31,6,2,8,0.28,0.09,20,0.37
+2016-2017,Dele Alli,"FW,MF",Tottenham,3034,37,18,7,25,0.53,0.21,20,0.74
+2016-2017,Ashley Fletcher,FW,West Ham,367,16,0,0,0,0,0,20,0
+2016-2017,Lynden Gooch,"DF,FW",Sunderland,366,11,0,0,0,0,0,20,0
+2016-2017,Demarai Gray,"FW,MF",Leicester City,1049,30,1,3,4,0.09,0.26,20,0.34
+2016-2017,Jordon Ibe,"FW,MF",Bournemouth,1055,25,0,0,0,0,0,20,0
+2016-2017,Alex Iwobi,"FW,MF",Arsenal,1456,26,3,4,7,0.19,0.25,20,0.43
+2016-2017,Anthony Martial,"FW,MF",Manchester Utd,1554,25,4,5,9,0.23,0.29,20,0.52
+2016-2017,Leroy Sané,"FW,MF",Manchester City,1781,26,5,2,7,0.25,0.1,20,0.35
+2016-2017,Isaac Success,"FW,MF",Watford,519,19,1,1,2,0.17,0.17,20,0.35
+2016-2017,Adama Traoré,"FW,MF",Middlesbrough,1541,27,0,1,1,0,0.06,20,0.06
+2017-2018,Izzy Brown,"MF,FW",Brighton,311,13,0,0,0,0,0,20,0
+2017-2018,Oliver Burke,"FW,MF",West Brom,367,15,0,2,2,0,0.49,20,0.49
+2017-2018,Dominic Calvert-Lewin,FW,Everton,1882,32,4,6,10,0.19,0.29,20,0.48
+2017-2018,Kelechi Iheanacho,"FW,MF",Leicester City,830,21,3,3,6,0.33,0.33,20,0.65
+2017-2018,Gabriel Jesus,FW,Manchester City,1668,29,13,3,16,0.7,0.16,20,0.86
+2017-2018,Richarlison,"FW,MF",Watford,2823,38,5,4,9,0.16,0.13,20,0.29
+2017-2018,Ramadan Sobhi,"MF,FW",Stoke City,1238,24,2,0,2,0.15,0,20,0.15
+2018-2019,Harvey Barnes,"MF,FW",Leicester City,1004,16,1,2,3,0.09,0.18,20,0.27
+2018-2019,Grady Diangana,"MF,FW",West Ham,609,17,0,1,1,0,0.15,20,0.15
+2018-2019,Karlan Grant,FW,Huddersfield,877,13,4,0,4,0.41,0,20,0.41
+2018-2019,Ademola Lookman,"FW,MF",Everton,618,21,0,2,2,0,0.29,20,0.29
+2018-2019,Marcus Rashford,FW,Manchester Utd,2334,33,10,6,16,0.39,0.23,20,0.62
+2018-2019,Dominic Solanke,"FW,MF",Bournemouth,347,10,0,1,1,0,0.26,20,0.26
+2019-2020,Alexis Mac Allister,"MF,FW",Brighton,352,9,0,0,0,0,0,20,0
+2019-2020,Mason Mount,"MF,FW",Chelsea,2867,37,7,5,12,0.22,0.16,20,0.38
+2019-2020,Eddie Nketiah,FW,Arsenal,633,13,2,0,2,0.28,0,20,0.28
+2019-2020,Christian Pulisic,FW,Chelsea,1722,25,9,4,13,0.47,0.21,20,0.68
+2020-2021,Rhian Brewster,"FW,MF",Sheffield Utd,1128,27,0,0,0,0,0,20,0
+2020-2021,Aaron Connolly,FW,Brighton,791,17,2,1,3,0.23,0.11,20,0.34
+2020-2021,Phil Foden,"FW,MF",Manchester City,1616,28,9,5,14,0.5,0.28,20,0.78
+2020-2021,Morgan Gibbs-White,"MF,FW",Wolves,414,11,1,0,1,0.22,0,20,0.22
+2020-2021,Ben Johnson,"DF,FW",West Ham,523,14,1,0,1,0.17,0,20,0.17
+2020-2021,Pedro Neto,"FW,MF",Wolves,2550,31,5,6,11,0.18,0.21,20,0.39
+2020-2021,Emile Smith Rowe,"MF,FW",Arsenal,1440,20,2,4,6,0.12,0.25,20,0.37
+2020-2021,Ferrán Torres,"FW,MF",Manchester City,1306,24,7,2,9,0.48,0.14,20,0.62
+2021-2022,Anthony Gordon,"MF,FW",Everton,2285,35,4,2,6,0.16,0.08,20,0.24
+2021-2022,Callum Hudson-Odoi,"MF,FW",Chelsea,962,15,1,2,3,0.09,0.19,20,0.28
+2021-2022,Adam Idah,"FW,MF",Norwich City,625,17,1,1,2,0.14,0.14,20,0.29
+2021-2022,Tariq Lamptey,"DF,FW",Brighton,1561,30,0,2,2,0,0.12,20,0.12
+2021-2022,Gabriel Martinelli,"FW,MF",Arsenal,1860,29,6,6,12,0.29,0.29,20,0.58
+2022-2023,Anthony Elanga,FW,Manchester Utd,426,16,0,1,1,0,0.21,20,0.21
+2022-2023,Sam Greenwood,"MF,FW",Leeds United,424,18,1,2,3,0.21,0.42,20,0.64
+2022-2023,Noni Madueke,FW,Chelsea,643,12,1,0,1,0.14,0,20,0.14
+2022-2023,Sekou Mara,"FW,MF",Southampton,555,22,1,2,3,0.16,0.32,20,0.49
+2022-2023,Michael Olise,"FW,MF",Crystal Palace,2749,37,2,11,13,0.07,0.36,20,0.43
+2022-2023,Dango Ouattara,"MF,FW",Bournemouth,1241,19,1,3,4,0.07,0.22,20,0.29
+2022-2023,Cole Palmer,"MF,FW",Manchester City,370,14,0,1,1,0,0.24,20,0.24
+2022-2023,Bukayo Saka,FW,Arsenal,3181,38,14,11,25,0.4,0.31,20,0.71
+2022-2023,Kevin Schade,FW,Brentford,732,18,0,1,1,0,0.12,20,0.12
+2022-2023,Kamaldeen Sulemana,"FW,MF",Southampton,966,18,2,1,3,0.19,0.09,20,0.28
+2022-2023,Crysencio Summerville,FW,Leeds United,1426,28,4,2,6,0.25,0.13,20,0.38
+2023-2024,Elliot Anderson,"MF,FW",Newcastle Utd,1027,21,0,2,2,0,0.18,20,0.18
+2023-2024,Oscar Bobb,"FW,MF",Manchester City,302,14,1,1,2,0.3,0.3,20,0.6
+2023-2024,David Datro Fofana,FW,Burnley,879,15,4,1,5,0.41,0.1,20,0.51
+2023-2024,Harvey Elliott,"MF,FW",Liverpool,1352,34,3,6,9,0.2,0.4,20,0.6
+2023-2024,Ansu Fati,"MF,FW",Brighton,521,19,2,0,2,0.35,0,20,0.35
+2023-2024,Rasmus Højlund,FW,Manchester Utd,2158,30,10,2,12,0.42,0.08,20,0.5
+2023-2024,James Mcatee,"MF,FW",Sheffield Utd,1822,30,3,3,6,0.15,0.15,20,0.3
+2023-2024,Aaron Ramsey,"MF,FW",Burnley,527,14,0,0,0,0,0,20,0
+2023-2024,Bénie Traoré,"FW,MF",Sheffield Utd,387,8,0,0,0,0,0,20,0
+2024-2025,Jáder Durán,FW,Aston Villa,638,20,7,0,7,0.99,0,20,0.99
+2024-2025,Julio Enciso,"MF,FW",Ipswich Town,869,13,2,3,5,0.21,0.31,20,0.52
+2024-2025,Abdul Fatawu Issahaku,FW,Leicester City,579,11,0,2,2,0,0.31,20,0.31
+2024-2025,Alejandro Garnacho,"MF,FW",Manchester Utd,2199,36,6,2,8,0.25,0.08,20,0.33
+2024-2025,Brajan Gruda,"MF,FW",Brighton,687,21,1,4,5,0.13,0.52,20,0.66
+2024-2025,Omari Hutchinson,"MF,FW",Ipswich Town,2583,31,3,2,5,0.1,0.07,20,0.17
+2024-2025,Bilal El Khannouss,"MF,FW",Leicester City,2182,32,2,3,5,0.08,0.12,20,0.21
+2024-2025,Yankuba Minteh,"FW,MF",Brighton,1838,32,6,4,10,0.29,0.2,20,0.49
+2024-2025,Sávio,"FW,MF",Manchester City,1766,29,1,8,9,0.05,0.41,20,0.46
+2010-2011,Gareth Bale,"FW,MF",Tottenham,2447,30,7,1,8,0.26,0.04,21,0.29
+2010-2011,Giles Barnes,"FW,MF",West Brom,318,14,0,0,0,0,0,21,0
+2010-2011,Andy Carroll,FW,Liverpool,445,7,2,0,2,0.4,0,21,0.4
+2010-2011,Franco Di Santo,FW,Wigan Athletic,928,25,1,2,3,0.1,0.19,21,0.29
+2010-2011,Zavon Hines,"FW,MF",West Ham,406,9,0,0,0,0,0,21,0
+2010-2011,David N'Gog,FW,Liverpool,1065,25,2,1,3,0.17,0.08,21,0.25
+2010-2011,Theo Walcott,"FW,MF",Arsenal,1691,28,9,7,16,0.48,0.37,21,0.85
+2011-2012,Marc Albrighton,"DF,FW",Aston Villa,1498,26,2,2,4,0.12,0.12,21,0.24
+2011-2012,Magaye Gueye,"FW,MF",Everton,550,17,1,2,3,0.16,0.33,21,0.49
+2011-2012,Junior Hoilett,"FW,MF",Blackburn,2948,34,7,5,12,0.21,0.15,21,0.37
+2011-2012,Gylfi Sigurðsson,"FW,MF",Swansea City,1494,18,7,3,10,0.42,0.18,21,0.6
+2011-2012,Daniel Sturridge,"FW,MF",Chelsea,2251,30,11,3,14,0.44,0.12,21,0.56
+2012-2013,Mario Balotelli,FW,Manchester City,590,14,1,0,1,0.15,0,21,0.15
+2012-2013,Christian Benteke,FW,Aston Villa,2818,34,19,4,23,0.61,0.13,21,0.73
+2012-2013,Fabio Borini,"FW,MF",Liverpool,513,13,1,0,1,0.18,0,21,0.18
+2012-2013,Jordan Bowery,"DF,FW",Aston Villa,302,10,0,0,0,0,0,21,0
+2012-2013,Eden Hazard,"FW,MF",Chelsea,2624,34,9,11,20,0.31,0.38,21,0.69
+2012-2013,Callum McManaman,"FW,MF",Wigan Athletic,641,20,2,0,2,0.28,0,21,0.28
+2012-2013,Victor Moses,"DF,FW",Chelsea,1125,23,1,1,2,0.08,0.08,21,0.16
+2012-2013,Gastón Ramírez,"FW,MF",Southampton,1679,26,5,3,8,0.27,0.16,21,0.43
+2012-2013,Danny Welbeck,"FW,MF",Manchester Utd,1301,27,1,4,5,0.07,0.28,21,0.35
+2013-2014,Sammy Ameobi,"FW,MF",Newcastle Utd,376,10,0,0,0,0,0,21,0
+2013-2014,Robbie Brady,"DF,FW",Hull City,889,16,3,1,4,0.3,0.1,21,0.4
+2013-2014,Philippe Coutinho,"FW,MF",Liverpool,2325,33,5,7,12,0.19,0.27,21,0.46
+2013-2014,Christian Eriksen,"FW,MF",Tottenham,1975,25,7,8,15,0.32,0.36,21,0.68
+2013-2014,Tom Ince,"FW,MF",Crystal Palace,411,8,1,1,2,0.22,0.22,21,0.44
+2013-2014,Alexander Ka?anikli?,"FW,MF",Fulham,1298,23,1,0,1,0.07,0,21,0.07
+2013-2014,Pajtim Kasami,"FW,MF",Fulham,1810,29,3,0,3,0.15,0,21,0.15
+2013-2014,Érik Lamela,"FW,MF",Tottenham,330,9,0,1,1,0,0.27,21,0.27
+2013-2014,Oscar,"FW,MF",Chelsea,2134,33,8,2,10,0.34,0.08,21,0.42
+2013-2014,Alejandro Pozuelo,"FW,MF",Swansea City,880,22,0,1,1,0,0.1,21,0.1
+2013-2014,Mohamed Salah,"FW,MF",Chelsea,501,10,2,1,3,0.36,0.18,21,0.54
+2013-2014,Mat?j Vydra,"FW,MF",West Brom,676,23,3,3,6,0.4,0.4,21,0.8
+2013-2014,Andreas Weimann,"FW,MF",Aston Villa,2649,37,5,4,9,0.17,0.14,21,0.31
+2014-2015,Carles Gil,"FW,MF",Aston Villa,359,5,0,1,1,0,0.25,21,0.25
+2014-2015,Harry Kane,FW,Tottenham,2581,34,21,4,25,0.73,0.14,21,0.87
+2014-2015,Romelu Lukaku,FW,Everton,2870,36,10,5,15,0.31,0.16,21,0.47
+2014-2015,Ayoze Pérez,"FW,MF",Newcastle Utd,2369,36,7,0,7,0.27,0,21,0.27
+2014-2015,Jeffrey Schlupp,"DF,FW",Leicester City,2531,32,3,2,5,0.11,0.07,21,0.18
+2014-2015,Connor Wickham,"FW,MF",Sunderland,2768,36,5,1,6,0.16,0.03,21,0.2
+2014-2015,Wilfried Zaha,"FW,MF",Crystal Palace,1977,31,4,2,6,0.18,0.09,21,0.27
+2015-2016,Saido Berahino,"FW,MF",West Brom,1746,31,4,0,4,0.21,0,21,0.21
+2015-2016,Gerard Deulofeu,"FW,MF",Everton,1383,26,2,8,10,0.13,0.52,21,0.65
+2015-2016,Memphis,"FW,MF",Manchester Utd,1484,29,2,0,2,0.12,0,21,0.12
+2015-2016,Alex Oxlade-Chamberlain,"FW,MF",Arsenal,926,22,1,0,1,0.1,0,21,0.1
+2015-2016,Nathan Redmond,"FW,MF",Norwich City,2341,35,6,3,9,0.23,0.12,21,0.35
+2015-2016,Duncan Watmore,"FW,MF",Sunderland,919,23,3,1,4,0.29,0.1,21,0.39
+2016-2017,Adnan Januzaj,"FW,MF",Sunderland,1629,25,0,2,2,0,0.11,21,0.11
+2016-2017,M'Baye Niang,"FW,MF",Watford,1246,16,2,2,4,0.14,0.14,21,0.29
+2016-2017,Divock Origi,"FW,MF",Liverpool,1468,34,7,3,10,0.43,0.18,21,0.61
+2016-2017,Raheem Sterling,"FW,MF",Manchester City,2508,33,7,8,15,0.25,0.29,21,0.54
+2017-2018,Dele Alli,"MF,FW",Tottenham,2958,36,9,10,19,0.27,0.3,21,0.58
+2017-2018,Fousseni Diabaté,"MF,FW",Leicester City,587,14,0,1,1,0,0.15,21,0.15
+2017-2018,Demarai Gray,"MF,FW",Leicester City,1697,35,3,1,4,0.16,0.05,21,0.21
+2017-2018,Jordon Ibe,"MF,FW",Bournemouth,1995,32,2,6,8,0.09,0.27,21,0.36
+2017-2018,Alex Iwobi,"MF,FW",Arsenal,1830,26,3,5,8,0.15,0.25,21,0.39
+2017-2018,Anthony Martial,FW,Manchester Utd,1582,30,9,5,14,0.51,0.28,21,0.8
+2017-2018,Lys Mousset,"FW,MF",Bournemouth,596,23,2,0,2,0.3,0,21,0.3
+2017-2018,Leroy Sané,FW,Manchester City,2419,32,10,15,25,0.37,0.56,21,0.93
+2017-2018,Alexander Sørloth,FW,Crystal Palace,360,4,0,0,0,0,0,21,0
+2018-2019,David Brooks,"MF,FW",Bournemouth,2261,30,7,5,12,0.28,0.2,21,0.48
+2018-2019,Dominic Calvert-Lewin,FW,Everton,1784,35,6,2,8,0.3,0.1,21,0.4
+2018-2019,Kelechi Iheanacho,"FW,MF",Leicester City,941,30,1,3,4,0.1,0.29,21,0.38
+2018-2019,Gabriel Jesus,FW,Manchester City,1036,29,7,3,10,0.61,0.26,21,0.87
+2018-2019,Diogo Jota,"FW,MF",Wolves,2355,33,9,5,14,0.34,0.19,21,0.54
+2018-2019,James Maddison,"MF,FW",Leicester City,2831,36,7,7,14,0.22,0.22,21,0.45
+2018-2019,Richarlison,"FW,MF",Everton,2665,35,13,1,14,0.44,0.03,21,0.47
+2019-2020,Tammy Abraham,FW,Chelsea,2215,34,15,3,18,0.61,0.12,21,0.73
+2019-2020,Harvey Barnes,"MF,FW",Leicester City,2083,36,6,8,14,0.26,0.35,21,0.6
+2019-2020,Steven Bergwijn,"FW,MF",Tottenham,704,14,3,1,4,0.38,0.13,21,0.51
+2019-2020,Todd Cantwell,"FW,MF",Norwich City,2489,37,6,2,8,0.22,0.07,21,0.29
+2019-2020,Keinan Davis,FW,Aston Villa,548,18,0,0,0,0,0,21,0
+2019-2020,Daniel James,FW,Manchester Utd,2287,33,3,6,9,0.12,0.24,21,0.35
+2019-2020,Marcus Rashford,FW,Manchester Utd,2643,31,17,7,24,0.58,0.24,21,0.82
+2019-2020,Ismaila Sarr,"FW,MF",Watford,2028,28,5,4,9,0.22,0.18,21,0.4
+2019-2020,Dominic Solanke,FW,Bournemouth,1651,32,3,1,4,0.16,0.05,21,0.22
+2020-2021,Kai Havertz,"MF,FW",Chelsea,1520,27,4,3,7,0.24,0.18,21,0.41
+2020-2021,Alexis Mac Allister,"MF,FW",Brighton,1115,21,1,1,2,0.08,0.08,21,0.16
+2020-2021,Josh Maja,FW,Fulham,810,15,3,0,3,0.33,0,21,0.33
+2020-2021,Eddie Nketiah,FW,Arsenal,423,17,2,1,3,0.43,0.21,21,0.64
+2020-2021,Christian Pulisic,"FW,MF",Chelsea,1738,27,4,2,6,0.21,0.1,21,0.31
+2020-2021,Tyler Roberts,"MF,FW",Leeds United,1340,27,1,2,3,0.07,0.13,21,0.2
+2020-2021,Nathan Tella,"FW,MF",Southampton,745,18,1,1,2,0.12,0.12,21,0.24
+2021-2022,Phil Foden,FW,Manchester City,2128,28,9,5,14,0.38,0.21,21,0.59
+2021-2022,Dejan Kulusevski,"MF,FW",Tottenham,1261,18,5,8,13,0.36,0.57,21,0.93
+2021-2022,Bryan Mbeumo,FW,Brentford,2905,35,4,7,11,0.12,0.22,21,0.34
+2021-2022,Pedro Neto,"FW,MF",Wolves,466,13,1,1,2,0.19,0.19,21,0.39
+2021-2022,Jadon Sancho,"FW,MF",Manchester Utd,1900,29,3,3,6,0.14,0.14,21,0.28
+2021-2022,Josh Sargent,"FW,MF",Norwich City,1572,26,2,1,3,0.11,0.06,21,0.17
+2021-2022,Emile Smith Rowe,"MF,FW",Arsenal,1921,33,10,2,12,0.47,0.09,21,0.56
+2021-2022,Ferrán Torres,FW,Manchester City,303,4,2,1,3,0.59,0.3,21,0.89
+2021-2022,Francisco Trincão,"FW,MF",Wolves,1336,28,2,1,3,0.13,0.07,21,0.2
+2022-2023,Brenden Aaronson,"MF,FW",Leeds United,2372,36,1,3,4,0.04,0.11,21,0.15
+2022-2023,Anthony Gordon,"FW,MF",Newcastle Utd,487,16,1,0,1,0.18,0,21,0.18
+2022-2023,Brennan Johnson,"FW,MF",Nott'ham Forest,2934,38,8,3,11,0.25,0.09,21,0.34
+2022-2023,Keane Lewis-Potter,"FW,MF",Brentford,321,10,0,1,1,0,0.28,21,0.28
+2022-2023,Gabriel Martinelli,FW,Arsenal,2789,36,15,5,20,0.48,0.16,21,0.65
+2022-2023,Mykhailo Mudryk,"FW,MF",Chelsea,657,15,0,2,2,0,0.27,21,0.27
+2022-2023,Jacob Ramsey,"MF,FW",Aston Villa,2636,35,6,7,13,0.2,0.24,21,0.44
+2023-2024,Simon Adingra,FW,Brighton,2222,31,6,1,7,0.24,0.04,21,0.28
+2023-2024,Naouirou Ahamada,"MF,FW",Crystal Palace,349,20,0,0,0,0,0,21,0
+2023-2024,Armando Broja,FW,Chelsea,454,13,1,0,1,0.2,0,21,0.2
+2023-2024,Amad Diallo,"FW,MF",Manchester Utd,390,9,1,1,2,0.23,0.23,21,0.46
+2023-2024,Jeremy Doku,"FW,MF",Manchester City,1595,29,3,8,11,0.17,0.45,21,0.62
+2023-2024,Anthony Elanga,"FW,MF",Nott'ham Forest,2433,36,5,9,14,0.18,0.33,21,0.52
+2023-2024,João Pedro,"FW,MF",Brighton,2045,31,9,3,12,0.4,0.13,21,0.53
+2023-2024,Noni Madueke,FW,Chelsea,1053,23,5,2,7,0.43,0.17,21,0.6
+2023-2024,Michael Olise,"FW,MF",Crystal Palace,1275,19,10,6,16,0.71,0.42,21,1.13
+2023-2024,Dango Ouattara,"FW,DF",Bournemouth,1229,30,1,2,3,0.07,0.15,21,0.22
+2023-2024,Cole Palmer,"FW,MF",Chelsea,2607,33,22,11,33,0.76,0.38,21,1.14
+2023-2024,Morgan Rogers,"MF,FW",Aston Villa,638,11,3,1,4,0.42,0.14,21,0.56
+2023-2024,Bukayo Saka,FW,Arsenal,2919,35,16,9,25,0.49,0.28,21,0.77
+2023-2024,Kevin Schade,"FW,MF",Brentford,333,11,2,1,3,0.54,0.27,21,0.81
+2024-2025,Fabio Carvalho,"FW,MF",Brentford,455,19,2,1,3,0.4,0.2,21,0.59
+2024-2025,Liam Delap,FW,Ipswich Town,2593,37,12,2,14,0.42,0.07,21,0.49
+2024-2025,Rodrigo Gomes,"DF,FW",Wolves,810,25,2,0,2,0.22,0,21,0.22
+2024-2025,Rasmus Højlund,FW,Manchester Utd,2004,32,4,0,4,0.18,0,21,0.18
+2024-2025,James Mcatee,"MF,FW",Manchester City,349,15,3,0,3,0.77,0,21,0.77
+2010-2011,Victor Anichebe,FW,Everton,769,16,0,0,0,0,0,22,0
+2010-2011,Nicklas Bendtner,FW,Arsenal,511,17,2,1,3,0.35,0.18,22,0.53
+2010-2011,Mame Biram Diouf,"FW,MF",Blackburn,1630,27,3,1,4,0.17,0.06,22,0.22
+2010-2011,Lee Chung-yong,"FW,MF",Bolton,2185,31,3,6,9,0.12,0.25,22,0.37
+2010-2011,Elliot Grandin,"FW,MF",Blackpool,1499,23,1,3,4,0.06,0.18,22,0.24
+2010-2011,Adam Hammill,"FW,MF",Wolves,536,10,0,1,1,0,0.17,22,0.17
+2010-2011,Javier Hernández,FW,Manchester Utd,1492,27,13,1,14,0.78,0.06,22,0.84
+2010-2011,Nikola Kalini?,FW,Blackburn,1061,18,5,1,6,0.42,0.08,22,0.51
+2011-2012,Gareth Bale,"FW,MF",Tottenham,3216,36,9,10,19,0.25,0.28,22,0.53
+2011-2012,Andy Carroll,FW,Liverpool,2074,35,4,2,6,0.17,0.09,22,0.26
+2011-2012,Franco Di Santo,FW,Wigan Athletic,2024,32,7,1,8,0.31,0.04,22,0.36
+2011-2012,David Goodwillie,FW,Blackburn,611,20,2,0,2,0.29,0,22,0.29
+2011-2012,James McClean,"DF,FW",Sunderland,1845,23,5,2,7,0.24,0.1,22,0.34
+2011-2012,David N'Gog,FW,Bolton,2031,33,3,4,7,0.13,0.18,22,0.31
+2011-2012,Gabriel Obertan,"FW,MF",Newcastle Utd,1552,23,1,3,4,0.06,0.17,22,0.23
+2011-2012,Ryan Shotton,"DF,FW",Stoke City,1396,23,1,1,2,0.06,0.06,22,0.13
+2011-2012,Scott Sinclair,"FW,MF",Swansea City,3120,38,8,4,12,0.23,0.12,22,0.35
+2011-2012,Adel Taarabt,"FW,MF",QPR,2004,27,2,3,5,0.09,0.13,22,0.22
+2011-2012,Theo Walcott,"FW,MF",Arsenal,2727,35,8,8,16,0.26,0.26,22,0.53
+2012-2013,Marc Albrighton,"DF,FW",Aston Villa,429,9,0,0,0,0,0,22,0
+2012-2013,Nick Blackman,"FW,MF",Reading,394,11,0,1,1,0,0.23,22,0.23
+2012-2013,Junior Hoilett,"FW,MF",QPR,1456,26,1,1,2,0.06,0.06,22,0.12
+2012-2013,Gylfi Sigurðsson,"FW,MF",Tottenham,1235,33,3,4,7,0.22,0.29,22,0.51
+2012-2013,Moussa Sissoko,"FW,MF",Newcastle Utd,1067,12,3,2,5,0.25,0.17,22,0.42
+2012-2013,Daniel Sturridge,"FW,MF",Liverpool,1085,14,10,3,13,0.83,0.25,22,1.08
+2013-2014,Christian Benteke,FW,Aston Villa,2126,26,10,2,12,0.42,0.08,22,0.51
+2013-2014,Fabio Borini,"FW,MF",Sunderland,2142,32,7,2,9,0.29,0.08,22,0.38
+2013-2014,Dwight Gayle,FW,Crystal Palace,891,23,7,0,7,0.71,0,22,0.71
+2013-2014,Eden Hazard,"FW,MF",Chelsea,2887,35,14,7,21,0.44,0.22,22,0.65
+2013-2014,Luuk de Jong,FW,Newcastle Utd,667,12,0,1,1,0,0.13,22,0.13
+2013-2014,Victor Moses,"DF,FW",Liverpool,652,19,1,0,1,0.14,0,22,0.14
+2013-2014,Gastón Ramírez,"FW,MF",Southampton,522,18,1,3,4,0.17,0.52,22,0.69
+2013-2014,André Schürrle,"FW,MF",Chelsea,1329,30,8,2,10,0.54,0.14,22,0.68
+2013-2014,Andros Townsend,"FW,MF",Tottenham,1234,25,1,0,1,0.07,0,22,0.07
+2013-2014,Álvaro Vázquez,FW,Swansea City,413,12,0,1,1,0,0.22,22,0.22
+2013-2014,Danny Welbeck,"FW,MF",Manchester Utd,1460,25,9,1,10,0.55,0.06,22,0.62
+2014-2015,Sammy Ameobi,"FW,MF",Newcastle Utd,1418,25,2,2,4,0.13,0.13,22,0.25
+2014-2015,Robbie Brady,"DF,FW",Hull City,1759,27,0,2,2,0,0.1,22,0.1
+2014-2015,Philippe Coutinho,"FW,MF",Liverpool,2792,35,5,5,10,0.16,0.16,22,0.32
+2014-2015,Christian Eriksen,"FW,MF",Tottenham,3131,38,10,2,12,0.29,0.06,22,0.34
+2014-2015,Tom Ince,"FW,MF",Hull City,301,7,0,0,0,0,0,22,0
+2014-2015,Danny Ings,FW,Burnley,3024,35,11,4,15,0.33,0.12,22,0.45
+2014-2015,Anthony Knockaert,"FW,MF",Leicester City,335,9,0,0,0,0,0,22,0
+2014-2015,Érik Lamela,"FW,MF",Tottenham,2299,33,2,7,9,0.08,0.27,22,0.35
+2014-2015,Sadio Mané,"FW,MF",Southampton,2130,30,10,3,13,0.42,0.13,22,0.55
+2014-2015,Nélson Oliveira,FW,Swansea City,389,10,1,0,1,0.23,0,22,0.23
+2014-2015,Oscar,"FW,MF",Chelsea,2020,28,6,8,14,0.27,0.36,22,0.62
+2014-2015,Andreas Weimann,"FW,MF",Aston Villa,1775,31,3,2,5,0.15,0.1,22,0.25
+2014-2015,Filip ?uri?i?,"FW,MF",Southampton,329,9,0,0,0,0,0,22,0
+2015-2016,Benik Afobe,FW,Bournemouth,930,15,4,0,4,0.39,0,22,0.39
+2015-2016,Modou Barrow,"FW,MF",Swansea City,791,22,1,2,3,0.11,0.23,22,0.34
+2015-2016,Carles Gil,"FW,MF",Aston Villa,1435,23,2,0,2,0.13,0,22,0.13
+2015-2016,Harry Kane,FW,Tottenham,3361,38,25,1,26,0.67,0.03,22,0.7
+2015-2016,Manuel Lanzini,"FW,MF",West Ham,1910,26,6,2,8,0.28,0.09,22,0.38
+2015-2016,Jesse Lingard,"FW,MF",Manchester Utd,1632,25,4,1,5,0.22,0.06,22,0.28
+2015-2016,Romelu Lukaku,FW,Everton,3169,37,18,6,24,0.51,0.17,22,0.68
+2015-2016,Ayoze Pérez,"FW,MF",Newcastle Utd,2048,34,6,2,8,0.26,0.09,22,0.35
+2015-2016,Jeffrey Schlupp,"DF,FW",Leicester City,1387,24,1,2,3,0.06,0.13,22,0.19
+2015-2016,Florian Thauvin,"FW,MF",Newcastle Utd,427,13,0,0,0,0,0,22,0
+2015-2016,Connor Wickham,"FW,MF",Crystal Palace,1320,21,5,3,8,0.34,0.2,22,0.55
+2015-2016,Wilfried Zaha,"FW,MF",Crystal Palace,2488,34,2,1,3,0.07,0.04,22,0.11
+2016-2017,Saido Berahino,"FW,MF",Stoke City,720,13,0,0,0,0,0,22,0
+2016-2017,Sofiane Boufal,"FW,MF",Southampton,1104,24,1,1,2,0.08,0.08,22,0.16
+2016-2017,Jonathan Calleri,FW,West Ham,540,16,1,0,1,0.17,0,22,0.17
+2016-2017,Gerard Deulofeu,"FW,MF",Everton,460,11,0,0,0,0,0,22,0
+2016-2017,Viktor Fischer,"FW,MF",Middlesbrough,438,13,0,3,3,0,0.62,22,0.62
+2016-2017,Ryan Fraser,"FW,MF",Bournemouth,1764,28,3,5,8,0.15,0.26,22,0.41
+2016-2017,Vincent Janssen,FW,Tottenham,845,27,2,2,4,0.21,0.21,22,0.43
+2016-2017,Lazar Markovi?,"FW,MF",Hull City,1005,12,2,0,2,0.18,0,22,0.18
+2016-2017,Alex Oxlade-Chamberlain,"FW,MF",Arsenal,1564,29,2,7,9,0.12,0.4,22,0.52
+2016-2017,Nathan Redmond,"FW,MF",Southampton,2899,37,7,1,8,0.22,0.03,22,0.25
+2016-2017,Duncan Watmore,"FW,MF",Sunderland,1024,14,0,2,2,0,0.18,22,0.18
+2017-2018,Steve Mounié,FW,Huddersfield,1855,28,7,1,8,0.34,0.05,22,0.39
+2017-2018,Jacob Murphy,"MF,FW",Newcastle Utd,1148,25,1,1,2,0.08,0.08,22,0.16
+2017-2018,Bernardo Silva,"FW,MF",Manchester City,1533,35,6,4,10,0.35,0.23,22,0.59
+2017-2018,Raheem Sterling,FW,Manchester City,2586,33,18,11,29,0.63,0.38,22,1.01
+2017-2018,James Ward-Prowse,"FW,MF",Southampton,1716,30,3,3,6,0.16,0.16,22,0.31
+2018-2019,Adama Diakhaby,"FW,MF",Huddersfield,552,12,0,0,0,0,0,22,0
+2018-2019,Demarai Gray,"FW,MF",Leicester City,1985,34,4,1,5,0.18,0.05,22,0.23
+2018-2019,Alex Iwobi,"FW,MF",Arsenal,1970,35,3,6,9,0.14,0.27,22,0.41
+2018-2019,Ruben Loftus-Cheek,"MF,FW",Chelsea,998,24,6,2,8,0.54,0.18,22,0.72
+2018-2019,Anthony Martial,FW,Manchester Utd,1621,27,10,2,12,0.56,0.11,22,0.67
+2018-2019,Isaac Mbenza,"FW,MF",Huddersfield,986,22,1,1,2,0.09,0.09,22,0.18
+2018-2019,Lys Mousset,FW,Bournemouth,368,24,1,0,1,0.24,0,22,0.24
+2018-2019,Leroy Sané,FW,Manchester City,1867,31,10,10,20,0.48,0.48,22,0.96
+2018-2019,Isaac Success,"FW,MF",Watford,1052,30,1,1,2,0.09,0.09,22,0.17
+2018-2019,Adama Traoré,"FW,MF",Wolves,902,29,1,1,2,0.1,0.1,22,0.2
+2019-2020,Jarrod Bowen,"FW,MF",West Ham,917,13,1,4,5,0.1,0.39,22,0.49
+2019-2020,David Brooks,"MF,FW",Bournemouth,506,9,1,0,1,0.18,0,22,0.18
+2019-2020,Emi Buendía,"FW,MF",Norwich City,2464,36,1,7,8,0.04,0.26,22,0.29
+2019-2020,Dominic Calvert-Lewin,FW,Everton,2626,36,13,1,14,0.45,0.03,22,0.48
+2019-2020,Lewis Cook,"MF,FW",Bournemouth,1352,27,0,0,0,0,0,22,0
+2019-2020,Kelechi Iheanacho,FW,Leicester City,960,20,5,3,8,0.47,0.28,22,0.75
+2019-2020,Gabriel Jesus,FW,Manchester City,2030,34,14,7,21,0.62,0.31,22,0.93
+2019-2020,Joelinton,FW,Newcastle Utd,2683,38,2,2,4,0.07,0.07,22,0.13
+2019-2020,Diogo Jota,FW,Wolves,2284,34,7,1,8,0.28,0.04,22,0.32
+2019-2020,Neal Maupay,FW,Brighton,2766,37,10,3,13,0.33,0.1,22,0.42
+2019-2020,Wesley Moraes,FW,Aston Villa,1782,21,5,1,6,0.25,0.05,22,0.3
+2019-2020,Richarlison,"FW,MF",Everton,3070,36,13,3,16,0.38,0.09,22,0.47
+2019-2020,Allan Saint-Maximin,"MF,FW",Newcastle Utd,1863,26,3,4,7,0.14,0.19,22,0.34
+2019-2020,Harry Wilson,"MF,FW",Bournemouth,1646,31,7,0,7,0.38,0,22,0.38
+2020-2021,Tammy Abraham,FW,Chelsea,1040,22,6,1,7,0.52,0.09,22,0.61
+2020-2021,Harvey Barnes,"FW,MF",Leicester City,1945,25,9,4,13,0.42,0.19,22,0.6
+2020-2021,Steven Bergwijn,"FW,MF",Tottenham,1208,21,1,3,4,0.07,0.22,22,0.3
+2020-2021,Grady Diangana,"MF,FW",West Brom,1235,20,1,0,1,0.07,0,22,0.07
+2020-2021,Karlan Grant,"FW,MF",West Brom,1127,21,1,0,1,0.08,0,22,0.08
+2020-2021,Daniel James,FW,Manchester Utd,910,15,3,1,4,0.3,0.1,22,0.4
+2020-2021,Ademola Lookman,"FW,MF",Fulham,2747,34,4,4,8,0.13,0.13,22,0.26
+2020-2021,Marcus Rashford,FW,Manchester Utd,2920,37,11,9,20,0.34,0.28,22,0.62
+2021-2022,Cucho,"FW,MF",Watford,1147,25,5,2,7,0.39,0.16,22,0.55
+2021-2022,Patson Daka,FW,Leicester City,1159,23,5,3,8,0.39,0.23,22,0.62
+2021-2022,Kai Havertz,"FW,MF",Chelsea,1809,29,8,3,11,0.4,0.15,22,0.55
+2021-2022,Alexis Mac Allister,"MF,FW",Brighton,2123,33,5,2,7,0.21,0.08,22,0.3
+2021-2022,Eddie Nketiah,FW,Arsenal,835,21,5,1,6,0.54,0.11,22,0.65
+2021-2022,Christian Pulisic,"MF,FW",Chelsea,1290,22,6,2,8,0.42,0.14,22,0.56
+2021-2022,Tyler Roberts,"MF,FW",Leeds United,987,23,1,1,2,0.09,0.09,22,0.18
+2021-2022,Nathan Tella,"MF,FW",Southampton,804,14,0,1,1,0,0.11,22,0.11
+2021-2022,Martin Ødegaard,"MF,FW",Arsenal,2785,36,7,4,11,0.23,0.13,22,0.36
+2022-2023,Julián Álvarez,"FW,MF",Manchester City,1465,31,9,0,9,0.55,0,22,0.55
+2022-2023,Jaidon Anthony,"MF,FW",Bournemouth,1257,30,3,1,4,0.21,0.07,22,0.29
+2022-2023,Antony,FW,Manchester Utd,1802,25,4,2,6,0.2,0.1,22,0.3
+2022-2023,Mikkel Damsgaard,"MF,FW",Brentford,988,26,0,0,0,0,0,22,0
+2022-2023,João Félix,"FW,MF",Chelsea,941,16,4,0,4,0.38,0,22,0.38
+2022-2023,Phil Foden,FW,Manchester City,1842,32,11,6,17,0.54,0.29,22,0.83
+2022-2023,Erling Haaland,FW,Manchester City,2769,35,36,8,44,1.17,0.26,22,1.43
+2022-2023,Alexander Isak,FW,Newcastle Utd,1522,22,10,1,11,0.59,0.06,22,0.65
+2022-2023,Hamed Junior Traorè,"FW,MF",Bournemouth,427,7,0,0,0,0,0,22,0
+2022-2023,Dejan Kulusevski,"MF,FW",Tottenham,2067,30,2,7,9,0.09,0.3,22,0.39
+2022-2023,Bryan Mbeumo,FW,Brentford,2906,38,9,8,17,0.28,0.25,22,0.53
+2022-2023,Dwight McNeil,"FW,MF",Everton,2498,36,7,3,10,0.25,0.11,22,0.36
+2022-2023,Pedro Neto,"FW,MF",Wolves,964,18,0,0,0,0,0,22,0
+2022-2023,Jadon Sancho,"FW,MF",Manchester Utd,1686,26,6,3,9,0.32,0.16,22,0.48
+2022-2023,Tetê,FW,Leicester City,734,13,1,0,1,0.12,0,22,0.12
+2022-2023,Fabio Vieira,"MF,FW",Arsenal,514,22,1,2,3,0.18,0.35,22,0.53
+2023-2024,Zeki Amdouni,FW,Burnley,1953,34,5,1,6,0.23,0.05,22,0.28
+2023-2024,Cameron Archer,"FW,MF",Sheffield Utd,1832,29,4,1,5,0.2,0.05,22,0.25
+2023-2024,Lyle Foster,"FW,MF",Burnley,1899,24,5,3,8,0.24,0.14,22,0.38
+2023-2024,Anthony Gordon,FW,Newcastle Utd,2890,35,11,10,21,0.34,0.31,22,0.65
+2023-2024,Callum Hudson-Odoi,"FW,MF",Nott'ham Forest,1854,29,8,1,9,0.39,0.05,22,0.44
+2023-2024,Nicolas Jackson,FW,Chelsea,2799,35,14,5,19,0.45,0.16,22,0.61
+2023-2024,Brennan Johnson,FW,Tottenham,2085,32,5,10,15,0.22,0.43,22,0.65
+2023-2024,Mohammed Kudus,"FW,MF",West Ham,2484,33,8,6,14,0.29,0.22,22,0.51
+2023-2024,Tariq Lamptey,"DF,FW",Brighton,914,19,0,3,3,0,0.3,22,0.3
+2023-2024,Keane Lewis-Potter,"FW,DF",Brentford,1441,30,3,1,4,0.19,0.06,22,0.25
+2023-2024,Gabriel Martinelli,FW,Arsenal,2019,35,6,4,10,0.27,0.18,22,0.45
+2023-2024,Mykhailo Mudryk,FW,Chelsea,1576,31,5,2,7,0.29,0.11,22,0.4
+2023-2024,Rodrigo Muniz,FW,Fulham,1593,26,9,1,10,0.51,0.06,22,0.56
+2023-2024,Jacob Ramsey,"FW,MF",Aston Villa,853,16,1,1,2,0.11,0.11,22,0.21
+2024-2025,Simon Adingra,"FW,MF",Brighton,1097,29,2,2,4,0.16,0.16,22,0.33
+2024-2025,Armando Broja,FW,Everton,334,10,0,0,0,0,0,22,0
+2024-2025,Amad Diallo,"MF,FW",Manchester Utd,1901,26,8,6,14,0.38,0.28,22,0.66
+2024-2025,Jeremy Doku,"FW,MF",Manchester City,1516,29,3,6,9,0.18,0.36,22,0.53
+2024-2025,Anthony Elanga,"FW,MF",Nott'ham Forest,2501,38,6,11,17,0.22,0.4,22,0.61
+2024-2025,João Pedro,"FW,MF",Brighton,1948,27,10,6,16,0.46,0.28,22,0.74
+2024-2025,Noni Madueke,FW,Chelsea,2033,32,7,3,10,0.31,0.13,22,0.44
+2024-2025,Kasey McAteer,FW,Leicester City,852,18,1,1,2,0.11,0.11,22,0.21
+2024-2025,Dango Ouattara,FW,Bournemouth,2005,32,7,4,11,0.31,0.18,22,0.49
+2024-2025,Cole Palmer,"MF,FW",Chelsea,3191,37,15,8,23,0.42,0.23,22,0.65
+2024-2025,Jaden Philogene Bidace,"FW,MF",Aston Villa,332,11,0,0,0,0,0,22,0
+2024-2025,Morgan Rogers,"FW,MF",Aston Villa,3114,37,8,10,18,0.23,0.29,22,0.52
+2024-2025,Georginio Rutter,"MF,FW",Brighton,1656,28,5,3,8,0.27,0.16,22,0.43
+2024-2025,Bukayo Saka,"FW,MF",Arsenal,1729,25,6,10,16,0.31,0.52,22,0.83
+2024-2025,Kevin Schade,FW,Brentford,2293,38,11,2,13,0.43,0.08,22,0.51
+2024-2025,Kamaldeen Sulemana,"FW,MF",Southampton,1402,26,1,1,2,0.06,0.06,22,0.13
+2024-2025,Crysencio Summerville,"FW,MF",West Ham,786,19,1,1,2,0.11,0.11,22,0.23
+2010-2011,Gabriel Agbonlahor,"FW,MF",Aston Villa,1602,26,3,1,4,0.17,0.06,23,0.22
+2010-2011,Pablo Barrera,"FW,MF",West Ham,745,14,0,0,0,0,0,23,0
+2010-2011,Leon Best,FW,Newcastle Utd,741,11,6,0,6,0.73,0,23,0.73
+2010-2011,Simon Cox,FW,West Brom,772,19,1,0,1,0.12,0,23,0.12
+2010-2011,Graham Dorrans,"FW,MF",West Brom,1414,21,1,1,2,0.06,0.06,23,0.13
+2010-2011,Cesc Fàbregas,"FW,MF",Arsenal,1880,25,3,11,14,0.14,0.53,23,0.67
+2010-2011,Steven Fletcher,FW,Wolves,1394,29,10,2,12,0.65,0.13,23,0.77
+2010-2011,Cameron Jerome,FW,Birmingham City,2648,34,3,6,9,0.1,0.2,23,0.31
+2010-2011,Jô,FW,Manchester City,348,12,0,0,0,0,0,23,0
+2010-2011,Aaron Lennon,"FW,MF",Tottenham,2361,34,3,2,5,0.11,0.08,23,0.19
+2010-2011,Nani,"FW,MF",Manchester Utd,2659,33,9,14,23,0.3,0.47,23,0.78
+2010-2011,Samir Nasri,"FW,MF",Arsenal,2383,30,10,1,11,0.38,0.04,23,0.42
+2010-2011,Victor Obinna,FW,West Ham,1575,25,3,3,6,0.17,0.17,23,0.34
+2010-2011,Luis Suárez,FW,Liverpool,1100,13,4,3,7,0.33,0.25,23,0.57
+2011-2012,Sergio Agüero,FW,Manchester City,2575,34,23,8,31,0.8,0.28,23,1.08
+2011-2012,Victor Anichebe,FW,Everton,448,12,5,0,5,1,0,23,1
+2011-2012,Fraizer Campbell,FW,Sunderland,638,12,1,1,2,0.14,0.14,23,0.28
+2011-2012,Nathan Dyer,"FW,MF",Swansea City,2359,34,5,2,7,0.19,0.08,23,0.27
+2011-2012,Adam Hammill,"FW,MF",Wolves,349,9,0,1,1,0,0.26,23,0.26
+2011-2012,Javier Hernández,FW,Manchester Utd,1477,28,10,2,12,0.61,0.12,23,0.73
+2011-2012,Juan Mata,"FW,MF",Chelsea,2515,34,6,13,19,0.21,0.47,23,0.68
+2011-2012,Anthony Modeste,FW,Blackburn,392,9,0,0,0,0,0,23,0
+2011-2012,Marcus Olsson,"DF,FW",Blackburn,992,12,0,1,1,0,0.09,23,0.09
+2011-2012,Anthony Pilkington,"FW,MF",Norwich City,1974,30,8,1,9,0.36,0.05,23,0.41
+2011-2012,Denis Stracqualursi,FW,Everton,733,20,1,1,2,0.12,0.12,23,0.25
+2012-2013,Gareth Bale,"FW,MF",Tottenham,2921,33,21,4,25,0.65,0.12,23,0.77
+2012-2013,Andy Carroll,FW,West Ham,1933,24,7,4,11,0.33,0.19,23,0.51
+2012-2013,Franco Di Santo,FW,Wigan Athletic,2125,35,5,2,7,0.21,0.08,23,0.3
+2012-2013,Shinji Kagawa,"FW,MF",Manchester Utd,1314,20,6,3,9,0.41,0.21,23,0.62
+2012-2013,James McClean,"DF,FW",Sunderland,2342,36,2,3,5,0.08,0.12,23,0.19
+2012-2013,Gabriel Obertan,"FW,MF",Newcastle Utd,417,14,0,2,2,0,0.43,23,0.43
+2012-2013,Hal Robson-Kanu,"FW,MF",Reading,1280,25,7,1,8,0.49,0.07,23,0.56
+2012-2013,Jay Rodriguez,"FW,MF",Southampton,2181,35,6,5,11,0.25,0.21,23,0.45
+2012-2013,Ryan Shotton,"DF,FW",Stoke City,1821,23,0,1,1,0,0.05,23,0.05
+2012-2013,Adel Taarabt,"FW,MF",QPR,2243,31,5,4,9,0.2,0.16,23,0.36
+2012-2013,Theo Walcott,"FW,MF",Arsenal,2284,32,14,10,24,0.55,0.39,23,0.95
+2013-2014,Marc Albrighton,"DF,FW",Aston Villa,973,19,0,4,4,0,0.37,23,0.37
+2013-2014,Jozy Altidore,FW,Sunderland,1783,31,1,1,2,0.05,0.05,23,0.1
+2013-2014,Nacer Chadli,"FW,MF",Tottenham,1453,24,1,3,4,0.06,0.19,23,0.25
+2013-2014,Stevan Joveti?,"FW,MF",Manchester City,389,13,3,1,4,0.69,0.23,23,0.93
+2013-2014,Gylfi Sigurðsson,"FW,MF",Tottenham,1277,25,5,0,5,0.35,0,23,0.35
+2013-2014,Moussa Sissoko,"FW,MF",Newcastle Utd,3030,35,3,6,9,0.09,0.18,23,0.27
+2013-2014,Daniel Sturridge,"FW,MF",Liverpool,2264,29,21,7,28,0.83,0.28,23,1.11
+2014-2015,Mario Balotelli,FW,Liverpool,939,16,1,0,1,0.1,0,23,0.1
+2014-2015,Christian Benteke,FW,Aston Villa,2379,29,13,2,15,0.49,0.08,23,0.57
+2014-2015,Fabio Borini,"FW,MF",Liverpool,397,12,1,1,2,0.23,0.23,23,0.45
+2014-2015,Dwight Gayle,FW,Crystal Palace,1097,25,5,1,6,0.41,0.08,23,0.49
+2014-2015,Eden Hazard,"FW,MF",Chelsea,3367,38,14,9,23,0.37,0.24,23,0.61
+2014-2015,Abel Hernández,FW,Hull City,1313,25,4,1,5,0.27,0.07,23,0.34
+2014-2015,Andrej Kramari?,"FW,MF",Leicester City,577,13,2,2,4,0.31,0.31,23,0.62
+2014-2015,Bojan Krki?,"FW,MF",Stoke City,1203,16,4,1,5,0.3,0.07,23,0.37
+2014-2015,Riyad Mahrez,"FW,MF",Leicester City,2079,30,4,3,7,0.17,0.13,23,0.3
+2014-2015,Callum McManaman,"FW,MF",West Brom,345,8,0,1,1,0,0.26,23,0.26
+2014-2015,Victor Moses,"DF,FW",Stoke City,1444,19,3,3,6,0.19,0.19,23,0.37
+2014-2015,Matt Phillips,"DF,FW",QPR,1821,25,3,8,11,0.15,0.4,23,0.54
+2014-2015,André Schürrle,"FW,MF",Chelsea,436,14,3,0,3,0.62,0,23,0.62
+2014-2015,Andros Townsend,"FW,MF",Tottenham,749,17,2,2,4,0.24,0.24,23,0.48
+2014-2015,Danny Welbeck,"FW,MF",Arsenal,1663,25,4,4,8,0.22,0.22,23,0.43
+2015-2016,Jordan Ayew,"FW,MF",Aston Villa,2349,30,7,0,7,0.27,0,23,0.27
+2015-2016,Robbie Brady,"DF,FW",Norwich City,2984,36,3,2,5,0.09,0.06,23,0.15
+2015-2016,Joel Campbell,"FW,MF",Arsenal,884,19,3,2,5,0.31,0.2,23,0.51
+2015-2016,Philippe Coutinho,"FW,MF",Liverpool,1995,26,8,5,13,0.36,0.23,23,0.59
+2015-2016,Christian Eriksen,"FW,MF",Tottenham,2933,35,6,13,19,0.18,0.4,23,0.58
+2015-2016,Roberto Firmino,"FW,MF",Liverpool,1972,31,10,7,17,0.46,0.32,23,0.78
+2015-2016,Son Heung-min,"FW,MF",Tottenham,1107,28,4,1,5,0.33,0.08,23,0.41
+2015-2016,Danny Ings,FW,Liverpool,340,6,2,0,2,0.53,0,23,0.53
+2015-2016,Joshua King,"FW,MF",Bournemouth,1913,31,6,2,8,0.28,0.09,23,0.38
+2015-2016,Érik Lamela,"FW,MF",Tottenham,2371,34,5,9,14,0.19,0.34,23,0.53
+2015-2016,Sadio Mané,"FW,MF",Southampton,2596,37,11,6,17,0.38,0.21,23,0.59
+2015-2016,Oscar,"FW,MF",Chelsea,1769,27,3,3,6,0.15,0.15,23,0.31
+2015-2016,Xherdan Shaqiri,"FW,MF",Stoke City,2012,27,3,6,9,0.13,0.27,23,0.4
+2015-2016,Callum Wilson,FW,Bournemouth,771,13,5,0,5,0.58,0,23,0.58
+2016-2017,Benik Afobe,FW,Bournemouth,1461,31,6,3,9,0.37,0.18,23,0.55
+2016-2017,Modou Barrow,"FW,MF",Swansea City,1145,18,0,2,2,0,0.16,23,0.16
+2016-2017,Borja Bastón,FW,Swansea City,561,18,1,0,1,0.16,0,23,0.16
+2016-2017,Abdoulaye Doucouré,"FW,MF",Watford,1361,20,1,0,1,0.07,0,23,0.07
+2016-2017,Harry Kane,FW,Tottenham,2521,30,29,5,34,1.04,0.18,23,1.21
+2016-2017,Manuel Lanzini,"FW,MF",West Ham,2706,35,8,2,10,0.27,0.07,23,0.33
+2016-2017,Jesse Lingard,"FW,MF",Manchester Utd,1360,25,1,1,2,0.07,0.07,23,0.13
+2016-2017,Romelu Lukaku,FW,Everton,3266,37,25,6,31,0.69,0.17,23,0.85
+2016-2017,Ahmed Musa,"FW,MF",Leicester City,761,21,2,1,3,0.24,0.12,23,0.35
+2016-2017,Jeffrey Schlupp,"DF,FW",Crystal Palace,998,15,0,0,0,0,0,23,0
+2016-2017,Connor Wickham,"FW,MF",Crystal Palace,412,8,2,0,2,0.44,0,23,0.44
+2016-2017,Wilfried Zaha,"FW,MF",Crystal Palace,3019,35,7,8,15,0.21,0.24,23,0.45
+2017-2018,Michy Batshuayi,FW,Chelsea,360,12,2,1,3,0.5,0.25,23,0.75
+2017-2018,Saido Berahino,FW,Stoke City,494,15,0,1,1,0,0.18,23,0.18
+2017-2018,Sofiane Boufal,"FW,MF",Southampton,1219,26,2,2,4,0.15,0.15,23,0.3
+2017-2018,Gerard Deulofeu,"FW,MF",Watford,435,7,1,0,1,0.21,0,23,0.21
+2017-2018,Solly March,"MF,FW",Brighton,1851,36,1,1,2,0.05,0.05,23,0.1
+2017-2018,Benjamin Mendy,"DF,FW",Manchester City,363,7,0,1,1,0,0.25,23,0.25
+2017-2018,Nathan Redmond,"FW,MF",Southampton,1945,31,1,3,4,0.05,0.14,23,0.19
+2018-2019,Aboubakar Kamara,FW,Fulham,693,13,3,0,3,0.39,0,23,0.39
+2018-2019,Naby Keïta,"MF,FW",Liverpool,1390,25,2,1,3,0.13,0.06,23,0.19
+2018-2019,Aleksandar Mitrovi?,FW,Fulham,3280,37,11,3,14,0.3,0.08,23,0.38
+2018-2019,Steve Mounié,FW,Huddersfield,1778,31,2,3,5,0.1,0.15,23,0.25
+2018-2019,Josh Murphy,"MF,FW",Cardiff City,1817,29,3,2,5,0.15,0.1,23,0.25
+2018-2019,Divock Origi,FW,Liverpool,371,12,3,1,4,0.73,0.24,23,0.97
+2018-2019,Callum Paterson,"FW,MF",Cardiff City,1998,27,4,1,5,0.18,0.05,23,0.23
+2018-2019,Bernardo Silva,"MF,FW",Manchester City,2854,36,7,7,14,0.22,0.22,23,0.44
+2018-2019,Raheem Sterling,FW,Manchester City,2771,34,17,9,26,0.55,0.29,23,0.84
+2019-2020,Che Adams,FW,Southampton,1111,30,4,2,6,0.32,0.16,23,0.49
+2019-2020,Dele Alli,"MF,FW",Tottenham,1847,25,8,4,12,0.39,0.19,23,0.58
+2019-2020,Pablo Fornals,"MF,FW",West Ham,2172,36,2,5,7,0.08,0.21,23,0.29
+2019-2020,Demarai Gray,"MF,FW",Leicester City,622,21,2,3,5,0.29,0.43,23,0.72
+2019-2020,Jack Grealish,"FW,MF",Aston Villa,3233,36,8,6,14,0.22,0.17,23,0.39
+2019-2020,Alex Iwobi,"MF,FW",Everton,1596,25,1,0,1,0.06,0,23,0.06
+2019-2020,Giovani Lo Celso,"MF,FW",Tottenham,1492,28,0,2,2,0,0.12,23,0.12
+2019-2020,Anthony Martial,FW,Manchester Utd,2624,32,17,6,23,0.58,0.21,23,0.79
+2019-2020,Oliver McBurnie,FW,Sheffield Utd,2113,36,6,0,6,0.26,0,23,0.26
+2019-2020,Max Meyer,"MF,FW",Crystal Palace,655,17,0,0,0,0,0,23,0
+2019-2020,Lys Mousset,FW,Sheffield Utd,1240,30,6,4,10,0.44,0.29,23,0.73
+2019-2020,Andreas Pereira,"MF,FW",Manchester Utd,1484,25,1,3,4,0.06,0.18,23,0.24
+2019-2020,Adama Traoré,"FW,DF",Wolves,2605,37,4,9,13,0.14,0.31,23,0.45
+2020-2021,Donny van de Beek,"MF,FW",Manchester Utd,524,19,1,1,2,0.17,0.17,23,0.34
+2020-2021,Jarrod Bowen,"FW,MF",West Ham,2562,38,8,5,13,0.28,0.18,23,0.46
+2020-2021,Oliver Burke,FW,Sheffield Utd,1269,25,1,1,2,0.07,0.07,23,0.14
+2020-2021,Dominic Calvert-Lewin,FW,Everton,2871,33,16,0,16,0.5,0,23,0.5
+2020-2021,Jack Harrison,"MF,FW",Leeds United,2847,36,8,8,16,0.25,0.25,23,0.51
+2020-2021,Kelechi Iheanacho,FW,Leicester City,1459,25,12,2,14,0.74,0.12,23,0.86
+2020-2021,Gabriel Jesus,FW,Manchester City,2063,29,9,4,13,0.39,0.17,23,0.57
+2020-2021,Joelinton,"FW,MF",Newcastle Utd,1983,31,4,2,6,0.18,0.09,23,0.27
+2020-2021,Diogo Jota,FW,Liverpool,1112,19,9,0,9,0.73,0,23,0.73
+2020-2021,Neal Maupay,"FW,MF",Brighton,2512,33,8,2,10,0.29,0.07,23,0.36
+2020-2021,Raphinha,"MF,FW",Leeds United,2360,30,6,9,15,0.23,0.34,23,0.57
+2020-2021,Richarlison,FW,Everton,2861,34,7,3,10,0.22,0.09,23,0.31
+2020-2021,Allan Saint-Maximin,"FW,MF",Newcastle Utd,1560,25,3,4,7,0.17,0.23,23,0.4
+2021-2022,Leon Bailey,"FW,MF",Aston Villa,761,18,1,2,3,0.12,0.24,23,0.35
+2021-2022,Harvey Barnes,"FW,MF",Leicester City,2101,32,6,10,16,0.26,0.43,23,0.69
+2021-2022,Steven Bergwijn,"FW,MF",Tottenham,565,25,3,1,4,0.48,0.16,23,0.64
+2021-2022,Todd Cantwell,"FW,MF",Norwich City,441,8,0,0,0,0,0,23,0
+2021-2022,Emmanuel Dennis,"FW,MF",Watford,2581,33,10,6,16,0.35,0.21,23,0.56
+2021-2022,Kieran Dowell,"FW,MF",Norwich City,912,19,1,1,2,0.1,0.1,23,0.2
+2021-2022,Odsonne Édouard,FW,Crystal Palace,1564,28,6,3,9,0.35,0.17,23,0.52
+2021-2022,Eberechi Eze,"MF,FW",Crystal Palace,605,13,1,1,2,0.15,0.15,23,0.3
+2021-2022,Ademola Lookman,"FW,MF",Leicester City,1453,26,6,0,6,0.37,0,23,0.37
+2021-2022,Przemys?aw P?acheta,"FW,MF",Norwich City,504,12,0,0,0,0,0,23,0
+2021-2022,Marcus Rashford,"FW,MF",Manchester Utd,1235,25,4,2,6,0.29,0.15,23,0.44
+2021-2022,Ismaila Sarr,"FW,MF",Watford,1861,22,5,2,7,0.24,0.1,23,0.34
+2021-2022,Nikola Vlaši?,"FW,MF",West Ham,560,19,1,0,1,0.16,0,23,0.16
+2022-2023,Matheus Cunha,FW,Wolves,965,17,2,0,2,0.19,0,23,0.19
+2022-2023,Patson Daka,FW,Leicester City,1187,30,4,4,8,0.3,0.3,23,0.61
+2022-2023,Cody Gakpo,"FW,MF",Liverpool,1458,21,7,2,9,0.43,0.12,23,0.56
+2022-2023,Kai Havertz,"FW,MF",Chelsea,2569,35,7,1,8,0.25,0.04,23,0.28
+2022-2023,Mason Mount,"MF,FW",Chelsea,1648,24,3,2,5,0.16,0.11,23,0.27
+2022-2023,Eddie Nketiah,FW,Arsenal,1089,30,4,1,5,0.33,0.08,23,0.41
+2022-2023,Darwin Núñez,FW,Liverpool,1695,29,9,3,12,0.48,0.16,23,0.64
+2022-2023,Christian Pulisic,"FW,DF",Chelsea,821,24,1,1,2,0.11,0.11,23,0.22
+2022-2023,Gianluca Scamacca,FW,West Ham,926,16,3,0,3,0.29,0,23,0.29
+2022-2023,Luis Sinisterra,FW,Leeds United,867,19,5,0,5,0.52,0,23,0.52
+2022-2023,Manor Solomon,FW,Fulham,572,19,4,0,4,0.63,0,23,0.63
+2022-2023,Marcus Tavernier,"MF,FW",Bournemouth,1743,23,5,4,9,0.26,0.21,23,0.46
+2023-2024,Julián Álvarez,"MF,FW",Manchester City,2647,36,11,8,19,0.37,0.27,23,0.65
+2023-2024,Antony,FW,Manchester Utd,1324,29,1,1,2,0.07,0.07,23,0.14
+2023-2024,Rhian Brewster,"FW,MF",Sheffield Utd,346,13,0,0,0,0,0,23,0
+2023-2024,Tahith Chong,"MF,FW",Luton Town,1982,33,4,0,4,0.18,0,23,0.18
+2023-2024,Phil Foden,"FW,MF",Manchester City,2857,35,19,8,27,0.6,0.25,23,0.85
+2023-2024,Morgan Gibbs-White,"MF,FW",Nott'ham Forest,3156,37,5,10,15,0.14,0.29,23,0.43
+2023-2024,Erling Haaland,FW,Manchester City,2552,31,27,5,32,0.95,0.18,23,1.13
+2023-2024,Alexander Isak,FW,Newcastle Utd,2255,30,21,2,23,0.84,0.08,23,0.92
+2023-2024,Ben Johnson,"DF,FW",West Ham,544,14,0,0,0,0,0,23,0
+2023-2024,Dejan Kulusevski,"FW,MF",Tottenham,2762,36,8,3,11,0.26,0.1,23,0.36
+2023-2024,Bryan Mbeumo,FW,Brentford,1960,25,9,6,15,0.41,0.28,23,0.69
+2023-2024,Dwight McNeil,"MF,FW",Everton,2892,35,3,6,9,0.09,0.19,23,0.28
+2023-2024,Pedro Neto,"FW,MF",Wolves,1516,20,2,9,11,0.12,0.53,23,0.65
+2023-2024,Antoine Semenyo,FW,Bournemouth,2105,33,8,2,10,0.34,0.09,23,0.43
+2024-2025,Cameron Archer,FW,Southampton,1441,35,2,0,2,0.12,0,23,0.12
+2024-2025,Jack Clarke,"FW,MF",Ipswich Town,1181,32,0,4,4,0,0.3,23,0.3
+2024-2025,Anthony Gordon,"FW,MF",Newcastle Utd,2434,34,6,5,11,0.22,0.18,23,0.41
+2024-2025,Callum Hudson-Odoi,"FW,MF",Nott'ham Forest,2194,31,5,2,7,0.21,0.08,23,0.29
+2024-2025,Nicolas Jackson,FW,Chelsea,2220,30,10,5,15,0.41,0.2,23,0.61
+2024-2025,Brennan Johnson,FW,Tottenham,2177,33,11,3,14,0.45,0.12,23,0.58
+2024-2025,Mohammed Kudus,"FW,MF",West Ham,2590,32,5,3,8,0.17,0.1,23,0.28
+2024-2025,Keane Lewis-Potter,"DF,FW",Brentford,3093,38,1,3,4,0.03,0.09,23,0.12
+2024-2025,Gabriel Martinelli,"FW,MF",Arsenal,2290,33,8,4,12,0.31,0.16,23,0.47
+2024-2025,Rodrigo Muniz,FW,Fulham,964,31,8,1,9,0.75,0.09,23,0.84
+2024-2025,Jacob Ramsey,"FW,MF",Aston Villa,1623,29,1,3,4,0.06,0.17,23,0.22
+2024-2025,Joshua Zirkzee,"FW,MF",Manchester Utd,1402,32,3,1,4,0.19,0.06,23,0.26
+2010-2011,Matt Derbyshire,FW,Birmingham City,470,13,0,0,0,0,0,24,0
+2010-2011,Edin Džeko,FW,Manchester City,854,15,2,2,4,0.21,0.21,24,0.42
+2010-2011,Sylvan Ebanks-Blake,FW,Wolves,1324,30,7,3,10,0.48,0.2,24,0.68
+2010-2011,Asamoah Gyan,FW,Sunderland,2005,31,10,4,14,0.45,0.18,24,0.63
+2010-2011,Salomon Kalou,"FW,MF",Chelsea,1570,31,10,3,13,0.57,0.17,24,0.75
+2010-2011,James Morrison,"FW,MF",West Brom,2269,31,4,3,7,0.16,0.12,24,0.28
+2010-2011,Charles N'Zogbia,"DF,FW",Wigan Athletic,2783,34,9,5,14,0.29,0.16,24,0.45
+2010-2011,Wayne Rooney,"FW,MF",Manchester Utd,2225,28,11,11,22,0.44,0.44,24,0.89
+2010-2011,David Silva,"FW,MF",Manchester City,2550,35,4,7,11,0.14,0.25,24,0.39
+2010-2011,Stephen Ward,"DF,FW",Wolves,2396,34,1,1,2,0.04,0.04,24,0.08
+2011-2012,Gabriel Agbonlahor,"FW,MF",Aston Villa,2762,33,5,5,10,0.16,0.16,24,0.33
+2011-2012,Hatem Ben Arfa,"FW,MF",Newcastle Utd,1557,26,5,5,10,0.29,0.29,24,0.58
+2011-2012,Leon Best,FW,Newcastle Utd,1151,18,4,2,6,0.31,0.16,24,0.47
+2011-2012,Simon Cox,FW,West Brom,766,18,0,1,1,0,0.12,24,0.12
+2011-2012,Graham Dorrans,"FW,MF",West Brom,1524,31,3,2,5,0.18,0.12,24,0.3
+2011-2012,Steven Fletcher,FW,Wolves,2346,32,12,2,14,0.46,0.08,24,0.54
+2011-2012,Gervinho,"FW,MF",Arsenal,1679,28,4,6,10,0.21,0.32,24,0.54
+2011-2012,Simeon Jackson,FW,Norwich City,945,22,3,2,5,0.29,0.19,24,0.48
+2011-2012,Cameron Jerome,FW,Stoke City,848,23,4,1,5,0.42,0.11,24,0.53
+2011-2012,Aaron Lennon,"FW,MF",Tottenham,1571,23,3,5,8,0.17,0.29,24,0.46
+2011-2012,Shane Long,FW,West Brom,2185,32,8,1,9,0.33,0.04,24,0.37
+2011-2012,Nani,"FW,MF",Manchester Utd,2104,29,8,10,18,0.34,0.43,24,0.77
+2011-2012,Conor Sammon,FW,Wigan Athletic,848,25,0,0,0,0,0,24,0
+2011-2012,Luis Suárez,FW,Liverpool,2544,31,11,3,14,0.39,0.11,24,0.5
+2012-2013,Sergio Agüero,FW,Manchester City,1941,30,12,2,14,0.56,0.09,24,0.65
+2012-2013,Victor Anichebe,FW,Everton,1712,26,6,4,10,0.32,0.21,24,0.53
+2012-2013,Nathan Dyer,"FW,MF",Swansea City,2309,37,3,4,7,0.12,0.16,24,0.27
+2012-2013,Javier Hernández,FW,Manchester Utd,952,22,10,3,13,0.95,0.28,24,1.23
+2012-2013,Adam Lallana,"FW,MF",Southampton,2229,30,3,5,8,0.12,0.2,24,0.32
+2012-2013,Modibo Maïga,"FW,MF",West Ham,421,17,2,2,4,0.43,0.43,24,0.86
+2012-2013,Juan Mata,"FW,MF",Chelsea,2727,35,12,12,24,0.4,0.4,24,0.79
+2012-2013,Kevin Mirallas,"FW,MF",Everton,1824,27,6,3,9,0.3,0.15,24,0.44
+2012-2013,Anthony Pilkington,"FW,MF",Norwich City,2156,30,5,3,8,0.21,0.13,24,0.33
+2012-2013,Robert Snodgrass,"FW,MF",Norwich City,3049,37,6,6,12,0.18,0.18,24,0.35
+2013-2014,Sone Aluko,"FW,MF",Hull City,933,17,1,3,4,0.1,0.29,24,0.39
+2013-2014,Marko Arnautovi?,"FW,MF",Stoke City,2247,30,4,7,11,0.16,0.28,24,0.44
+2013-2014,Oussama Assaidi,"FW,MF",Stoke City,1113,19,4,0,4,0.32,0,24,0.32
+2013-2014,Yannick Bolasie,"FW,MF",Crystal Palace,2030,29,0,4,4,0,0.18,24,0.18
+2013-2014,Wilfried Bony,FW,Swansea City,2470,34,16,4,20,0.58,0.15,24,0.73
+2013-2014,Andy Carroll,FW,West Ham,1091,15,2,4,6,0.16,0.33,24,0.49
+2013-2014,Shinji Kagawa,"FW,MF",Manchester Utd,1165,18,0,3,3,0,0.23,24,0.23
+2013-2014,Libor Kozák,FW,Aston Villa,782,14,4,0,4,0.46,0,24,0.46
+2013-2014,Jay Rodriguez,"FW,MF",Southampton,2559,33,15,3,18,0.53,0.11,24,0.63
+2013-2014,Scott Sinclair,"FW,MF",West Brom,301,8,0,0,0,0,0,24,0
+2013-2014,Adel Taarabt,"FW,MF",Fulham,595,12,0,1,1,0,0.15,24,0.15
+2013-2014,Theo Walcott,"FW,MF",Arsenal,859,13,5,4,9,0.52,0.42,24,0.94
+2013-2014,Willian,"FW,MF",Chelsea,1674,25,4,2,6,0.22,0.11,24,0.32
+2013-2014,Ricky van Wolfswinkel,"FW,MF",Norwich City,1392,25,1,1,2,0.06,0.06,24,0.13
+2014-2015,Marc Albrighton,"DF,FW",Leicester City,1031,18,2,3,5,0.17,0.26,24,0.44
+2014-2015,Jozy Altidore,FW,Sunderland,311,11,0,0,0,0,0,24,0
+2014-2015,Ashley Barnes,"FW,MF",Burnley,2414,35,5,2,7,0.19,0.07,24,0.26
+2014-2015,Will Buckley,"FW,MF",Sunderland,876,22,0,2,2,0,0.21,24,0.21
+2014-2015,Rémy Cabella,"FW,MF",Newcastle Utd,1943,31,1,2,3,0.05,0.09,24,0.14
+2014-2015,Nacer Chadli,"FW,MF",Tottenham,2406,35,11,5,16,0.41,0.19,24,0.6
+2014-2015,Junior Hoilett,"FW,MF",QPR,886,22,0,0,0,0,0,24,0
+2014-2015,Stevan Joveti?,"FW,MF",Manchester City,784,17,5,3,8,0.57,0.34,24,0.92
+2014-2015,Jefferson Montero,"FW,MF",Swansea City,1577,30,1,7,8,0.06,0.4,24,0.46
+2014-2015,Emmanuel Rivière,FW,Newcastle Utd,1209,23,1,1,2,0.07,0.07,24,0.15
+2014-2015,Diafra Sakho,FW,West Ham,1754,23,10,2,12,0.51,0.1,24,0.62
+2014-2015,Gylfi Sigurðsson,"FW,MF",Swansea City,2682,32,7,10,17,0.23,0.34,24,0.57
+2014-2015,Moussa Sissoko,"FW,MF",Newcastle Utd,3028,34,4,2,6,0.12,0.06,24,0.18
+2014-2015,Daniel Sturridge,"FW,MF",Liverpool,752,12,4,1,5,0.48,0.12,24,0.6
+2014-2015,Enner Valencia,"FW,MF",West Ham,2101,32,4,3,7,0.17,0.13,24,0.3
+2014-2015,Eduardo Vargas,"FW,MF",QPR,1382,21,3,2,5,0.2,0.13,24,0.33
+2014-2015,Sam Vokes,FW,Burnley,567,15,0,0,0,0,0,24,0
+2015-2016,Christian Benteke,FW,Liverpool,1529,29,9,3,12,0.53,0.18,24,0.71
+2015-2016,Fabio Borini,"FW,MF",Sunderland,1891,26,5,2,7,0.24,0.1,24,0.33
+2015-2016,Kevin De Bruyne,"FW,MF",Manchester City,2002,25,7,9,16,0.31,0.4,24,0.72
+2015-2016,Dwight Gayle,FW,Crystal Palace,771,16,3,0,3,0.35,0,24,0.35
+2015-2016,Eden Hazard,"FW,MF",Chelsea,2191,31,4,3,7,0.16,0.12,24,0.29
+2015-2016,Wahbi Khazri,"FW,MF",Sunderland,1071,14,2,1,3,0.17,0.08,24,0.25
+2015-2016,Bojan Krki?,"FW,MF",Stoke City,1697,27,7,1,8,0.37,0.05,24,0.42
+2015-2016,Riyad Mahrez,"FW,MF",Leicester City,3034,37,17,11,28,0.5,0.33,24,0.83
+2015-2016,Victor Moses,"DF,FW",West Ham,979,21,1,2,3,0.09,0.18,24,0.28
+2015-2016,Danny Welbeck,"FW,MF",Arsenal,575,11,4,2,6,0.63,0.31,24,0.94
+2015-2016,Georginio Wijnaldum,"FW,MF",Newcastle Utd,3163,38,11,5,16,0.31,0.14,24,0.46
+2016-2017,Jordan Ayew,"FW,MF",Swansea City,866,14,1,2,3,0.1,0.21,24,0.31
+2016-2017,Robbie Brady,"DF,FW",Burnley,719,14,1,2,3,0.13,0.25,24,0.38
+2016-2017,Philippe Coutinho,"FW,MF",Liverpool,2227,31,13,8,21,0.53,0.32,24,0.85
+2016-2017,Christian Eriksen,"FW,MF",Tottenham,3157,36,8,15,23,0.23,0.43,24,0.66
+2016-2017,Roberto Firmino,"FW,MF",Liverpool,3062,35,11,7,18,0.32,0.21,24,0.53
+2016-2017,Manolo Gabbiadini,FW,Southampton,724,11,4,0,4,0.5,0,24,0.5
+2016-2017,Jeff Hendrick,"FW,MF",Burnley,2692,32,2,1,3,0.07,0.03,24,0.1
+2016-2017,Son Heung-min,"FW,MF",Tottenham,2062,34,14,6,20,0.61,0.26,24,0.87
+2016-2017,Joshua King,"FW,MF",Bournemouth,2713,36,16,2,18,0.53,0.07,24,0.6
+2016-2017,Érik Lamela,"FW,MF",Tottenham,594,9,1,3,4,0.15,0.45,24,0.61
+2016-2017,Sadio Mané,"FW,MF",Liverpool,2235,27,13,5,18,0.52,0.2,24,0.72
+2016-2017,Oscar,"FW,MF",Chelsea,455,9,0,1,1,0,0.2,24,0.2
+2016-2017,Xherdan Shaqiri,"FW,MF",Stoke City,1698,21,4,2,6,0.21,0.11,24,0.32
+2016-2017,Callum Wilson,FW,Bournemouth,1356,20,6,0,6,0.4,0,24,0.4
+2017-2018,Benik Afobe,FW,Bournemouth,611,17,0,0,0,0,0,24,0
+2017-2018,Jesé,"FW,MF",Stoke City,614,13,1,1,2,0.15,0.15,24,0.29
+2017-2018,Harry Kane,FW,Tottenham,3076,37,30,2,32,0.88,0.06,24,0.94
+2017-2018,Manuel Lanzini,"MF,FW",West Ham,2042,27,5,6,11,0.22,0.26,24,0.48
+2017-2018,Jesse Lingard,"MF,FW",Manchester Utd,1817,33,8,5,13,0.4,0.25,24,0.64
+2017-2018,Romelu Lukaku,FW,Manchester Utd,2867,34,16,7,23,0.5,0.22,24,0.72
+2017-2018,Álvaro Morata,FW,Chelsea,2061,31,11,6,17,0.48,0.26,24,0.74
+2017-2018,Ayoze Pérez,"MF,FW",Newcastle Utd,2492,36,8,5,13,0.29,0.18,24,0.47
+2017-2018,Alex Pritchard,"MF,FW",Huddersfield,998,14,1,1,2,0.09,0.09,24,0.18
+2017-2018,Wilfried Zaha,"FW,MF",Crystal Palace,2549,29,9,3,12,0.32,0.11,24,0.42
+2018-2019,Michy Batshuayi,FW,Crystal Palace,750,11,5,0,5,0.6,0,24,0.6
+2018-2019,Ivan Cavaleiro,"FW,MF",Wolves,693,23,3,1,4,0.39,0.13,24,0.52
+2018-2019,Hélder Costa,"FW,MF",Wolves,1341,25,1,2,3,0.07,0.13,24,0.2
+2018-2019,Gerard Deulofeu,"FW,MF",Watford,2066,30,10,5,15,0.44,0.22,24,0.65
+2018-2019,Ryan Fraser,"MF,FW",Bournemouth,3166,38,7,14,21,0.2,0.4,24,0.6
+2018-2019,Alireza Jahanbakhsh,"FW,MF",Brighton,1020,19,0,0,0,0,0,24,0
+2018-2019,Jürgen Locadia,"FW,MF",Brighton,1236,26,2,0,2,0.15,0,24,0.15
+2018-2019,Solly March,"FW,MF",Brighton,2463,35,1,5,6,0.04,0.18,24,0.22
+2018-2019,Ricardo Pereira,"DF,FW",Leicester City,3123,35,2,6,8,0.06,0.17,24,0.23
+2018-2019,Nathan Redmond,"MF,FW",Southampton,3270,38,6,4,10,0.17,0.11,24,0.28
+2018-2019,Ken Sema,"MF,FW",Watford,754,17,1,2,3,0.12,0.24,24,0.36
+2018-2019,Luciano Vietto,"FW,MF",Fulham,986,20,1,4,5,0.09,0.37,24,0.46
+2018-2019,Kenneth Zohore,FW,Cardiff City,753,19,1,1,2,0.12,0.12,24,0.24
+2019-2020,Anwar El Ghazi,"FW,MF",Aston Villa,2051,34,4,4,8,0.18,0.18,24,0.35
+2019-2020,Divock Origi,FW,Liverpool,717,28,4,1,5,0.5,0.13,24,0.63
+2019-2020,Nicolas Pépé,FW,Arsenal,2010,31,5,6,11,0.22,0.27,24,0.49
+2019-2020,Callum Robinson,"FW,MF",Sheffield Utd,676,16,1,1,2,0.13,0.13,24,0.27
+2019-2020,Bernardo Silva,"FW,MF",Manchester City,2030,34,6,7,13,0.27,0.31,24,0.58
+2019-2020,Raheem Sterling,FW,Manchester City,2651,33,20,1,21,0.68,0.03,24,0.71
+2019-2020,Trézéguet,"FW,MF",Aston Villa,1950,34,6,1,7,0.28,0.05,24,0.32
+2019-2020,Leandro Trossard,"FW,MF",Brighton,2011,31,5,3,8,0.22,0.13,24,0.36
+2020-2021,Che Adams,FW,Southampton,2667,36,9,5,14,0.3,0.17,24,0.47
+2020-2021,Saïd Benrahma,"FW,MF",West Ham,1391,30,1,6,7,0.06,0.39,24,0.45
+2020-2021,Pablo Fornals,"FW,MF",West Ham,2572,33,5,4,9,0.17,0.14,24,0.31
+2020-2021,Jack Grealish,"FW,MF",Aston Villa,2185,26,6,10,16,0.25,0.41,24,0.66
+2020-2021,Alex Iwobi,"FW,MF",Everton,1542,30,1,2,3,0.06,0.12,24,0.18
+2020-2021,Anthony Martial,FW,Manchester Utd,1480,22,4,3,7,0.24,0.18,24,0.43
+2020-2021,Oliver McBurnie,FW,Sheffield Utd,1324,23,1,0,1,0.07,0,24,0.07
+2020-2021,Matheus Pereira,"MF,FW",West Brom,2577,33,11,6,17,0.38,0.21,24,0.59
+2020-2021,Daniel Podence,"MF,FW",Wolves,1661,24,3,2,5,0.16,0.11,24,0.27
+2020-2021,Adama Traoré,"FW,MF",Wolves,2649,37,2,2,4,0.07,0.07,24,0.14
+2020-2021,Bertrand Traoré,FW,Aston Villa,2317,36,7,6,13,0.27,0.23,24,0.5
+2020-2021,Ollie Watkins,FW,Aston Villa,3328,37,14,5,19,0.38,0.14,24,0.51
+2020-2021,Timo Werner,"FW,MF",Chelsea,2602,35,6,8,14,0.21,0.28,24,0.48
+2021-2022,Adam Armstrong,FW,Southampton,1413,23,2,2,4,0.13,0.13,24,0.25
+2021-2022,Jarrod Bowen,FW,West Ham,2983,36,12,10,22,0.36,0.3,24,0.66
+2021-2022,Emi Buendía,"MF,FW",Aston Villa,1899,35,4,6,10,0.19,0.28,24,0.47
+2021-2022,Dominic Calvert-Lewin,FW,Everton,1283,17,5,2,7,0.35,0.14,24,0.49
+2021-2022,Sergi Canós,"DF,FW",Brentford,2083,31,3,2,5,0.13,0.09,24,0.22
+2021-2022,Maxwel Cornet,"FW,MF",Burnley,1766,26,9,1,10,0.46,0.05,24,0.51
+2021-2022,Luis Díaz,FW,Liverpool,958,13,4,3,7,0.38,0.28,24,0.66
+2021-2022,Jack Harrison,"FW,MF",Leeds United,2639,35,8,1,9,0.27,0.03,24,0.31
+2021-2022,Kelechi Iheanacho,FW,Leicester City,1264,26,4,5,9,0.28,0.36,24,0.64
+2021-2022,Gabriel Jesus,FW,Manchester City,1877,28,8,8,16,0.38,0.38,24,0.77
+2021-2022,Joelinton,"MF,FW",Newcastle Utd,2558,35,4,1,5,0.14,0.04,24,0.18
+2021-2022,Diogo Jota,FW,Liverpool,2364,35,15,4,19,0.57,0.15,24,0.72
+2021-2022,James Maddison,"MF,FW",Leicester City,2459,35,12,8,20,0.44,0.29,24,0.73
+2021-2022,Jean-Philippe Mateta,FW,Crystal Palace,1145,22,5,1,6,0.39,0.08,24,0.47
+2021-2022,Neal Maupay,FW,Brighton,2276,32,8,2,10,0.32,0.08,24,0.4
+2021-2022,Raphinha,"FW,MF",Leeds United,2915,35,11,3,14,0.34,0.09,24,0.43
+2021-2022,Richarlison,FW,Everton,2523,30,10,5,15,0.36,0.18,24,0.54
+2021-2022,Allan Saint-Maximin,"FW,MF",Newcastle Utd,2804,35,5,5,10,0.16,0.16,24,0.32
+2021-2022,Yoane Wissa,FW,Brentford,1284,30,7,1,8,0.49,0.07,24,0.56
+2022-2023,Taiwo Awoniyi,FW,Nott'ham Forest,1404,27,10,1,11,0.64,0.06,24,0.71
+2022-2023,Leon Bailey,"FW,MF",Aston Villa,1967,33,4,4,8,0.18,0.18,24,0.37
+2022-2023,Harvey Barnes,"FW,MF",Leicester City,2711,34,13,1,14,0.43,0.03,24,0.46
+2022-2023,Emmanuel Dennis,"FW,MF",Nott'ham Forest,720,19,2,2,4,0.25,0.25,24,0.5
+2022-2023,Moussa Djenepo,"DF,FW",Southampton,710,16,0,2,2,0,0.25,24,0.25
+2022-2023,Odsonne Édouard,FW,Crystal Palace,1803,35,5,2,7,0.25,0.1,24,0.35
+2022-2023,Eberechi Eze,"MF,FW",Crystal Palace,2636,38,10,4,14,0.34,0.14,24,0.48
+2022-2023,Marcus Rashford,FW,Manchester Utd,2879,35,17,5,22,0.53,0.16,24,0.69
+2022-2023,Dominic Solanke,"FW,MF",Bournemouth,2860,33,6,7,13,0.19,0.22,24,0.41
+2022-2023,Sam Surridge,FW,Nott'ham Forest,323,20,1,0,1,0.28,0,24,0.28
+2023-2024,Ben Brereton,"FW,MF",Sheffield Utd,1105,14,6,1,7,0.49,0.08,24,0.57
+2023-2024,Jacob Bruun Larsen,"MF,FW",Burnley,1249,32,6,0,6,0.43,0,24,0.43
+2023-2024,Matheus Cunha,"FW,MF",Wolves,2440,32,12,7,19,0.44,0.26,24,0.7
+2023-2024,Moussa Diaby,"FW,MF",Aston Villa,2174,38,6,8,14,0.25,0.33,24,0.58
+2023-2024,Cody Gakpo,"FW,MF",Liverpool,1649,35,8,5,13,0.44,0.27,24,0.71
+2023-2024,Kai Havertz,"MF,FW",Arsenal,2634,37,13,7,20,0.44,0.24,24,0.68
+2023-2024,Justin Kluivert,"MF,FW",Bournemouth,1916,32,7,1,8,0.33,0.05,24,0.38
+2023-2024,Mason Mount,"MF,FW",Manchester Utd,516,14,1,0,1,0.17,0,24,0.17
+2023-2024,Eddie Nketiah,FW,Arsenal,1082,27,5,2,7,0.42,0.17,24,0.58
+2023-2024,Darwin Núñez,FW,Liverpool,2047,36,11,8,19,0.48,0.35,24,0.84
+2023-2024,Luis Sinisterra,"FW,MF",Bournemouth,699,20,2,2,4,0.26,0.26,24,0.52
+2023-2024,Marcus Tavernier,FW,Bournemouth,2118,30,3,4,7,0.13,0.17,24,0.3
+2023-2024,Mike Trésor,"FW,MF",Burnley,420,16,0,0,0,0,0,24,0
+2023-2024,Nicolò Zaniolo,"FW,MF",Aston Villa,839,25,2,0,2,0.21,0,24,0.21
+2024-2025,Mikkel Damsgaard,"MF,FW",Brentford,2911,38,2,10,12,0.06,0.31,24,0.37
+2024-2025,Evanilson,FW,Bournemouth,2319,31,10,1,11,0.39,0.04,24,0.43
+2024-2025,João Félix,"FW,MF",Chelsea,369,12,1,1,2,0.24,0.24,24,0.49
+2024-2025,Phil Foden,"MF,FW",Manchester City,1777,28,7,2,9,0.35,0.1,24,0.46
+2024-2025,Erling Haaland,FW,Manchester City,2736,31,22,3,25,0.72,0.1,24,0.82
+2024-2025,Alexander Isak,FW,Newcastle Utd,2756,34,23,6,29,0.75,0.2,24,0.95
+2024-2025,Ben Johnson,"DF,FW",Ipswich Town,1354,23,1,2,3,0.07,0.13,24,0.2
+2024-2025,Dejan Kulusevski,"MF,FW",Tottenham,2389,32,7,4,11,0.26,0.15,24,0.41
+2024-2025,Jesper Lindstrøm,FW,Everton,1239,25,0,1,1,0,0.07,24,0.07
+2024-2025,Bryan Mbeumo,FW,Brentford,3414,38,20,7,27,0.53,0.18,24,0.71
+2024-2025,Dwight McNeil,"MF,FW",Everton,1371,21,4,6,10,0.26,0.39,24,0.66
+2024-2025,Iliman Ndiaye,FW,Everton,2430,33,9,0,9,0.33,0,24,0.33
+2024-2025,Pedro Neto,FW,Chelsea,2269,35,4,6,10,0.16,0.24,24,0.4
+2024-2025,Jadon Sancho,FW,Chelsea,1764,31,3,4,7,0.15,0.2,24,0.36
+2024-2025,Antoine Semenyo,FW,Bournemouth,3203,37,11,5,16,0.31,0.14,24,0.45
+2024-2025,Ryan Sessegnon,"FW,DF",Fulham,580,16,4,2,6,0.62,0.31,24,0.93
+2024-2025,Jota Silva,"FW,MF",Nott'ham Forest,854,31,3,1,4,0.32,0.11,24,0.42
+2024-2025,Jørgen Strand Larsen,FW,Wolves,2587,35,14,4,18,0.49,0.14,24,0.63
+2024-2025,Joe Willock,"MF,FW",Newcastle Utd,1086,32,0,2,2,0,0.17,24,0.17
+2010-2011,Demba Ba,FW,West Ham,933,12,7,0,7,0.68,0,25,0.68
+2010-2011,Mauro Boselli,FW,Wigan Athletic,496,8,0,0,0,0,0,25,0
+2010-2011,Kenwyne Jones,FW,Stoke City,2782,34,9,0,9,0.29,0,25,0.29
+2010-2011,Hugo Rodallega,FW,Wigan Athletic,3025,36,9,1,10,0.27,0.03,25,0.3
+2010-2011,Wayne Routledge,"FW,MF",Newcastle Utd,996,17,0,1,1,0,0.09,25,0.09
+2010-2011,Ashley Young,"DF,FW",Aston Villa,3050,34,7,10,17,0.21,0.3,25,0.5
+2011-2012,Edin Džeko,FW,Manchester City,1509,30,14,3,17,0.83,0.18,25,1.01
+2011-2012,Sylvan Ebanks-Blake,FW,Wolves,1025,23,1,3,4,0.09,0.26,25,0.35
+2011-2012,Danny Graham,FW,Swansea City,2839,36,12,2,14,0.38,0.06,25,0.44
+2011-2012,Nikica Jelavi?,FW,Everton,954,13,9,1,10,0.85,0.09,25,0.94
+2011-2012,Salomon Kalou,"FW,MF",Chelsea,574,12,1,1,2,0.16,0.16,25,0.31
+2011-2012,Michael Kightly,"FW,MF",Wolves,1189,18,3,1,4,0.23,0.08,25,0.3
+2011-2012,Jamie Mackie,"FW,MF",QPR,2187,31,7,2,9,0.29,0.08,25,0.37
+2011-2012,Luke Moore,FW,Swansea City,532,20,2,0,2,0.34,0,25,0.34
+2011-2012,James Morrison,"FW,MF",West Brom,2142,30,5,5,10,0.21,0.21,25,0.42
+2011-2012,Charles N'Zogbia,"DF,FW",Aston Villa,2072,30,2,4,6,0.09,0.17,25,0.26
+2011-2012,Wayne Rooney,"FW,MF",Manchester Utd,2830,34,27,4,31,0.86,0.13,25,0.99
+2011-2012,Bryan Ruiz,"FW,MF",Fulham,1514,27,2,3,5,0.12,0.18,25,0.3
+2011-2012,David Silva,"FW,MF",Manchester City,2800,36,6,15,21,0.19,0.48,25,0.68
+2011-2012,Stephen Ward,"DF,FW",Wolves,3420,38,3,1,4,0.08,0.03,25,0.11
+2012-2013,Gabriel Agbonlahor,"FW,MF",Aston Villa,2187,28,9,3,12,0.37,0.12,25,0.49
+2012-2013,Hatem Ben Arfa,"FW,MF",Newcastle Utd,1458,19,4,2,6,0.25,0.12,25,0.37
+2012-2013,Graham Dorrans,"FW,MF",West Brom,1749,26,1,3,4,0.05,0.15,25,0.21
+2012-2013,Steven Fletcher,FW,Sunderland,2366,28,11,1,12,0.42,0.04,25,0.46
+2012-2013,Gervinho,"FW,MF",Arsenal,1012,18,5,3,8,0.44,0.27,25,0.71
+2012-2013,Olivier Giroud,FW,Arsenal,2333,34,11,3,14,0.42,0.12,25,0.54
+2012-2013,Simeon Jackson,FW,Norwich City,405,13,1,0,1,0.22,0,25,0.22
+2012-2013,Cameron Jerome,FW,Stoke City,1123,26,3,3,6,0.24,0.24,25,0.48
+2012-2013,Adam le Fondre,FW,Reading,1514,34,12,1,13,0.71,0.06,25,0.77
+2012-2013,Aaron Lennon,"FW,MF",Tottenham,2821,34,4,7,11,0.13,0.22,25,0.35
+2012-2013,Shane Long,FW,West Brom,2151,34,8,4,12,0.33,0.17,25,0.5
+2012-2013,Garath McCleary,"FW,MF",Reading,1580,31,3,2,5,0.17,0.11,25,0.28
+2012-2013,Steven Naismith,"FW,MF",Everton,1283,31,4,1,5,0.28,0.07,25,0.35
+2012-2013,Nani,"FW,MF",Manchester Utd,630,11,1,2,3,0.14,0.29,25,0.43
+2012-2013,Samir Nasri,"FW,MF",Manchester City,1798,28,2,7,9,0.1,0.35,25,0.45
+2012-2013,Loïc Rémy,FW,QPR,1140,14,6,0,6,0.47,0,25,0.47
+2012-2013,Itay Shechter,FW,Swansea City,629,18,1,0,1,0.14,0,25,0.14
+2012-2013,Luis Suárez,FW,Liverpool,2953,33,23,5,28,0.7,0.15,25,0.85
+2012-2013,Ricardo Vaz Tê,"FW,MF",West Ham,1601,24,3,4,7,0.17,0.22,25,0.39
+2013-2014,Sergio Agüero,FW,Manchester City,1528,23,17,6,23,1,0.35,25,1.35
+2013-2014,Victor Anichebe,FW,West Brom,1220,24,3,3,6,0.22,0.22,25,0.44
+2013-2014,Iago Aspas,"FW,MF",Liverpool,383,14,0,1,1,0,0.23,25,0.23
+2013-2014,Fraizer Campbell,FW,Cardiff City,2762,37,6,2,8,0.2,0.07,25,0.26
+2013-2014,Nathan Dyer,"FW,MF",Swansea City,1747,27,6,2,8,0.31,0.1,25,0.41
+2013-2014,Javier Hernández,FW,Manchester Utd,854,24,4,3,7,0.42,0.32,25,0.74
+2013-2014,Gary Hooper,FW,Norwich City,2019,32,6,2,8,0.27,0.09,25,0.36
+2013-2014,Adam Lallana,"FW,MF",Southampton,3082,38,9,6,15,0.26,0.18,25,0.44
+2013-2014,Roland Lamah,"FW,MF",Swansea City,456,9,2,2,4,0.39,0.39,25,0.79
+2013-2014,Modibo Maïga,"FW,MF",West Ham,1004,14,1,2,3,0.09,0.18,25,0.27
+2013-2014,Juan Mata,"FW,MF",Manchester Utd,1225,15,6,4,10,0.44,0.29,25,0.73
+2013-2014,Kevin Mirallas,"FW,MF",Everton,2322,32,8,8,16,0.31,0.31,25,0.62
+2013-2014,Craig Noone,"FW,MF",Cardiff City,1225,17,1,1,2,0.07,0.07,25,0.15
+2013-2014,Anthony Pilkington,"FW,MF",Norwich City,828,15,1,1,2,0.11,0.11,25,0.22
+2013-2014,Yannick Sagbo,FW,Hull City,1502,28,2,1,3,0.12,0.06,25,0.18
+2013-2014,Robert Snodgrass,"FW,MF",Norwich City,2569,30,6,2,8,0.21,0.07,25,0.28
+2014-2015,Sone Aluko,"FW,MF",Hull City,1242,25,1,0,1,0.07,0,25,0.07
+2014-2015,Marko Arnautovi?,"FW,MF",Stoke City,1918,29,1,5,6,0.05,0.23,25,0.28
+2014-2015,Charlie Austin,FW,QPR,3066,35,18,6,24,0.53,0.18,25,0.7
+2014-2015,Yannick Bolasie,"FW,MF",Crystal Palace,2769,34,4,6,10,0.13,0.2,25,0.33
+2014-2015,Wilfried Bony,FW,Manchester City,302,10,2,1,3,0.6,0.3,25,0.89
+2014-2015,Andy Carroll,FW,West Ham,1024,14,5,1,6,0.44,0.09,25,0.53
+2014-2015,Diego Costa,FW,Chelsea,2068,26,20,3,23,0.87,0.13,25,1
+2014-2015,Brown Ideye,FW,West Brom,1301,24,4,2,6,0.28,0.14,25,0.42
+2014-2015,Lukas Jutkiewicz,FW,Burnley,981,25,0,2,2,0,0.18,25,0.18
+2014-2015,Gabriel Obertan,"FW,MF",Newcastle Utd,652,13,1,2,3,0.14,0.28,25,0.41
+2014-2015,Alexis Sánchez,"FW,MF",Arsenal,2942,35,16,8,24,0.49,0.24,25,0.73
+2014-2015,Scott Sinclair,"FW,MF",Aston Villa,463,9,1,0,1,0.19,0,25,0.19
+2014-2015,Dušan Tadi?,"FW,MF",Southampton,2056,31,4,8,12,0.18,0.35,25,0.53
+2014-2015,Theo Walcott,"FW,MF",Arsenal,447,14,5,0,5,1.01,0,25,1.01
+2014-2015,Willian,"FW,MF",Chelsea,2402,36,2,3,5,0.07,0.11,25,0.19
+2015-2016,Marc Albrighton,"DF,FW",Leicester City,2749,38,2,6,8,0.07,0.2,25,0.26
+2015-2016,Michail Antonio,"FW,MF",West Ham,2057,26,8,3,11,0.35,0.13,25,0.48
+2015-2016,André Ayew,"FW,MF",Swansea City,2925,34,12,2,14,0.37,0.06,25,0.43
+2015-2016,Nacer Chadli,"FW,MF",Tottenham,947,29,3,2,5,0.29,0.19,25,0.48
+2015-2016,Joselu,FW,Stoke City,1097,22,4,1,5,0.33,0.08,25,0.41
+2015-2016,Jefferson Montero,"FW,MF",Swansea City,1355,23,0,2,2,0,0.13,25,0.13
+2015-2016,Alberto Paloschi,FW,Swansea City,667,10,2,0,2,0.27,0,25,0.27
+2015-2016,Matt Ritchie,"DF,FW",Bournemouth,2973,37,4,6,10,0.12,0.18,25,0.3
+2015-2016,Salomón Rondón,FW,West Brom,2555,34,9,2,11,0.32,0.07,25,0.39
+2015-2016,Diafra Sakho,FW,West Ham,1519,21,5,1,6,0.3,0.06,25,0.36
+2015-2016,Gylfi Sigurðsson,"FW,MF",Swansea City,2914,36,11,3,14,0.34,0.09,25,0.43
+2015-2016,Moussa Sissoko,"FW,MF",Newcastle Utd,3217,37,1,7,8,0.03,0.2,25,0.22
+2015-2016,Junior Stanislas,"FW,MF",Bournemouth,1435,21,3,2,5,0.19,0.13,25,0.31
+2015-2016,Daniel Sturridge,"FW,MF",Liverpool,978,14,8,1,9,0.74,0.09,25,0.83
+2015-2016,Enner Valencia,"FW,MF",West Ham,1009,19,4,2,6,0.36,0.18,25,0.54
+2016-2017,Christian Benteke,FW,Crystal Palace,3131,36,15,2,17,0.43,0.06,25,0.49
+2016-2017,Jóhann Berg Guðmundsson,"FW,MF",Burnley,998,20,1,2,3,0.09,0.18,25,0.27
+2016-2017,Fabio Borini,"FW,MF",Sunderland,1741,24,2,0,2,0.1,0,25,0.1
+2016-2017,Kevin De Bruyne,"FW,MF",Manchester City,2877,36,6,17,23,0.19,0.53,25,0.72
+2016-2017,Andre Gray,FW,Burnley,2259,32,9,3,12,0.36,0.12,25,0.48
+2016-2017,Eden Hazard,"FW,MF",Chelsea,2982,36,16,5,21,0.48,0.15,25,0.63
+2016-2017,Abel Hernández,FW,Hull City,1425,24,4,3,7,0.25,0.19,25,0.44
+2016-2017,Wahbi Khazri,"FW,MF",Sunderland,849,21,1,0,1,0.11,0,25,0.11
+2016-2017,Bojan Krki?,"FW,MF",Stoke City,475,9,3,0,3,0.57,0,25,0.57
+2016-2017,Riyad Mahrez,"FW,MF",Leicester City,2825,36,6,4,10,0.19,0.13,25,0.32
+2016-2017,Victor Moses,"DF,FW",Chelsea,2483,34,3,2,5,0.11,0.07,25,0.18
+2016-2017,Luciano Narsingh,"FW,MF",Swansea City,416,13,0,2,2,0,0.43,25,0.43
+2016-2017,Roberto Pereyra,"DF,FW",Watford,1037,13,2,2,4,0.17,0.17,25,0.35
+2016-2017,Matt Phillips,"DF,FW",West Brom,2181,27,4,8,12,0.17,0.33,25,0.5
+2016-2017,Gastón Ramírez,"FW,MF",Middlesbrough,1540,24,2,3,5,0.12,0.18,25,0.29
+2016-2017,Andros Townsend,"FW,MF",Crystal Palace,2519,36,3,4,7,0.11,0.14,25,0.25
+2016-2017,Danny Welbeck,"FW,MF",Arsenal,748,16,2,2,4,0.24,0.24,25,0.48
+2016-2017,Georginio Wijnaldum,"FW,MF",Liverpool,2972,36,6,8,14,0.18,0.24,25,0.42
+2016-2017,Simone Zaza,FW,West Ham,459,8,0,0,0,0,0,25,0
+2017-2018,Christian Atsu,"FW,MF",Newcastle Utd,1784,28,2,2,4,0.1,0.1,25,0.2
+2017-2018,Jordan Ayew,"FW,MF",Swansea City,2852,36,7,2,9,0.22,0.06,25,0.28
+2017-2018,Philippe Coutinho,"MF,FW",Liverpool,1109,14,7,6,13,0.57,0.49,25,1.06
+2017-2018,Christian Eriksen,"MF,FW",Tottenham,3218,37,10,10,20,0.28,0.28,25,0.56
+2017-2018,Roberto Firmino,FW,Liverpool,2763,37,15,7,22,0.49,0.23,25,0.72
+2017-2018,Manolo Gabbiadini,FW,Southampton,1081,28,5,0,5,0.42,0,25,0.42
+2017-2018,Jeff Hendrick,"FW,MF",Burnley,2331,34,2,2,4,0.08,0.08,25,0.15
+2017-2018,Son Heung-min,FW,Tottenham,2301,37,12,6,18,0.47,0.23,25,0.7
+2017-2018,Tom Ince,"MF,FW",Huddersfield,2452,33,2,0,2,0.07,0,25,0.07
+2017-2018,José Izquierdo,"MF,FW",Brighton,1984,32,5,3,8,0.23,0.14,25,0.36
+2017-2018,Elias Kachunga,"FW,MF",Huddersfield,1329,19,1,1,2,0.07,0.07,25,0.14
+2017-2018,Joshua King,"FW,MF",Bournemouth,2453,33,8,3,11,0.29,0.11,25,0.4
+2017-2018,Anthony Knockaert,"MF,FW",Brighton,2421,33,3,1,4,0.11,0.04,25,0.15
+2017-2018,Érik Lamela,"FW,MF",Tottenham,843,25,2,2,4,0.21,0.21,25,0.43
+2017-2018,Sadio Mané,FW,Liverpool,2190,29,10,7,17,0.41,0.29,25,0.7
+2017-2018,Mohamed Salah,FW,Liverpool,2907,36,32,10,42,0.99,0.31,25,1.3
+2017-2018,Xherdan Shaqiri,"MF,FW",Stoke City,3039,36,8,7,15,0.24,0.21,25,0.44
+2017-2018,Callum Wilson,FW,Bournemouth,1981,28,8,2,10,0.36,0.09,25,0.45
+2017-2018,Chris Wood,FW,Burnley,1624,24,10,1,11,0.55,0.06,25,0.61
+2018-2019,Felipe Anderson,"MF,FW",West Ham,3043,36,9,4,13,0.27,0.12,25,0.38
+2018-2019,Florin Andone,FW,Brighton,881,23,3,0,3,0.31,0,25,0.31
+2018-2019,Bernard,"FW,MF",Everton,2116,34,1,3,4,0.04,0.13,25,0.17
+2018-2019,Bobby De Cordova-Reid,"FW,MF",Cardiff City,1424,27,5,2,7,0.32,0.13,25,0.44
+2018-2019,Harry Kane,FW,Tottenham,2424,28,17,4,21,0.63,0.15,25,0.78
+2018-2019,Jesse Lingard,"FW,MF",Manchester Utd,1663,27,4,2,6,0.22,0.11,25,0.32
+2018-2019,Romelu Lukaku,FW,Manchester Utd,2136,32,12,0,12,0.51,0,25,0.51
+2018-2019,Álvaro Morata,FW,Chelsea,941,16,5,0,5,0.48,0,25,0.48
+2018-2019,Lucas Moura,"FW,MF",Tottenham,2121,32,10,0,10,0.42,0,25,0.42
+2018-2019,Ayoze Pérez,"MF,FW",Newcastle Utd,2917,37,12,2,14,0.37,0.06,25,0.43
+2018-2019,Alex Pritchard,"MF,FW",Huddersfield,2081,30,2,0,2,0.09,0,25,0.09
+2018-2019,Jeffrey Schlupp,"MF,FW",Crystal Palace,1670,30,4,1,5,0.22,0.05,25,0.27
+2018-2019,Wilfried Zaha,FW,Crystal Palace,3036,34,10,5,15,0.3,0.15,25,0.44
+2019-2020,Miguel Almirón,"MF,FW",Newcastle Utd,3021,36,4,2,6,0.12,0.06,25,0.18
+2019-2020,Sofiane Boufal,"MF,FW",Southampton,764,20,0,2,2,0,0.24,25,0.24
+2019-2020,Gerard Deulofeu,FW,Watford,2098,28,4,5,9,0.17,0.21,25,0.39
+2019-2020,Ryan Fraser,"MF,FW",Bournemouth,2067,28,1,4,5,0.04,0.17,25,0.22
+2019-2020,Sébastien Haller,FW,West Ham,2266,32,7,1,8,0.28,0.04,25,0.32
+2019-2020,Alireza Jahanbakhsh,"FW,MF",Brighton,311,10,2,0,2,0.58,0,25,0.58
+2019-2020,Solly March,"FW,MF",Brighton,1143,19,0,1,1,0,0.08,25,0.08
+2019-2020,Alex Oxlade-Chamberlain,"MF,FW",Liverpool,1485,30,4,1,5,0.24,0.06,25,0.3
+2019-2020,Nathan Redmond,"MF,FW",Southampton,2762,32,4,4,8,0.13,0.13,25,0.26
+2020-2021,Anwar El Ghazi,FW,Aston Villa,1613,28,10,0,10,0.56,0,25,0.56
+2020-2021,Aboubakar Kamara,"FW,MF",Fulham,315,11,0,0,0,0,0,25,0
+2020-2021,Aleksandar Mitrovi?,FW,Fulham,1402,27,3,3,6,0.19,0.19,25,0.39
+2020-2021,Nicolas Pépé,FW,Arsenal,1616,29,10,1,11,0.56,0.06,25,0.61
+2020-2021,Callum Robinson,"FW,MF",West Brom,1560,28,5,0,5,0.29,0,25,0.29
+2020-2021,Bernardo Silva,"MF,FW",Manchester City,2065,26,2,6,8,0.09,0.26,25,0.35
+2020-2021,Raheem Sterling,FW,Manchester City,2536,31,10,7,17,0.35,0.25,25,0.6
+2020-2021,Trézéguet,FW,Aston Villa,1166,21,2,1,3,0.15,0.08,25,0.23
+2020-2021,Leandro Trossard,"MF,FW",Brighton,2607,35,5,5,10,0.17,0.17,25,0.35
+2020-2021,Carlos Vinícius,FW,Tottenham,308,9,1,0,1,0.29,0,25,0.29
+2021-2022,Che Adams,FW,Southampton,2039,30,7,3,10,0.31,0.13,25,0.44
+2021-2022,Saïd Benrahma,"FW,MF",West Ham,2168,32,8,6,14,0.33,0.25,25,0.58
+2021-2022,Pablo Fornals,"FW,MF",West Ham,2795,36,6,3,9,0.19,0.1,25,0.29
+2021-2022,Demarai Gray,"MF,FW",Everton,2338,34,5,4,9,0.19,0.15,25,0.35
+2021-2022,Jack Grealish,FW,Manchester City,1914,26,3,3,6,0.14,0.14,25,0.28
+2021-2022,Hwang Hee-chan,"FW,MF",Wolves,1816,30,5,1,6,0.25,0.05,25,0.3
+2021-2022,Daniel Podence,"FW,MF",Wolves,1484,26,2,3,5,0.12,0.18,25,0.3
+2021-2022,Milot Rashica,"FW,MF",Norwich City,2229,31,1,2,3,0.04,0.08,25,0.12
+2021-2022,Ivan Toney,FW,Brentford,2909,33,12,5,17,0.37,0.15,25,0.53
+2021-2022,Adama Traoré,"FW,MF",Wolves,1067,20,1,0,1,0.08,0,25,0.08
+2021-2022,Ollie Watkins,FW,Aston Villa,2952,35,11,2,13,0.34,0.06,25,0.4
+2021-2022,Timo Werner,"FW,MF",Chelsea,1283,21,4,1,5,0.28,0.07,25,0.35
+2022-2023,Adam Armstrong,"FW,MF",Southampton,1335,30,2,1,3,0.13,0.07,25,0.2
+2022-2023,Jarrod Bowen,"FW,MF",West Ham,3233,38,6,5,11,0.17,0.14,25,0.31
+2022-2023,Emi Buendía,"MF,FW",Aston Villa,2412,38,5,2,7,0.19,0.07,25,0.26
+2022-2023,Dominic Calvert-Lewin,FW,Everton,1165,17,2,1,3,0.15,0.08,25,0.23
+2022-2023,Luis Díaz,FW,Liverpool,996,17,4,2,6,0.36,0.18,25,0.54
+2022-2023,Gonçalo Guedes,"FW,MF",Wolves,707,13,1,1,2,0.13,0.13,25,0.25
+2022-2023,Jack Harrison,"FW,MF",Leeds United,2708,36,5,7,12,0.17,0.23,25,0.4
+2022-2023,Kelechi Iheanacho,"FW,MF",Leicester City,1127,28,5,5,10,0.4,0.4,25,0.8
+2022-2023,Gabriel Jesus,FW,Arsenal,2064,26,11,6,17,0.48,0.26,25,0.74
+2022-2023,Joelinton,"MF,FW",Newcastle Utd,2661,32,6,1,7,0.2,0.03,25,0.24
+2022-2023,Diogo Jota,FW,Liverpool,1131,22,7,4,11,0.56,0.32,25,0.88
+2022-2023,James Maddison,"MF,FW",Leicester City,2480,30,10,9,19,0.36,0.33,25,0.69
+2022-2023,Jean-Philippe Mateta,FW,Crystal Palace,770,29,2,0,2,0.23,0,25,0.23
+2022-2023,Neal Maupay,FW,Everton,1118,27,1,0,1,0.08,0,25,0.08
+2022-2023,Kaoru Mitoma,"FW,MF",Brighton,2318,33,7,5,12,0.27,0.19,25,0.47
+2022-2023,Richarlison,"MF,FW",Tottenham,1010,27,1,3,4,0.09,0.27,25,0.36
+2022-2023,Allan Saint-Maximin,FW,Newcastle Utd,1120,25,1,5,6,0.08,0.4,25,0.48
+2022-2023,Harry Wilson,FW,Fulham,1100,29,2,3,5,0.16,0.25,25,0.41
+2022-2023,Yoane Wissa,FW,Brentford,1606,38,7,3,10,0.39,0.17,25,0.56
+2023-2024,Elijah Adebayo,FW,Luton Town,1419,27,10,0,10,0.63,0,25,0.63
+2023-2024,Taiwo Awoniyi,FW,Nott'ham Forest,1042,20,6,3,9,0.52,0.26,25,0.78
+2023-2024,Leon Bailey,"MF,FW",Aston Villa,2068,35,10,9,19,0.44,0.39,25,0.83
+2023-2024,Harvey Barnes,"FW,MF",Newcastle Utd,802,21,5,3,8,0.56,0.34,25,0.9
+2023-2024,Jean-Ricner Bellegarde,"MF,FW",Wolves,958,22,2,1,3,0.19,0.09,25,0.28
+2023-2024,Beto,FW,Everton,951,30,3,0,3,0.28,0,25,0.28
+2023-2024,Jacob Brown,"MF,FW",Luton Town,1019,19,2,0,2,0.18,0,25,0.18
+2023-2024,Nicolás Domínguez,"MF,FW",Nott'ham Forest,1495,26,2,2,4,0.12,0.12,25,0.24
+2023-2024,Odsonne Édouard,"FW,MF",Crystal Palace,1555,30,7,0,7,0.41,0,25,0.41
+2023-2024,Eberechi Eze,"MF,FW",Crystal Palace,2055,27,11,4,15,0.48,0.18,25,0.66
+2023-2024,Christopher Nkunku,"FW,MF",Chelsea,443,11,3,0,3,0.61,0,25,0.61
+2023-2024,Lucas Paquetá,"FW,MF",West Ham,2622,31,4,6,10,0.14,0.21,25,0.34
+2023-2024,Marcus Rashford,FW,Manchester Utd,2271,33,7,2,9,0.28,0.08,25,0.36
+2023-2024,Dominic Solanke,FW,Bournemouth,3325,38,19,3,22,0.51,0.08,25,0.6
+2024-2025,Ben Brereton,FW,Southampton,449,10,0,0,0,0,0,25,0
+2024-2025,Matheus Cunha,"MF,FW",Wolves,2597,33,15,6,21,0.52,0.21,25,0.73
+2024-2025,Patson Daka,"FW,MF",Leicester City,736,23,1,0,1,0.12,0,25,0.12
+2024-2025,Cody Gakpo,FW,Liverpool,1935,35,10,4,14,0.47,0.19,25,0.65
+2024-2025,Kai Havertz,"FW,MF",Arsenal,1875,23,9,3,12,0.43,0.14,25,0.58
+2024-2025,George Hirst,FW,Ipswich Town,661,26,3,1,4,0.41,0.14,25,0.54
+2024-2025,Donyell Malen,FW,Aston Villa,305,14,3,0,3,0.89,0,25,0.89
+2024-2025,Omar Marmoush,"FW,MF",Manchester City,1175,16,7,0,7,0.54,0,25,0.54
+2024-2025,Eddie Nketiah,"FW,MF",Crystal Palace,1034,29,3,1,4,0.26,0.09,25,0.35
+2024-2025,Darwin Núñez,FW,Liverpool,1133,30,5,2,7,0.4,0.16,25,0.56
+2024-2025,Marcus Tavernier,"FW,MF",Bournemouth,1939,29,3,5,8,0.14,0.23,25,0.37
+2010-2011,Jean Beausejour,"DF,FW",Birmingham City,895,17,2,0,2,0.2,0,26,0.2
+2010-2011,Jermaine Beckford,FW,Everton,1327,32,8,2,10,0.54,0.14,26,0.68
+2010-2011,Darren Bent,FW,Aston Villa,1398,16,9,1,10,0.58,0.06,26,0.64
+2010-2011,Marouane Chamakh,FW,Arsenal,1845,29,7,4,11,0.34,0.2,26,0.54
+2010-2011,Carlton Cole,FW,West Ham,2120,35,5,2,7,0.21,0.08,26,0.3
+2010-2011,Stewart Downing,"FW,MF",Aston Villa,3385,38,7,7,14,0.19,0.19,26,0.37
+2010-2011,Kevin Doyle,FW,Wolves,2184,26,5,4,9,0.21,0.16,26,0.37
+2010-2011,Julien Faubert,"DF,FW",West Ham,612,9,0,0,0,0,0,26,0
+2010-2011,Robin van Persie,FW,Arsenal,1770,25,18,7,25,0.92,0.36,26,1.27
+2010-2011,Stéphane Sessègnon,"FW,MF",Sunderland,1183,14,3,3,6,0.23,0.23,26,0.46
+2010-2011,Carlos Tevez,"FW,MF",Manchester City,2511,31,20,6,26,0.72,0.22,26,0.93
+2010-2011,Fernando Torres,FW,Liverpool,1891,23,9,2,11,0.43,0.1,26,0.52
+2010-2011,Jonathan Walters,"FW,MF",Stoke City,2341,36,6,2,8,0.23,0.08,26,0.31
+2011-2012,Demba Ba,FW,Newcastle Utd,2721,34,16,2,18,0.53,0.07,26,0.6
+2011-2012,Papiss Cissé,FW,Newcastle Utd,1106,14,13,1,14,1.06,0.08,26,1.14
+2011-2012,Kenwyne Jones,FW,Stoke City,980,21,1,0,1,0.09,0,26,0.09
+2011-2012,Leroy Lita,FW,Swansea City,466,16,2,1,3,0.39,0.19,26,0.58
+2011-2012,Hugo Rodallega,FW,Wigan Athletic,1256,23,2,4,6,0.14,0.29,26,0.43
+2011-2012,Wayne Routledge,"FW,MF",Swansea City,1459,28,1,4,5,0.06,0.25,26,0.31
+2011-2012,Ashley Young,"DF,FW",Manchester Utd,1565,25,6,7,13,0.35,0.4,26,0.75
+2012-2013,Ashkan Dejagah,"FW,MF",Fulham,1194,21,0,1,1,0,0.08,26,0.08
+2012-2013,Edin Džeko,FW,Manchester City,1822,32,14,3,17,0.69,0.15,26,0.84
+2012-2013,Urby Emanuelson,"DF,FW",Fulham,649,13,1,0,1,0.14,0,26,0.14
+2012-2013,Yoan Gouffran,"FW,MF",Newcastle Utd,1042,15,3,0,3,0.26,0,26,0.26
+2012-2013,Danny Graham,FW,Sunderland,951,13,0,1,1,0,0.09,26,0.09
+2012-2013,Nikica Jelavi?,FW,Everton,2427,37,7,2,9,0.26,0.07,26,0.33
+2012-2013,Michael Kightly,"FW,MF",Stoke City,1190,22,3,1,4,0.23,0.08,26,0.3
+2012-2013,Jamie Mackie,"FW,MF",QPR,1713,29,2,0,2,0.11,0,26,0.11
+2012-2013,Sylvain Marveaux,"FW,MF",Newcastle Utd,1007,22,1,4,5,0.09,0.36,26,0.45
+2012-2013,Michu,"FW,MF",Swansea City,2998,35,18,2,20,0.54,0.06,26,0.6
+2012-2013,Luke Moore,FW,Swansea City,538,17,3,2,5,0.5,0.33,26,0.84
+2012-2013,James Morrison,"FW,MF",West Brom,2836,35,5,5,10,0.16,0.16,26,0.32
+2012-2013,Charles N'Zogbia,"DF,FW",Aston Villa,996,21,2,4,6,0.18,0.36,26,0.54
+2012-2013,Wayne Rooney,"FW,MF",Manchester Utd,2014,27,12,10,22,0.54,0.45,26,0.98
+2012-2013,Bryan Ruiz,"FW,MF",Fulham,2381,29,5,7,12,0.19,0.26,26,0.45
+2012-2013,David Silva,"FW,MF",Manchester City,2508,32,4,8,12,0.14,0.29,26,0.43
+2013-2014,Gabriel Agbonlahor,"FW,MF",Aston Villa,2439,30,4,5,9,0.15,0.18,26,0.33
+2013-2014,Hatem Ben Arfa,"FW,MF",Newcastle Utd,1312,27,3,3,6,0.21,0.21,26,0.41
+2013-2014,Graham Dorrans,"FW,MF",West Brom,1104,14,2,0,2,0.16,0,26,0.16
+2013-2014,Steven Fletcher,FW,Sunderland,1238,20,3,0,3,0.22,0,26,0.22
+2013-2014,Olivier Giroud,FW,Arsenal,3067,36,16,8,24,0.47,0.23,26,0.7
+2013-2014,Aaron Lennon,"FW,MF",Tottenham,2177,27,1,3,4,0.04,0.12,26,0.17
+2013-2014,Shane Long,FW,West Brom,1036,15,3,1,4,0.26,0.09,26,0.35
+2013-2014,Steven Naismith,"FW,MF",Everton,1422,31,5,2,7,0.32,0.13,26,0.44
+2013-2014,Nani,"FW,MF",Manchester Utd,558,11,0,0,0,0,0,26,0
+2013-2014,Samir Nasri,"FW,MF",Manchester City,2483,34,7,7,14,0.25,0.25,26,0.51
+2013-2014,Loïc Rémy,FW,Newcastle Utd,2098,26,14,3,17,0.6,0.13,26,0.73
+2013-2014,Luis Suárez,FW,Liverpool,2962,33,31,12,43,0.94,0.36,26,1.31
+2014-2015,Sergio Agüero,FW,Manchester City,2531,33,26,8,34,0.92,0.28,26,1.21
+2014-2015,Victor Anichebe,FW,West Brom,1035,21,3,1,4,0.26,0.09,26,0.35
+2014-2015,Mame Biram Diouf,"FW,MF",Stoke City,2431,34,11,3,14,0.41,0.11,26,0.52
+2014-2015,Fraizer Campbell,FW,Crystal Palace,1172,20,4,0,4,0.31,0,26,0.31
+2014-2015,Juan Cuadrado,"DF,FW",Chelsea,315,12,0,0,0,0,0,26,0
+2014-2015,Ángel Di María,"FW,MF",Manchester Utd,1639,27,3,10,13,0.16,0.55,26,0.71
+2014-2015,Nathan Dyer,"FW,MF",Swansea City,1862,32,3,3,6,0.15,0.15,26,0.29
+2014-2015,Marvin Emnes,"FW,MF",Swansea City,514,17,0,0,0,0,0,26,0
+2014-2015,Adam Lallana,"FW,MF",Liverpool,1779,27,5,3,8,0.25,0.15,26,0.4
+2014-2015,Juan Mata,"FW,MF",Manchester Utd,2303,33,9,4,13,0.35,0.16,26,0.51
+2014-2015,Kevin Mirallas,"FW,MF",Everton,1420,29,7,1,8,0.44,0.06,26,0.51
+2015-2016,Marko Arnautovi?,"FW,MF",Stoke City,2807,34,11,6,17,0.35,0.19,26,0.55
+2015-2016,Yannick Bolasie,"FW,MF",Crystal Palace,2075,26,5,3,8,0.22,0.13,26,0.35
+2015-2016,Wilfried Bony,FW,Manchester City,1226,26,4,3,7,0.29,0.22,26,0.51
+2015-2016,Andy Carroll,FW,West Ham,1440,27,9,2,11,0.56,0.12,26,0.69
+2015-2016,Diego Costa,FW,Chelsea,2373,28,12,6,18,0.46,0.23,26,0.68
+2015-2016,Rudy Gestede,FW,Aston Villa,1669,32,5,2,7,0.27,0.11,26,0.38
+2015-2016,Odion Ighalo,FW,Watford,3146,37,15,3,18,0.43,0.09,26,0.51
+2015-2016,Siem de Jong,"FW,MF",Newcastle Utd,454,18,0,1,1,0,0.2,26,0.2
+2015-2016,James McClean,"DF,FW",West Brom,2413,35,2,2,4,0.07,0.07,26,0.15
+2015-2016,Jay Rodriguez,"FW,MF",Southampton,351,12,0,0,0,0,0,26,0
+2015-2016,Alexis Sánchez,"FW,MF",Arsenal,2436,30,13,4,17,0.48,0.15,26,0.63
+2015-2016,Scott Sinclair,"FW,MF",Aston Villa,1595,27,2,0,2,0.11,0,26,0.11
+2015-2016,Dušan Tadi?,"FW,MF",Southampton,2279,34,8,12,20,0.32,0.47,26,0.79
+2015-2016,Theo Walcott,"FW,MF",Arsenal,1373,28,5,2,7,0.33,0.13,26,0.46
+2015-2016,Willian,"FW,MF",Chelsea,2739,35,5,6,11,0.16,0.2,26,0.36
+2016-2017,Marc Albrighton,"DF,FW",Leicester City,2411,33,2,6,8,0.07,0.22,26,0.3
+2016-2017,Michail Antonio,"FW,MF",West Ham,2433,29,9,3,12,0.33,0.11,26,0.44
+2016-2017,André Ayew,"FW,MF",West Ham,1438,25,6,3,9,0.38,0.19,26,0.56
+2016-2017,Ashley Barnes,"FW,MF",Burnley,1771,28,6,2,8,0.3,0.1,26,0.41
+2016-2017,Nacer Chadli,"FW,MF",West Brom,2134,31,5,4,9,0.21,0.17,26,0.38
+2016-2017,Adama Diomande,FW,Hull City,1171,22,2,0,2,0.15,0,26,0.15
+2016-2017,Sofiane Feghouli,"FW,MF",West Ham,1041,21,3,2,5,0.26,0.17,26,0.43
+2016-2017,Jefferson Montero,"FW,MF",Swansea City,489,13,0,1,1,0,0.18,26,0.18
+2016-2017,Oumar Niasse,"FW,MF",Hull City,1097,17,4,1,5,0.33,0.08,26,0.41
+2016-2017,Emilio Nsue,"DF,FW",Middlesbrough,320,4,0,0,0,0,0,26,0
+2016-2017,Stefano Okaka,FW,Watford,958,19,4,1,5,0.38,0.09,26,0.47
+2016-2017,Salomón Rondón,FW,West Brom,2891,38,8,2,10,0.25,0.06,26,0.31
+2016-2017,Gylfi Sigurðsson,"FW,MF",Swansea City,3327,38,9,13,22,0.24,0.35,26,0.6
+2016-2017,Moussa Sissoko,"FW,MF",Tottenham,911,25,0,2,2,0,0.2,26,0.2
+2016-2017,Junior Stanislas,"FW,MF",Bournemouth,1467,21,7,5,12,0.43,0.31,26,0.74
+2016-2017,Daniel Sturridge,"FW,MF",Liverpool,775,20,3,1,4,0.35,0.12,26,0.46
+2016-2017,Sam Vokes,FW,Burnley,2064,37,10,3,13,0.44,0.13,26,0.57
+2017-2018,Christian Benteke,FW,Crystal Palace,2240,31,3,5,8,0.12,0.2,26,0.32
+2017-2018,André Carrillo,"FW,MF",Watford,1540,28,1,2,3,0.06,0.12,26,0.18
+2017-2018,Guido Carrillo,FW,Southampton,450,7,0,1,1,0,0.2,26,0.2
+2017-2018,Kiko Femenía,"DF,FW",Watford,1713,23,1,1,2,0.05,0.05,26,0.11
+2017-2018,Dwight Gayle,FW,Newcastle Utd,1958,35,6,3,9,0.28,0.14,26,0.41
+2017-2018,Andre Gray,FW,Watford,1498,31,5,2,7,0.3,0.12,26,0.42
+2017-2018,Pascal Groß,"FW,MF",Brighton,2928,38,7,8,15,0.22,0.25,26,0.46
+2017-2018,Eden Hazard,"FW,MF",Chelsea,2422,34,12,4,16,0.45,0.15,26,0.59
+2017-2018,Rajiv van La Parra,"FW,MF",Huddersfield,2137,33,3,0,3,0.13,0,26,0.13
+2017-2018,Alexandre Lacazette,FW,Arsenal,2202,32,14,4,18,0.57,0.16,26,0.74
+2017-2018,Riyad Mahrez,"MF,FW",Leicester City,2950,36,12,10,22,0.37,0.31,26,0.67
+2017-2018,Luciano Narsingh,"FW,MF",Swansea City,625,18,1,0,1,0.14,0,26,0.14
+2017-2018,Roberto Pereyra,"MF,FW",Watford,1624,32,5,2,7,0.28,0.11,26,0.39
+2017-2018,Collin Quaner,"FW,MF",Huddersfield,1280,26,0,4,4,0,0.28,26,0.28
+2017-2018,Cenk Tosun,FW,Everton,986,14,5,0,5,0.46,0,26,0.46
+2017-2018,Andros Townsend,"FW,MF",Crystal Palace,3120,36,2,7,9,0.06,0.2,26,0.26
+2017-2018,Danny Welbeck,"FW,MF",Arsenal,1194,28,5,2,7,0.38,0.15,26,0.53
+2018-2019,Jordan Ayew,FW,Crystal Palace,1181,20,1,2,3,0.08,0.15,26,0.23
+2018-2019,Roberto Firmino,"FW,MF",Liverpool,2607,34,12,6,18,0.41,0.21,26,0.62
+2018-2019,Manolo Gabbiadini,"FW,MF",Southampton,476,12,1,0,1,0.19,0,26,0.19
+2018-2019,Rachid Ghezzal,"FW,MF",Leicester City,743,19,1,0,1,0.12,0,26,0.12
+2018-2019,Jeff Hendrick,"MF,FW",Burnley,2063,32,3,0,3,0.13,0,26,0.13
+2018-2019,Son Heung-min,"FW,MF",Tottenham,2039,31,12,6,18,0.53,0.26,26,0.79
+2018-2019,Danny Ings,FW,Southampton,1651,24,7,3,10,0.38,0.16,26,0.55
+2018-2019,José Izquierdo,"MF,FW",Brighton,795,15,0,1,1,0,0.11,26,0.11
+2018-2019,Elias Kachunga,"FW,MF",Huddersfield,1182,20,0,0,0,0,0,26,0
+2018-2019,Joshua King,"FW,MF",Bournemouth,2961,35,12,3,15,0.36,0.09,26,0.46
+2018-2019,Anthony Knockaert,"MF,FW",Brighton,1837,30,2,6,8,0.1,0.29,26,0.39
+2018-2019,Érik Lamela,"MF,FW",Tottenham,974,19,4,2,6,0.37,0.18,26,0.55
+2018-2019,Sadio Mané,FW,Liverpool,3077,36,22,1,23,0.64,0.03,26,0.67
+2018-2019,Nathaniel Mendez-Laing,"MF,FW",Cardiff City,985,20,4,1,5,0.37,0.09,26,0.46
+2018-2019,Yoshinori Mut?,"FW,MF",Newcastle Utd,524,17,1,0,1,0.17,0,26,0.17
+2018-2019,Mohamed Salah,FW,Liverpool,3250,38,22,8,30,0.61,0.22,26,0.83
+2018-2019,Xherdan Shaqiri,"FW,MF",Liverpool,1064,24,6,3,9,0.51,0.25,26,0.76
+2018-2019,Mat?j Vydra,FW,Burnley,318,13,1,1,2,0.28,0.28,26,0.57
+2018-2019,Danny Ward,FW,Cardiff City,445,14,1,0,1,0.2,0,26,0.2
+2018-2019,Callum Wilson,FW,Bournemouth,2528,30,14,9,23,0.5,0.32,26,0.82
+2018-2019,Chris Wood,FW,Burnley,2588,38,10,2,12,0.35,0.07,26,0.42
+2019-2020,Felipe Anderson,"MF,FW",West Ham,1497,25,1,4,5,0.06,0.24,26,0.3
+2019-2020,Bernard,"MF,FW",Everton,1280,27,3,2,5,0.21,0.14,26,0.35
+2019-2020,Josip Drmi?,FW,Norwich City,647,21,1,0,1,0.14,0,26,0.14
+2019-2020,Onel Hernández,"FW,MF",Norwich City,1384,26,1,2,3,0.07,0.13,26,0.2
+2019-2020,Harry Kane,FW,Tottenham,2587,29,18,2,20,0.63,0.07,26,0.7
+2019-2020,Manuel Lanzini,"MF,FW",West Ham,1379,24,0,2,2,0,0.13,26,0.13
+2019-2020,Jesse Lingard,"MF,FW",Manchester Utd,935,22,1,0,1,0.1,0,26,0.1
+2019-2020,Lucas Moura,"FW,MF",Tottenham,2242,35,4,4,8,0.16,0.16,26,0.32
+2019-2020,Ayoze Pérez,"MF,FW",Leicester City,2004,33,8,4,12,0.36,0.18,26,0.54
+2019-2020,Mbwana Samatta,FW,Aston Villa,943,14,1,0,1,0.1,0,26,0.1
+2019-2020,Jeffrey Schlupp,"FW,MF",Crystal Palace,1036,17,3,1,4,0.26,0.09,26,0.35
+2019-2020,Wilfried Zaha,"FW,MF",Crystal Palace,3280,38,4,3,7,0.11,0.08,26,0.19
+2020-2021,Miguel Almirón,"MF,FW",Newcastle Utd,2429,34,4,1,5,0.15,0.04,26,0.19
+2020-2021,Patrick Bamford,FW,Leeds United,3050,38,17,7,24,0.5,0.21,26,0.71
+2020-2021,Michy Batshuayi,FW,Crystal Palace,728,18,2,1,3,0.25,0.12,26,0.37
+2020-2021,Ivan Cavaleiro,FW,Fulham,2472,36,3,0,3,0.11,0,26,0.11
+2020-2021,Hélder Costa,"MF,FW",Leeds United,1156,22,3,3,6,0.23,0.23,26,0.47
+2020-2021,Ryan Fraser,"FW,MF",Newcastle Utd,928,18,0,2,2,0,0.19,26,0.19
+2020-2021,Sébastien Haller,FW,West Ham,937,16,3,0,3,0.29,0,26,0.29
+2020-2021,Alireza Jahanbakhsh,"FW,MF",Brighton,528,21,0,1,1,0,0.17,26,0.17
+2020-2021,Ricardo Pereira,"DF,FW",Leicester City,959,15,0,1,1,0,0.09,26,0.09
+2020-2021,Nathan Redmond,"MF,FW",Southampton,1738,29,2,3,5,0.1,0.16,26,0.26
+2021-2022,Mohamed Elyounoussi,"MF,FW",Southampton,2042,30,4,2,6,0.18,0.09,26,0.26
+2021-2022,Anwar El Ghazi,"FW,MF",Aston Villa,386,9,1,1,2,0.23,0.23,26,0.47
+2021-2022,Jacob Murphy,"FW,DF",Newcastle Utd,1473,33,1,2,3,0.06,0.12,26,0.18
+2021-2022,Nicolas Pépé,"FW,MF",Arsenal,696,20,1,2,3,0.13,0.26,26,0.39
+2021-2022,Bernardo Silva,"MF,FW",Manchester City,2857,35,8,4,12,0.25,0.13,26,0.38
+2021-2022,Raheem Sterling,FW,Manchester City,2128,30,13,5,18,0.55,0.21,26,0.76
+2021-2022,Leandro Trossard,"FW,MF",Brighton,2805,34,8,3,11,0.26,0.1,26,0.35
+2022-2023,Che Adams,FW,Southampton,1992,28,5,3,8,0.23,0.14,26,0.36
+2022-2023,Joe Aribo,"MF,FW",Southampton,1224,21,2,0,2,0.15,0,26,0.15
+2022-2023,Saïd Benrahma,"FW,MF",West Ham,2069,35,6,3,9,0.26,0.13,26,0.39
+2022-2023,Philip Billing,"MF,FW",Bournemouth,2764,36,7,1,8,0.23,0.03,26,0.26
+2022-2023,Pablo Fornals,"FW,MF",West Ham,1503,32,3,1,4,0.18,0.06,26,0.24
+2022-2023,Demarai Gray,"FW,MF",Everton,2507,33,4,1,5,0.14,0.04,26,0.18
+2022-2023,Jack Grealish,FW,Manchester City,2055,28,5,7,12,0.22,0.31,26,0.53
+2022-2023,Hwang Hee-chan,"FW,MF",Wolves,1130,27,3,1,4,0.24,0.08,26,0.32
+2022-2023,Alex Iwobi,"MF,FW",Everton,3378,38,2,7,9,0.05,0.19,26,0.24
+2022-2023,Anthony Martial,FW,Manchester Utd,978,21,6,2,8,0.55,0.18,26,0.74
+2022-2023,Daniel Podence,"FW,MF",Wolves,1771,32,6,0,6,0.3,0,26,0.3
+2022-2023,Ivan Toney,FW,Brentford,2951,33,20,4,24,0.61,0.12,26,0.73
+2022-2023,Adama Traoré,"FW,MF",Wolves,1496,34,2,1,3,0.12,0.06,26,0.18
+2022-2023,Deniz Undav,"FW,MF",Brighton,628,22,5,0,5,0.72,0,26,0.72
+2022-2023,Ollie Watkins,FW,Aston Villa,3127,37,15,6,21,0.43,0.17,26,0.6
+2023-2024,Jarrod Bowen,FW,West Ham,3019,34,16,6,22,0.48,0.18,26,0.66
+2023-2024,Dominic Calvert-Lewin,FW,Everton,2171,32,7,2,9,0.29,0.08,26,0.37
+2023-2024,Arnaut Danjuma,"MF,FW",Everton,595,14,1,0,1,0.15,0,26,0.15
+2023-2024,Luis Díaz,FW,Liverpool,2629,37,8,5,13,0.27,0.17,26,0.45
+2023-2024,Jack Harrison,"MF,FW",Everton,2214,29,3,3,6,0.12,0.12,26,0.24
+2023-2024,Gabriel Jesus,FW,Arsenal,1478,27,4,5,9,0.24,0.3,26,0.55
+2023-2024,Joelinton,"MF,FW",Newcastle Utd,1279,20,2,1,3,0.14,0.07,26,0.21
+2023-2024,Diogo Jota,FW,Liverpool,1145,21,10,3,13,0.79,0.24,26,1.02
+2023-2024,Jean-Philippe Mateta,FW,Crystal Palace,2282,35,16,5,21,0.63,0.2,26,0.83
+2023-2024,Neal Maupay,FW,Brentford,1321,29,6,3,9,0.41,0.2,26,0.61
+2023-2024,Scott McTominay,"MF,FW",Manchester Utd,1901,32,7,1,8,0.33,0.05,26,0.38
+2023-2024,Kaoru Mitoma,FW,Brighton,1486,19,3,4,7,0.18,0.24,26,0.42
+2023-2024,Richarlison,FW,Tottenham,1491,28,11,4,15,0.66,0.24,26,0.91
+2023-2024,Youri Tielemans,"MF,FW",Aston Villa,1622,32,2,6,8,0.11,0.33,26,0.44
+2023-2024,Enes Ünal,"FW,MF",Bournemouth,328,16,2,2,4,0.55,0.55,26,1.1
+2023-2024,Harry Wilson,FW,Fulham,1620,35,4,6,10,0.22,0.33,26,0.56
+2023-2024,Yoane Wissa,FW,Brentford,2493,34,12,3,15,0.43,0.11,26,0.54
+2024-2025,Taiwo Awoniyi,FW,Nott'ham Forest,416,26,1,0,1,0.22,0,26,0.22
+2024-2025,Leon Bailey,"FW,MF",Aston Villa,1139,24,1,2,3,0.08,0.16,26,0.24
+2024-2025,Harvey Barnes,FW,Newcastle Utd,1755,33,9,4,13,0.46,0.21,26,0.67
+2024-2025,Jean-Ricner Bellegarde,"MF,FW",Wolves,1677,35,2,7,9,0.11,0.38,26,0.48
+2024-2025,Beto,FW,Everton,1534,30,8,0,8,0.47,0,26,0.47
+2024-2025,Nathan Broadhead,"MF,FW",Ipswich Town,702,18,2,0,2,0.26,0,26,0.26
+2024-2025,Nicolás Domínguez,"MF,FW",Nott'ham Forest,1963,34,0,1,1,0,0.05,26,0.05
+2024-2025,Eberechi Eze,"MF,FW",Crystal Palace,2588,34,8,8,16,0.28,0.28,26,0.56
+2024-2025,Stephy Mavididi,FW,Leicester City,1615,30,4,1,5,0.22,0.06,26,0.28
+2024-2025,Christopher Nkunku,FW,Chelsea,921,27,3,2,5,0.29,0.2,26,0.49
+2024-2025,Lucas Paquetá,"MF,FW",West Ham,2380,33,4,0,4,0.15,0,26,0.15
+2024-2025,Marcus Rashford,"FW,MF",Manchester Utd,978,15,4,1,5,0.37,0.09,26,0.46
+2024-2025,Dominic Solanke,FW,Tottenham,2201,27,9,3,12,0.37,0.12,26,0.49
+2010-2011,Yakubu Aiyegbeni,FW,Everton,668,14,1,1,2,0.13,0.13,27,0.27
+2010-2011,Jermain Defoe,FW,Tottenham,1477,22,4,2,6,0.24,0.12,27,0.37
+2010-2011,Clint Dempsey,"FW,MF",Fulham,3091,37,12,3,15,0.35,0.09,27,0.44
+2010-2011,Jerome Thomas,"FW,MF",West Brom,2568,33,3,5,8,0.11,0.18,27,0.28
+2010-2011,Luke Varney,"FW,MF",Blackpool,2032,30,5,3,8,0.22,0.13,27,0.35
+2011-2012,Emmanuel Adebayor,FW,Tottenham,2827,33,17,11,28,0.54,0.35,27,0.89
+2011-2012,Jean Beausejour,"DF,FW",Wigan Athletic,1387,16,0,5,5,0,0.32,27,0.32
+2011-2012,Darren Bent,FW,Aston Villa,1858,22,9,1,10,0.44,0.05,27,0.48
+2011-2012,Stewart Downing,"FW,MF",Liverpool,2473,36,0,0,0,0,0,27,0
+2011-2012,Kevin Doyle,FW,Wolves,2349,33,4,7,11,0.15,0.27,27,0.42
+2011-2012,Steve Morison,FW,Norwich City,2102,34,9,4,13,0.39,0.17,27,0.56
+2011-2012,Robin van Persie,FW,Arsenal,3331,38,30,9,39,0.81,0.24,27,1.05
+2011-2012,Pavel Pogrebnyak,FW,Fulham,943,12,6,0,6,0.57,0,27,0.57
+2011-2012,Stéphane Sessègnon,"FW,MF",Sunderland,3126,36,7,9,16,0.2,0.26,27,0.46
+2011-2012,Carlos Tevez,"FW,MF",Manchester City,601,13,4,3,7,0.6,0.45,27,1.05
+2011-2012,Fernando Torres,FW,Chelsea,1913,32,6,4,10,0.28,0.19,27,0.47
+2011-2012,Jonathan Walters,"FW,MF",Stoke City,3331,38,7,5,12,0.19,0.14,27,0.32
+2012-2013,Demba Ba,FW,Newcastle Utd,1664,20,13,0,13,0.7,0,27,0.7
+2012-2013,Papiss Cissé,FW,Newcastle Utd,2994,36,8,2,10,0.24,0.06,27,0.3
+2012-2013,Pablo Hernández,"FW,MF",Swansea City,2183,30,3,6,9,0.12,0.25,27,0.37
+2012-2013,Kenwyne Jones,FW,Stoke City,1049,26,3,2,5,0.26,0.17,27,0.43
+2012-2013,Kei Kamara,FW,Norwich City,658,11,1,1,2,0.14,0.14,27,0.27
+2012-2013,Lukas Podolski,"FW,MF",Arsenal,1985,33,11,9,20,0.5,0.41,27,0.91
+2012-2013,Hugo Rodallega,FW,Fulham,1515,29,3,1,4,0.18,0.06,27,0.24
+2012-2013,Wayne Routledge,"FW,MF",Swansea City,2516,36,5,4,9,0.18,0.14,27,0.32
+2012-2013,Ashley Young,"DF,FW",Manchester Utd,1368,19,0,3,3,0,0.2,27,0.2
+2013-2014,George Boyd,"FW,MF",Hull City,1211,29,2,2,4,0.15,0.15,27,0.3
+2013-2014,Ashkan Dejagah,"FW,MF",Fulham,1300,22,5,2,7,0.35,0.14,27,0.48
+2013-2014,Edin Džeko,FW,Manchester City,1986,31,16,1,17,0.73,0.05,27,0.77
+2013-2014,Yoan Gouffran,"FW,MF",Newcastle Utd,2609,35,6,3,9,0.21,0.1,27,0.31
+2013-2014,Danny Graham,FW,Hull City,999,18,1,1,2,0.09,0.09,27,0.18
+2013-2014,Nikica Jelavi?,FW,Hull City,1309,16,5,0,5,0.34,0,27,0.34
+2013-2014,Aiden McGeady,"FW,MF",Everton,477,16,0,1,1,0,0.19,27,0.19
+2013-2014,Michu,"FW,MF",Swansea City,1286,17,2,2,4,0.14,0.14,27,0.28
+2013-2014,James Morrison,"FW,MF",West Brom,2212,32,1,3,4,0.04,0.12,27,0.16
+2013-2014,Dean Moxey,"DF,FW",Crystal Palace,1519,20,0,1,1,0,0.06,27,0.06
+2013-2014,Jesús Navas,"DF,FW",Manchester City,1750,29,4,7,11,0.21,0.36,27,0.57
+2013-2014,Álvaro Negredo,FW,Manchester City,1723,32,9,3,12,0.47,0.16,27,0.63
+2013-2014,Dani Osvaldo,FW,Southampton,855,13,3,0,3,0.32,0,27,0.32
+2013-2014,Stephen Quinn,"FW,MF",Hull City,511,15,0,0,0,0,0,27,0
+2013-2014,Wayne Rooney,"FW,MF",Manchester Utd,2446,29,17,10,27,0.63,0.37,27,0.99
+2013-2014,Bryan Ruiz,"FW,MF",Fulham,772,12,1,3,4,0.12,0.35,27,0.47
+2013-2014,David Silva,"FW,MF",Manchester City,2161,27,7,9,16,0.29,0.37,27,0.67
+2014-2015,Gabriel Agbonlahor,"FW,MF",Aston Villa,2693,34,6,1,7,0.2,0.03,27,0.23
+2014-2015,Hatem Ben Arfa,"FW,MF",Hull City,383,8,0,0,0,0,0,27,0
+2014-2015,Graham Dorrans,"FW,MF",West Brom,1587,21,1,3,4,0.06,0.17,27,0.23
+2014-2015,Eljero Elia,"FW,MF",Southampton,787,16,2,0,2,0.23,0,27,0.23
+2014-2015,Cesc Fàbregas,"FW,MF",Chelsea,2883,34,3,18,21,0.09,0.56,27,0.66
+2014-2015,Steven Fletcher,FW,Sunderland,1784,30,5,2,7,0.25,0.1,27,0.35
+2014-2015,Olivier Giroud,FW,Arsenal,1862,27,14,3,17,0.68,0.15,27,0.82
+2014-2015,Shane Long,FW,Southampton,1545,32,5,5,10,0.29,0.29,27,0.58
+2014-2015,Steven Naismith,"FW,MF",Everton,2057,31,7,0,7,0.31,0,27,0.31
+2014-2015,Samir Nasri,"FW,MF",Manchester City,1569,24,2,5,7,0.11,0.29,27,0.4
+2014-2015,Jamie Vardy,FW,Leicester City,2241,34,5,8,13,0.2,0.32,27,0.52
+2014-2015,Mauro Zárate,"FW,MF",West Ham,412,7,2,1,3,0.44,0.22,27,0.66
+2015-2016,Sergio Agüero,FW,Manchester City,2360,30,24,2,26,0.92,0.08,27,0.99
+2015-2016,Victor Anichebe,FW,West Brom,369,10,0,0,0,0,0,27,0
+2015-2016,Ikechi Anya,"FW,MF",Watford,1686,28,0,1,1,0,0.05,27,0.05
+2015-2016,Mame Biram Diouf,"FW,MF",Stoke City,1278,26,5,1,6,0.35,0.07,27,0.42
+2015-2016,Fraizer Campbell,FW,Crystal Palace,362,11,0,0,0,0,0,27,0
+2015-2016,Lee Chung-yong,"FW,MF",Crystal Palace,390,13,1,0,1,0.23,0,27,0.23
+2015-2016,Troy Deeney,FW,Watford,3291,38,13,7,20,0.36,0.19,27,0.55
+2015-2016,Max Gradel,"FW,MF",Bournemouth,891,14,1,2,3,0.1,0.2,27,0.3
+2015-2016,Adam Lallana,"FW,MF",Liverpool,2107,30,4,6,10,0.17,0.26,27,0.43
+2015-2016,Jeremain Lens,"FW,MF",Sunderland,1294,20,3,3,6,0.21,0.21,27,0.42
+2015-2016,Juan Mata,"FW,MF",Manchester Utd,2888,38,6,5,11,0.19,0.16,27,0.34
+2015-2016,Kevin Mirallas,"FW,MF",Everton,1013,23,4,2,6,0.36,0.18,27,0.53
+2015-2016,Bakary Sako,"FW,MF",Crystal Palace,1069,20,2,1,3,0.17,0.08,27,0.25
+2016-2017,Marko Arnautovi?,"FW,MF",Stoke City,2714,32,6,5,11,0.2,0.17,27,0.36
+2016-2017,Charlie Austin,FW,Southampton,934,15,6,1,7,0.58,0.1,27,0.67
+2016-2017,Wilfried Bony,FW,Stoke City,684,10,2,0,2,0.26,0,27,0.26
+2016-2017,Andy Carroll,FW,West Ham,1311,18,7,1,8,0.48,0.07,27,0.55
+2016-2017,Diego Costa,FW,Chelsea,3082,35,20,7,27,0.58,0.2,27,0.79
+2016-2017,Rudy Gestede,FW,Middlesbrough,533,16,1,0,1,0.17,0,27,0.17
+2016-2017,Odion Ighalo,FW,Watford,1291,18,1,0,1,0.07,0,27,0.07
+2016-2017,James McClean,"DF,FW",West Brom,1477,34,1,2,3,0.06,0.12,27,0.18
+2016-2017,Henrikh Mkhitaryan,"FW,MF",Manchester Utd,1348,24,4,1,5,0.27,0.07,27,0.33
+2016-2017,Hal Robson-Kanu,"FW,MF",West Brom,701,29,3,2,5,0.39,0.26,27,0.64
+2016-2017,Jay Rodriguez,"FW,MF",Southampton,892,24,5,2,7,0.5,0.2,27,0.71
+2016-2017,Alexis Sánchez,"FW,MF",Arsenal,3217,38,24,10,34,0.67,0.28,27,0.95
+2016-2017,Dušan Tadi?,"FW,MF",Southampton,2411,33,3,5,8,0.11,0.19,27,0.3
+2016-2017,Theo Walcott,"FW,MF",Arsenal,1916,28,10,2,12,0.47,0.09,27,0.56
+2016-2017,Willian,"FW,MF",Chelsea,1534,34,8,2,10,0.47,0.12,27,0.59
+2017-2018,Marc Albrighton,"MF,FW",Leicester City,2538,34,2,7,9,0.07,0.25,27,0.32
+2017-2018,Michail Antonio,"FW,MF",West Ham,1354,21,3,1,4,0.2,0.07,27,0.27
+2017-2018,André Ayew,"MF,FW",West Ham,895,18,3,2,5,0.3,0.2,27,0.5
+2017-2018,Ashley Barnes,FW,Burnley,2165,36,9,0,9,0.37,0,27,0.37
+2017-2018,Joselu,FW,Newcastle Utd,1712,30,4,1,5,0.21,0.05,27,0.26
+2017-2018,Oumar Niasse,FW,Everton,1087,22,8,2,10,0.66,0.17,27,0.83
+2017-2018,Stefano Okaka,FW,Watford,453,15,1,1,2,0.2,0.2,27,0.4
+2017-2018,Matt Ritchie,"MF,FW",Newcastle Utd,2804,35,3,5,8,0.1,0.16,27,0.26
+2017-2018,Salomón Rondón,FW,West Brom,2767,36,7,3,10,0.23,0.1,27,0.33
+2017-2018,Diafra Sakho,FW,West Ham,306,14,2,0,2,0.59,0,27,0.59
+2017-2018,Gylfi Sigurðsson,"MF,FW",Everton,2259,27,4,3,7,0.16,0.12,27,0.28
+2017-2018,Moussa Sissoko,"MF,FW",Tottenham,1402,33,1,1,2,0.06,0.06,27,0.13
+2017-2018,Junior Stanislas,"MF,FW",Bournemouth,1286,19,5,2,7,0.35,0.14,27,0.49
+2017-2018,Sam Vokes,FW,Burnley,998,30,4,1,5,0.36,0.09,27,0.45
+2018-2019,Christian Benteke,FW,Crystal Palace,814,16,1,1,2,0.11,0.11,27,0.22
+2018-2019,Tom Cairney,"MF,FW",Fulham,2194,31,1,1,2,0.04,0.04,27,0.08
+2018-2019,Andre Gray,FW,Watford,1366,29,7,2,9,0.46,0.13,27,0.59
+2018-2019,Pascal Groß,"MF,FW",Brighton,1864,25,3,3,6,0.14,0.14,27,0.29
+2018-2019,Eden Hazard,FW,Chelsea,2923,37,16,15,31,0.49,0.46,27,0.95
+2018-2019,Raúl Jiménez,FW,Wolves,3111,38,13,7,20,0.38,0.2,27,0.58
+2018-2019,Rajiv van La Parra,"FW,MF",Huddersfield,405,5,0,0,0,0,0,27,0
+2018-2019,Alexandre Lacazette,FW,Arsenal,2502,35,13,8,21,0.47,0.29,27,0.76
+2018-2019,Riyad Mahrez,"FW,MF",Manchester City,1343,27,7,4,11,0.47,0.27,27,0.74
+2018-2019,Aaron Mooy,"MF,FW",Huddersfield,2330,29,3,1,4,0.12,0.04,27,0.15
+2018-2019,André Schürrle,"FW,MF",Fulham,1641,24,6,0,6,0.33,0,27,0.33
+2018-2019,Cenk Tosun,FW,Everton,1059,25,3,3,6,0.25,0.25,27,0.51
+2018-2019,Andros Townsend,"FW,MF",Crystal Palace,3009,38,6,4,10,0.18,0.12,27,0.3
+2019-2020,Christian Atsu,"MF,FW",Newcastle Utd,749,19,0,3,3,0,0.36,27,0.36
+2019-2020,Jordan Ayew,FW,Crystal Palace,3148,37,9,2,11,0.26,0.06,27,0.31
+2019-2020,Christian Eriksen,"MF,FW",Tottenham,1097,20,2,2,4,0.16,0.16,27,0.33
+2019-2020,Roberto Firmino,FW,Liverpool,2988,38,9,8,17,0.27,0.24,27,0.51
+2019-2020,Son Heung-min,FW,Tottenham,2476,30,11,10,21,0.4,0.36,27,0.76
+2019-2020,Danny Ings,FW,Southampton,2804,38,22,2,24,0.71,0.06,27,0.77
+2019-2020,Joshua King,"FW,MF",Bournemouth,2011,26,6,4,10,0.27,0.18,27,0.45
+2019-2020,Érik Lamela,"MF,FW",Tottenham,1215,25,2,1,3,0.15,0.07,27,0.22
+2019-2020,Sadio Mané,FW,Liverpool,2747,35,18,7,25,0.59,0.23,27,0.82
+2019-2020,Mohamed Salah,FW,Liverpool,2876,34,19,10,29,0.59,0.31,27,0.91
+2019-2020,Mat?j Vydra,FW,Burnley,819,19,2,1,3,0.22,0.11,27,0.33
+2019-2020,Callum Wilson,FW,Bournemouth,2908,35,8,1,9,0.25,0.03,27,0.28
+2019-2020,Chris Wood,FW,Burnley,2437,32,14,1,15,0.52,0.04,27,0.55
+2020-2021,Bernard,"MF,FW",Everton,455,12,1,0,1,0.2,0,27,0.2
+2020-2021,Bobby De Cordova-Reid,"MF,FW",Fulham,2372,33,5,2,7,0.19,0.08,27,0.27
+2020-2021,Ryan Fredericks,"DF,FW",West Ham,569,14,1,1,2,0.16,0.16,27,0.32
+2020-2021,Harry Kane,FW,Tottenham,3082,35,23,14,37,0.67,0.41,27,1.08
+2020-2021,Manuel Lanzini,"MF,FW",West Ham,566,17,1,1,2,0.16,0.16,27,0.32
+2020-2021,Jesse Lingard,"MF,FW",West Ham,1421,16,9,4,13,0.57,0.25,27,0.82
+2020-2021,Lucas Moura,"FW,MF",Tottenham,1411,30,3,4,7,0.19,0.26,27,0.45
+2020-2021,Ayoze Pérez,"MF,FW",Leicester City,1331,25,2,1,3,0.14,0.07,27,0.2
+2020-2021,Paul Pogba,"MF,FW",Manchester Utd,1897,26,3,3,6,0.14,0.14,27,0.28
+2020-2021,Wilfried Zaha,FW,Crystal Palace,2612,30,11,2,13,0.38,0.07,27,0.45
+2020-2021,Hakim Ziyech,"MF,FW",Chelsea,1172,23,2,3,5,0.15,0.23,27,0.38
+2021-2022,Miguel Almirón,"MF,FW",Newcastle Utd,1716,30,1,0,1,0.05,0,27,0.05
+2021-2022,Patrick Bamford,FW,Leeds United,559,9,2,2,4,0.32,0.32,27,0.64
+2021-2022,Ryan Fraser,"FW,MF",Newcastle Utd,1465,27,2,3,5,0.12,0.18,27,0.31
+2021-2022,Solly March,"DF,FW",Brighton,1746,31,0,2,2,0,0.1,27,0.1
+2021-2022,Arthur Masuaku,"DF,FW",West Ham,650,13,1,1,2,0.14,0.14,27,0.28
+2021-2022,Alex Oxlade-Chamberlain,"MF,FW",Liverpool,785,17,2,1,3,0.23,0.11,27,0.34
+2021-2022,Nathan Redmond,"MF,FW",Southampton,1833,27,1,5,6,0.05,0.25,27,0.29
+2021-2022,Ken Sema,"MF,FW",Watford,852,18,0,0,0,0,0,27,0
+2022-2023,Ryan Christie,"MF,FW",Bournemouth,1834,32,1,1,2,0.05,0.05,27,0.1
+2022-2023,Mohamed Elyounoussi,"MF,FW",Southampton,2168,33,1,1,2,0.04,0.04,27,0.08
+2022-2023,Bruno Fernandes,"MF,FW",Manchester Utd,3316,37,8,8,16,0.22,0.22,27,0.43
+2022-2023,John McGinn,"MF,FW",Aston Villa,2693,34,1,3,4,0.03,0.1,27,0.13
+2022-2023,Aleksandar Mitrovi?,FW,Fulham,2008,24,14,1,15,0.63,0.04,27,0.67
+2022-2023,Jacob Murphy,FW,Newcastle Utd,1251,36,4,2,6,0.29,0.14,27,0.43
+2022-2023,Bernardo Silva,"MF,FW",Manchester City,2205,34,4,5,9,0.16,0.2,27,0.37
+2022-2023,Raheem Sterling,"FW,MF",Chelsea,1891,28,6,3,9,0.29,0.14,27,0.43
+2022-2023,Leandro Trossard,FW,Arsenal,931,20,1,10,11,0.1,0.97,27,1.06
+2022-2023,Carlos Vinícius,FW,Fulham,1109,28,5,2,7,0.41,0.16,27,0.57
+2023-2024,Saïd Benrahma,"FW,MF",West Ham,620,13,0,1,1,0,0.15,27,0.15
+2023-2024,Pablo Fornals,"MF,FW",West Ham,426,15,0,0,0,0,0,27,0
+2023-2024,Jack Grealish,"FW,MF",Manchester City,1009,20,3,1,4,0.27,0.09,27,0.36
+2023-2024,Hwang Hee-chan,"FW,MF",Wolves,2119,29,12,3,15,0.51,0.13,27,0.64
+2023-2024,Anthony Martial,FW,Manchester Utd,448,13,1,0,1,0.2,0,27,0.2
+2023-2024,Oliver McBurnie,FW,Sheffield Utd,1280,21,6,3,9,0.42,0.21,27,0.63
+2023-2024,Carlton Morris,"FW,MF",Luton Town,2862,38,11,4,15,0.35,0.13,27,0.47
+2023-2024,Ivan Toney,FW,Brentford,1450,17,4,2,6,0.25,0.12,27,0.37
+2023-2024,Adama Traoré,"FW,MF",Fulham,377,17,2,3,5,0.48,0.72,27,1.19
+2023-2024,Ollie Watkins,FW,Aston Villa,3217,37,19,13,32,0.53,0.36,27,0.9
+2023-2024,Timo Werner,FW,Tottenham,809,13,2,3,5,0.22,0.33,27,0.56
+2024-2025,Adam Armstrong,"FW,MF",Southampton,1248,20,2,2,4,0.14,0.14,27,0.29
+2024-2025,Jarrod Bowen,"FW,MF",West Ham,2973,34,13,8,21,0.39,0.24,27,0.64
+2024-2025,David Brooks,"FW,MF",Bournemouth,960,29,2,0,2,0.19,0,27,0.19
+2024-2025,Dominic Calvert-Lewin,FW,Everton,1609,26,3,1,4,0.17,0.06,27,0.22
+2024-2025,Conor Chaplin,"MF,FW",Ipswich Town,857,22,1,1,2,0.11,0.11,27,0.21
+2024-2025,Luis Díaz,FW,Liverpool,2399,36,13,5,18,0.49,0.19,27,0.68
+2024-2025,Gonçalo Guedes,"MF,FW",Wolves,995,29,2,4,6,0.18,0.36,27,0.54
+2024-2025,Jack Harrison,FW,Everton,2076,34,1,0,1,0.04,0,27,0.04
+2024-2025,Gabriel Jesus,FW,Arsenal,608,17,3,0,3,0.44,0,27,0.44
+2024-2025,Joelinton,"MF,FW",Newcastle Utd,2393,29,4,3,7,0.15,0.11,27,0.26
+2024-2025,Diogo Jota,FW,Liverpool,1196,26,6,3,9,0.45,0.23,27,0.68
+2024-2025,Jean-Philippe Mateta,FW,Crystal Palace,2648,37,14,2,16,0.48,0.07,27,0.54
+2024-2025,Kaoru Mitoma,"FW,MF",Brighton,2603,36,10,4,14,0.35,0.14,27,0.48
+2024-2025,Richarlison,FW,Tottenham,504,15,4,1,5,0.71,0.18,27,0.89
+2024-2025,Carlos Soler,"MF,FW",West Ham,1409,31,1,1,2,0.06,0.06,27,0.13
+2024-2025,Enes Ünal,"FW,MF",Bournemouth,345,17,2,1,3,0.52,0.26,27,0.78
+2024-2025,Harry Wilson,"FW,MF",Fulham,1162,25,6,1,7,0.46,0.08,27,0.54
+2024-2025,Yoane Wissa,FW,Brentford,2919,35,19,4,23,0.59,0.12,27,0.71
+2010-2011,Shola Ameobi,FW,Newcastle Utd,1752,28,6,3,9,0.31,0.15,28,0.46
+2010-2011,DJ Campbell,FW,Blackpool,2626,31,13,1,14,0.45,0.03,28,0.48
+2010-2011,Morten Gamst Pedersen,"FW,MF",Blackburn,2525,35,4,6,10,0.14,0.21,28,0.36
+2010-2011,Stephen Hunt,"FW,MF",Wolves,1340,20,3,2,5,0.2,0.13,28,0.34
+2010-2011,Roman Pavlyuchenko,FW,Tottenham,1589,29,10,4,14,0.57,0.23,28,0.79
+2010-2011,Tuncay ?anl?,"FW,MF",Stoke City,718,14,1,2,3,0.13,0.25,28,0.38
+2011-2012,Yakubu Aiyegbeni,FW,Blackburn,2442,30,17,2,19,0.63,0.07,28,0.7
+2011-2012,Jermain Defoe,FW,Tottenham,1301,25,11,1,12,0.76,0.07,28,0.83
+2011-2012,Clint Dempsey,"FW,MF",Fulham,3322,37,17,6,23,0.46,0.16,28,0.62
+2011-2012,Shaun Maloney,"FW,MF",Wigan Athletic,772,13,3,2,5,0.35,0.23,28,0.58
+2011-2012,Jerome Thomas,"FW,MF",West Brom,1983,29,1,1,2,0.05,0.05,28,0.09
+2012-2013,Emmanuel Adebayor,FW,Tottenham,1598,25,5,1,6,0.28,0.06,28,0.34
+2012-2013,Jean Beausejour,"DF,FW",Wigan Athletic,2778,34,1,7,8,0.03,0.23,28,0.26
+2012-2013,Darren Bent,FW,Aston Villa,815,16,3,0,3,0.33,0,28,0.33
+2012-2013,Carlton Cole,FW,West Ham,1369,27,2,1,3,0.13,0.07,28,0.2
+2012-2013,Stewart Downing,"FW,MF",Liverpool,2191,29,3,5,8,0.12,0.21,28,0.33
+2012-2013,Brett Holman,"FW,MF",Aston Villa,1425,27,1,3,4,0.06,0.19,28,0.25
+2012-2013,Arouna Koné,FW,Wigan Athletic,2930,34,11,5,16,0.34,0.15,28,0.49
+2012-2013,Steve Morison,FW,Norwich City,479,19,1,0,1,0.19,0,28,0.19
+2012-2013,Robin van Persie,FW,Manchester Utd,3123,38,26,9,35,0.75,0.26,28,1.01
+2012-2013,Pavel Pogrebnyak,FW,Reading,2016,29,5,0,5,0.22,0,28,0.22
+2012-2013,Stéphane Sessègnon,"FW,MF",Sunderland,2886,35,7,3,10,0.22,0.09,28,0.31
+2012-2013,Carlos Tevez,"FW,MF",Manchester City,2393,34,11,8,19,0.41,0.3,28,0.71
+2012-2013,Fernando Torres,FW,Chelsea,2571,36,8,6,14,0.28,0.21,28,0.49
+2012-2013,Jonathan Walters,"FW,MF",Stoke City,3303,38,8,1,9,0.22,0.03,28,0.25
+2013-2014,Demba Ba,FW,Chelsea,669,19,5,1,6,0.67,0.13,28,0.81
+2013-2014,Papiss Cissé,FW,Newcastle Utd,1384,24,2,2,4,0.13,0.13,28,0.26
+2013-2014,Emanuele Giaccherini,"FW,MF",Sunderland,1354,24,4,4,8,0.27,0.27,28,0.53
+2013-2014,Pablo Hernández,"FW,MF",Swansea City,1427,27,2,7,9,0.13,0.44,28,0.57
+2013-2014,Kenwyne Jones,FW,Stoke City,381,7,0,0,0,0,0,28,0
+2013-2014,Lukas Podolski,"FW,MF",Arsenal,1167,20,8,2,10,0.62,0.15,28,0.77
+2013-2014,Hugo Rodallega,FW,Fulham,627,13,2,2,4,0.29,0.29,28,0.57
+2013-2014,Wayne Routledge,"FW,MF",Swansea City,2699,35,2,4,6,0.07,0.13,28,0.2
+2013-2014,Roberto Soldado,FW,Tottenham,1928,28,6,5,11,0.28,0.23,28,0.51
+2013-2014,Ashley Young,"DF,FW",Manchester Utd,1029,20,2,1,3,0.17,0.09,28,0.26
+2014-2015,George Boyd,"FW,MF",Burnley,3005,35,5,2,7,0.15,0.06,28,0.21
+2014-2015,Edin Džeko,FW,Manchester City,932,22,4,2,6,0.39,0.19,28,0.58
+2014-2015,Radamel Falcao,FW,Manchester Utd,1287,26,4,4,8,0.28,0.28,28,0.56
+2014-2015,Bafétimbi Gomis,FW,Swansea City,1648,31,7,0,7,0.38,0,28,0.38
+2014-2015,Yoan Gouffran,"FW,MF",Newcastle Utd,1965,31,2,1,3,0.09,0.05,28,0.14
+2014-2015,Danny Graham,FW,Sunderland,627,14,1,0,1,0.14,0,28,0.14
+2014-2015,Nikica Jelavi?,FW,Hull City,1805,26,8,1,9,0.4,0.05,28,0.45
+2014-2015,Michael Kightly,"FW,MF",Burnley,948,17,1,2,3,0.09,0.19,28,0.28
+2014-2015,Aiden McGeady,"FW,MF",Everton,884,16,1,2,3,0.1,0.2,28,0.31
+2014-2015,James Morrison,"FW,MF",West Brom,2552,33,2,1,3,0.07,0.04,28,0.11
+2014-2015,Charles N'Zogbia,"DF,FW",Aston Villa,1421,27,0,2,2,0,0.13,28,0.13
+2014-2015,Jesús Navas,"DF,FW",Manchester City,2254,35,0,8,8,0,0.32,28,0.32
+2014-2015,Stephen Quinn,"FW,MF",Hull City,1639,28,1,3,4,0.05,0.16,28,0.22
+2014-2015,Wayne Rooney,"FW,MF",Manchester Utd,2873,33,12,5,17,0.38,0.16,28,0.53
+2014-2015,David Silva,"FW,MF",Manchester City,2646,32,12,7,19,0.41,0.24,28,0.65
+2014-2015,Leonardo Ulloa,FW,Leicester City,2398,37,11,3,14,0.41,0.11,28,0.53
+2014-2015,Stephen Ward,"DF,FW",Burnley,624,9,0,0,0,0,0,28,0
+2015-2016,Gabriel Agbonlahor,"FW,MF",Aston Villa,1031,15,1,2,3,0.09,0.17,28,0.26
+2015-2016,Nordin Amrabat,"FW,MF",Watford,506,12,0,0,0,0,0,28,0
+2015-2016,Graham Dorrans,"FW,MF",Norwich City,1287,21,0,1,1,0,0.07,28,0.07
+2015-2016,Emmanuel Emenike,FW,West Ham,512,13,0,0,0,0,0,28,0
+2015-2016,Cesc Fàbregas,"FW,MF",Chelsea,2895,37,5,7,12,0.16,0.22,28,0.37
+2015-2016,Steven Fletcher,FW,Sunderland,1010,16,4,0,4,0.36,0,28,0.36
+2015-2016,Olivier Giroud,FW,Arsenal,2429,38,16,6,22,0.59,0.22,28,0.82
+2015-2016,Cameron Jerome,FW,Norwich City,1777,34,3,2,5,0.15,0.1,28,0.25
+2015-2016,Aaron Lennon,"FW,MF",Everton,1538,25,5,0,5,0.29,0,28,0.29
+2015-2016,Shane Long,FW,Southampton,2111,28,10,4,14,0.43,0.17,28,0.6
+2015-2016,Steven Naismith,"FW,MF",Norwich City,872,13,1,1,2,0.1,0.1,28,0.21
+2015-2016,Samir Nasri,"FW,MF",Manchester City,541,12,2,2,4,0.33,0.33,28,0.67
+2015-2016,Dimitri Payet,"FW,MF",West Ham,2568,30,9,12,21,0.32,0.42,28,0.74
+2015-2016,Pedro,"FW,MF",Chelsea,2033,29,7,3,10,0.31,0.13,28,0.44
+2015-2016,Marc Pugh,"FW,MF",Bournemouth,1337,26,3,2,5,0.2,0.13,28,0.34
+2015-2016,Jamie Vardy,FW,Leicester City,3132,36,24,6,30,0.69,0.17,28,0.86
+2015-2016,Mauro Zárate,"FW,MF",West Ham,788,15,3,0,3,0.34,0,28,0.34
+2016-2017,Sergio Agüero,FW,Manchester City,2403,31,20,4,24,0.75,0.15,28,0.9
+2016-2017,Victor Anichebe,FW,Sunderland,1219,18,3,0,3,0.22,0,28,0.22
+2016-2017,Mame Biram Diouf,"FW,MF",Stoke City,1385,27,1,2,3,0.06,0.13,28,0.19
+2016-2017,Lee Chung-yong,"FW,MF",Crystal Palace,471,15,0,0,0,0,0,28,0
+2016-2017,Troy Deeney,FW,Watford,2944,37,10,4,14,0.31,0.12,28,0.43
+2016-2017,Kamil Grosicki,"FW,MF",Hull City,1143,15,0,3,3,0,0.24,28,0.24
+2016-2017,Adam Lallana,"FW,MF",Liverpool,2336,31,8,6,14,0.31,0.23,28,0.54
+2016-2017,Juan Mata,"FW,MF",Manchester Utd,1614,25,6,3,9,0.33,0.17,28,0.5
+2016-2017,Kevin Mirallas,"FW,MF",Everton,2074,35,4,7,11,0.17,0.3,28,0.48
+2016-2017,Islam Slimani,FW,Leicester City,1281,23,7,4,11,0.49,0.28,28,0.77
+2016-2017,Robert Snodgrass,"FW,MF",West Ham,838,15,0,2,2,0,0.21,28,0.21
+2017-2018,Scott Arfield,"MF,FW",Burnley,1333,18,2,1,3,0.14,0.07,28,0.2
+2017-2018,Marko Arnautovi?,"FW,MF",West Ham,2313,31,11,6,17,0.43,0.23,28,0.66
+2017-2018,Pierre-Emerick Aubameyang,FW,Arsenal,1057,13,10,4,14,0.85,0.34,28,1.19
+2017-2018,Charlie Austin,FW,Southampton,1037,24,7,0,7,0.61,0,28,0.61
+2017-2018,Yannick Bolasie,FW,Everton,851,16,1,0,1,0.11,0,28,0.11
+2017-2018,Wilfried Bony,FW,Swansea City,707,15,2,0,2,0.25,0,28,0.25
+2017-2018,Andy Carroll,FW,West Ham,750,16,3,0,3,0.36,0,28,0.36
+2017-2018,Laurent Depoitre,FW,Huddersfield,1820,33,6,1,7,0.3,0.05,28,0.35
+2017-2018,Eric Maxim Choupo-Moting,"FW,MF",Stoke City,2314,30,5,5,10,0.19,0.19,28,0.39
+2017-2018,James McClean,"MF,FW",West Brom,1406,30,1,0,1,0.06,0,28,0.06
+2017-2018,Henrikh Mkhitaryan,"FW,MF",Arsenal,794,11,2,4,6,0.23,0.45,28,0.68
+2017-2018,Mesut Özil,"MF,FW",Arsenal,2163,26,4,8,12,0.17,0.33,28,0.5
+2017-2018,Hal Robson-Kanu,"FW,MF",West Brom,827,21,2,0,2,0.22,0,28,0.22
+2017-2018,Jay Rodriguez,"FW,MF",West Brom,2812,37,7,1,8,0.22,0.03,28,0.26
+2017-2018,Alexis Sánchez,"MF,FW",Arsenal,1503,19,7,3,10,0.42,0.18,28,0.6
+2017-2018,Dušan Tadi?,"MF,FW",Southampton,2791,36,6,3,9,0.19,0.1,28,0.29
+2017-2018,Willian,"MF,FW",Chelsea,1890,36,6,7,13,0.29,0.33,28,0.62
+2018-2019,Marc Albrighton,"FW,MF",Leicester City,1625,27,2,2,4,0.11,0.11,28,0.22
+2018-2019,Michail Antonio,"MF,FW",West Ham,2103,33,6,4,10,0.26,0.17,28,0.43
+2018-2019,Ashley Barnes,FW,Burnley,2388,37,12,2,14,0.45,0.08,28,0.53
+2018-2019,Junior Hoilett,"MF,FW",Cardiff City,2141,32,3,1,4,0.13,0.04,28,0.17
+2018-2019,Joselu,FW,Newcastle Utd,596,16,2,0,2,0.3,0,28,0.3
+2018-2019,Oumar Niasse,FW,Cardiff City,931,13,0,0,0,0,0,28,0
+2018-2019,Salomón Rondón,FW,Newcastle Utd,2603,32,11,7,18,0.38,0.24,28,0.62
+2018-2019,Moussa Sissoko,"MF,FW",Tottenham,2330,29,0,3,3,0,0.12,28,0.12
+2018-2019,Junior Stanislas,"MF,FW",Bournemouth,1031,23,2,3,5,0.17,0.26,28,0.44
+2018-2019,Daniel Sturridge,"FW,MF",Liverpool,509,18,2,1,3,0.35,0.18,28,0.53
+2018-2019,Sam Vokes,FW,Burnley,915,20,3,0,3,0.3,0,28,0.3
+2018-2019,Andriy Yarmolenko,"MF,FW",West Ham,459,9,2,0,2,0.39,0,28,0.39
+2019-2020,Christian Benteke,FW,Crystal Palace,1261,24,2,1,3,0.14,0.07,28,0.21
+2019-2020,Dwight Gayle,FW,Newcastle Utd,850,20,4,2,6,0.42,0.21,28,0.64
+2019-2020,Andre Gray,FW,Watford,755,23,2,0,2,0.24,0,28,0.24
+2019-2020,Pascal Groß,"MF,FW",Brighton,1796,29,2,4,6,0.1,0.2,28,0.3
+2019-2020,Raúl Jiménez,FW,Wolves,3236,38,17,6,23,0.47,0.17,28,0.64
+2019-2020,Jota,"FW,MF",Aston Villa,335,10,0,1,1,0,0.27,28,0.27
+2019-2020,Alexandre Lacazette,FW,Arsenal,1874,30,10,4,14,0.48,0.19,28,0.67
+2019-2020,Riyad Mahrez,"FW,MF",Manchester City,1944,33,11,9,20,0.51,0.42,28,0.93
+2019-2020,Aaron Mooy,"MF,FW",Brighton,2085,31,2,2,4,0.09,0.09,28,0.17
+2019-2020,Roberto Pereyra,"FW,MF",Watford,1648,28,3,0,3,0.16,0,28,0.16
+2019-2020,Lukas Rupp,"FW,MF",Norwich City,695,12,0,0,0,0,0,28,0
+2019-2020,Andros Townsend,"FW,MF",Crystal Palace,1294,24,1,1,2,0.07,0.07,28,0.14
+2019-2020,Danny Welbeck,"FW,MF",Watford,822,18,2,0,2,0.22,0,28,0.22
+2020-2021,Jordan Ayew,"FW,MF",Crystal Palace,2096,33,1,3,4,0.04,0.13,28,0.17
+2020-2021,Mbaye Diagne,FW,West Brom,1189,16,3,2,5,0.23,0.15,28,0.38
+2020-2021,Roberto Firmino,FW,Liverpool,2838,36,9,7,16,0.29,0.22,28,0.51
+2020-2021,Son Heung-min,FW,Tottenham,3114,37,17,10,27,0.49,0.29,28,0.78
+2020-2021,Danny Ings,FW,Southampton,2173,29,12,4,16,0.5,0.17,28,0.66
+2020-2021,Willian José,FW,Wolves,1110,17,1,0,1,0.08,0,28,0.08
+2020-2021,Érik Lamela,"FW,MF",Tottenham,717,23,1,0,1,0.13,0,28,0.13
+2020-2021,Sadio Mané,FW,Liverpool,2810,35,11,7,18,0.35,0.22,28,0.58
+2020-2021,Mohamed Salah,FW,Liverpool,3078,37,22,5,27,0.64,0.15,28,0.79
+2020-2021,Xherdan Shaqiri,"MF,FW",Liverpool,556,14,0,2,2,0,0.32,28,0.32
+2020-2021,Mat?j Vydra,FW,Burnley,1371,28,3,2,5,0.2,0.13,28,0.33
+2020-2021,Callum Wilson,FW,Newcastle Utd,2084,26,12,5,17,0.52,0.22,28,0.73
+2020-2021,Chris Wood,FW,Burnley,2741,33,12,3,15,0.39,0.1,28,0.49
+2021-2022,Harry Kane,FW,Tottenham,3232,37,17,9,26,0.47,0.25,28,0.72
+2021-2022,Manuel Lanzini,"MF,FW",West Ham,1786,30,5,3,8,0.25,0.15,28,0.4
+2021-2022,Jesse Lingard,"FW,MF",Manchester Utd,367,16,2,0,2,0.49,0,28,0.49
+2021-2022,Romelu Lukaku,FW,Chelsea,1589,26,8,0,8,0.45,0,28,0.45
+2021-2022,Lucas Moura,"FW,MF",Tottenham,1775,34,2,6,8,0.1,0.3,28,0.41
+2021-2022,Ayoze Pérez,"MF,FW",Leicester City,445,14,2,3,5,0.4,0.61,28,1.01
+2021-2022,Paul Pogba,"MF,FW",Manchester Utd,1349,20,1,9,10,0.07,0.6,28,0.67
+2021-2022,Jeffrey Schlupp,"MF,FW",Crystal Palace,1851,32,4,1,5,0.19,0.05,28,0.24
+2021-2022,Wout Weghorst,FW,Burnley,1450,20,2,3,5,0.12,0.19,28,0.31
+2021-2022,Wilfried Zaha,FW,Crystal Palace,2760,33,14,1,15,0.46,0.03,28,0.49
+2021-2022,Hakim Ziyech,"MF,FW",Chelsea,1319,23,4,3,7,0.27,0.2,28,0.48
+2022-2023,Miguel Almirón,FW,Newcastle Utd,2491,34,11,2,13,0.4,0.07,28,0.47
+2022-2023,Patrick Bamford,FW,Leeds United,1515,28,4,2,6,0.24,0.12,28,0.36
+2022-2023,Ryan Fraser,FW,Newcastle Utd,313,8,0,0,0,0,0,28,0
+2022-2023,Solly March,"FW,DF",Brighton,2715,33,7,7,14,0.23,0.23,28,0.46
+2022-2023,Paul Onuachu,FW,Southampton,407,11,0,0,0,0,0,28,0
+2022-2023,Alex Oxlade-Chamberlain,"FW,MF",Liverpool,335,9,1,0,1,0.27,0,28,0.27
+2022-2023,Dennis Praet,"MF,FW",Leicester City,649,22,1,0,1,0.14,0,28,0.14
+2023-2024,Bruno Fernandes,"MF,FW",Manchester Utd,3118,35,10,8,18,0.29,0.23,28,0.52
+2023-2024,John McGinn,"MF,FW",Aston Villa,2999,35,6,4,10,0.18,0.12,28,0.3
+2023-2024,Jacob Murphy,"FW,DF",Newcastle Utd,1189,21,3,7,10,0.23,0.53,28,0.76
+2023-2024,Divock Origi,FW,Nott'ham Forest,606,20,0,1,1,0,0.15,28,0.15
+2023-2024,Bernardo Silva,"MF,FW",Manchester City,2578,33,6,9,15,0.21,0.31,28,0.52
+2023-2024,Raheem Sterling,"FW,MF",Chelsea,1978,31,8,4,12,0.36,0.18,28,0.55
+2023-2024,Leandro Trossard,"FW,MF",Arsenal,1649,34,12,1,13,0.65,0.05,28,0.71
+2023-2024,Carlos Vinícius,FW,Fulham,315,13,2,0,2,0.57,0,28,0.57
+2023-2024,Cauley Woodrow,"FW,MF",Luton Town,427,24,1,1,2,0.21,0.21,28,0.42
+2024-2025,Jack Grealish,"FW,MF",Manchester City,721,20,1,1,2,0.12,0.12,28,0.25
+2024-2025,Hwang Hee-chan,"MF,FW",Wolves,661,21,2,0,2,0.27,0,28,0.27
+2024-2025,Alex Iwobi,"FW,MF",Fulham,2981,38,9,6,15,0.27,0.18,28,0.45
+2024-2025,Mikel Merino,"MF,FW",Arsenal,1586,28,7,2,9,0.4,0.11,28,0.51
+2024-2025,Marshall Munetsi,"MF,FW",Wolves,1078,14,2,1,3,0.17,0.08,28,0.25
+2024-2025,Ross Stewart,FW,Southampton,389,12,1,0,1,0.23,0,28,0.23
+2024-2025,Sammie Szmodics,"FW,MF",Ipswich Town,992,20,4,0,4,0.36,0,28,0.36
+2024-2025,Adama Traoré,"FW,MF",Fulham,1772,36,2,7,9,0.1,0.36,28,0.46
+2024-2025,Ollie Watkins,FW,Aston Villa,2598,38,16,8,24,0.55,0.28,28,0.83
+2024-2025,Timo Werner,"FW,MF",Tottenham,516,18,0,3,3,0,0.52,28,0.52
+2010-2011,Andrey Arshavin,"FW,MF",Arsenal,2187,37,6,11,17,0.25,0.45,29,0.7
+2010-2011,Dimitar Berbatov,FW,Manchester Utd,2208,32,20,4,24,0.82,0.16,29,0.98
+2010-2011,Peter Crouch,FW,Tottenham,1945,34,4,6,10,0.19,0.28,29,0.46
+2010-2011,Johan Elmander,FW,Bolton,3092,37,10,6,16,0.29,0.17,29,0.47
+2010-2011,Marc-Antoine Fortuné,FW,West Brom,1119,25,2,1,3,0.16,0.08,29,0.24
+2010-2011,El Hadji Diouf,"FW,MF",Blackburn,1558,20,0,3,3,0,0.17,29,0.17
+2010-2011,Andrew Johnson,FW,Fulham,1559,27,3,3,6,0.17,0.17,29,0.35
+2010-2011,Milan Jovanovi?,"FW,MF",Liverpool,460,10,0,0,0,0,0,29,0
+2010-2011,Diomansy Kamara,FW,Fulham,535,10,2,0,2,0.34,0,29,0.34
+2010-2011,Paul Konchesky,"DF,FW",Liverpool,1246,15,0,1,1,0,0.07,29,0.07
+2010-2011,Peter Odemwingie,FW,West Brom,2678,32,15,7,22,0.5,0.24,29,0.74
+2010-2011,Maxi Rodríguez,"FW,MF",Liverpool,2034,28,10,0,10,0.44,0,29,0.44
+2010-2011,Alan Smith,"FW,MF",Newcastle Utd,580,11,0,0,0,0,0,29,0
+2010-2011,Gary Taylor-Fletcher,"FW,MF",Blackpool,2445,31,6,4,10,0.22,0.15,29,0.37
+2010-2011,Bobby Zamora,FW,Fulham,757,14,5,5,10,0.59,0.59,29,1.19
+2010-2011,Nikola Žigi?,FW,Birmingham City,1319,25,5,3,8,0.34,0.2,29,0.55
+2011-2012,Shola Ameobi,FW,Newcastle Utd,1023,27,2,5,7,0.18,0.44,29,0.62
+2011-2012,Jay Bothroyd,FW,QPR,1104,21,2,1,3,0.16,0.08,29,0.24
+2011-2012,DJ Campbell,FW,QPR,328,11,1,0,1,0.27,0,29,0.27
+2011-2012,Djibril Cissé,FW,QPR,535,8,6,0,6,1.01,0,29,1.01
+2011-2012,Albert Crusat,"FW,MF",Wigan Athletic,493,15,1,0,1,0.18,0,29,0.18
+2011-2012,Landon Donovan,"FW,MF",Everton,630,7,0,3,3,0,0.43,29,0.43
+2011-2012,Morten Gamst Pedersen,"FW,MF",Blackburn,2828,33,3,4,7,0.1,0.13,29,0.22
+2011-2012,Stephen Hunt,"FW,MF",Wolves,1388,24,3,1,4,0.19,0.06,29,0.26
+2011-2012,Tuncay ?anl?,"FW,MF",Bolton,395,16,0,0,0,0,0,29,0
+2011-2012,Shaun Wright-Phillips,"FW,MF",QPR,2211,32,0,3,3,0,0.12,29,0.12
+2012-2013,Jermain Defoe,FW,Tottenham,2409,34,11,3,14,0.41,0.11,29,0.52
+2012-2013,Clint Dempsey,"FW,MF",Tottenham,1993,29,7,4,11,0.32,0.18,29,0.5
+2012-2013,Noel Hunt,"FW,MF",Reading,960,24,2,0,2,0.19,0,29,0.19
+2012-2013,Shaun Maloney,"FW,MF",Wigan Athletic,2938,36,6,8,14,0.18,0.25,29,0.43
+2012-2013,Markus Rosenberg,FW,West Brom,561,24,0,2,2,0,0.32,29,0.32
+2012-2013,Jerome Thomas,"FW,MF",West Brom,406,10,0,0,0,0,0,29,0
+2013-2014,Emmanuel Adebayor,FW,Tottenham,1805,21,11,4,15,0.55,0.2,29,0.75
+2013-2014,Darren Bent,FW,Fulham,1247,24,3,2,5,0.22,0.14,29,0.36
+2013-2014,Marouane Chamakh,FW,Crystal Palace,2294,32,5,2,7,0.2,0.08,29,0.27
+2013-2014,Carlton Cole,FW,West Ham,856,26,6,0,6,0.63,0,29,0.63
+2013-2014,Stewart Downing,"FW,MF",West Ham,2507,32,1,2,3,0.04,0.07,29,0.11
+2013-2014,Glenn Murray,FW,Crystal Palace,402,14,1,1,2,0.22,0.22,29,0.45
+2013-2014,Robin van Persie,FW,Manchester Utd,1579,21,12,3,15,0.68,0.17,29,0.85
+2013-2014,Stéphane Sessègnon,"FW,MF",West Brom,1952,26,5,1,6,0.23,0.05,29,0.28
+2013-2014,Fernando Torres,FW,Chelsea,1574,28,5,5,10,0.29,0.29,29,0.57
+2013-2014,Jonathan Walters,"FW,MF",Stoke City,2235,32,5,2,7,0.2,0.08,29,0.28
+2014-2015,Papiss Cissé,FW,Newcastle Utd,1158,22,11,1,12,0.85,0.08,29,0.93
+2014-2015,Emanuele Giaccherini,"FW,MF",Sunderland,308,8,0,0,0,0,0,29,0
+2014-2015,Dame N'Doye,FW,Hull City,1195,15,5,1,6,0.38,0.08,29,0.45
+2014-2015,David Nugent,FW,Leicester City,1711,29,5,2,7,0.26,0.11,29,0.37
+2014-2015,Graziano Pellè,FW,Southampton,3281,38,12,2,14,0.33,0.05,29,0.38
+2014-2015,Wayne Routledge,"FW,MF",Swansea City,2310,29,3,1,4,0.12,0.04,29,0.16
+2014-2015,Roberto Soldado,FW,Tottenham,804,24,1,1,2,0.11,0.11,29,0.22
+2014-2015,Silvestre Varela,"FW,MF",West Brom,336,7,1,0,1,0.27,0,29,0.27
+2014-2015,Ashley Young,"DF,FW",Manchester Utd,2065,26,2,5,7,0.09,0.22,29,0.31
+2015-2016,Ibrahim Afellay,"FW,MF",Stoke City,2102,31,2,2,4,0.09,0.09,29,0.17
+2015-2016,Bafétimbi Gomis,FW,Swansea City,1703,33,6,0,6,0.32,0,29,0.32
+2015-2016,Danny Graham,FW,Sunderland,360,10,0,0,0,0,0,29,0
+2015-2016,Nikica Jelavi?,FW,West Ham,350,13,1,2,3,0.26,0.51,29,0.77
+2015-2016,Dieumerci Mbokani,FW,Norwich City,1595,29,7,1,8,0.39,0.06,29,0.45
+2015-2016,James Morrison,"FW,MF",West Brom,1338,18,3,3,6,0.2,0.2,29,0.4
+2015-2016,Jesús Navas,"DF,FW",Manchester City,2282,34,0,7,7,0,0.28,29,0.28
+2015-2016,Shinji Okazaki,"FW,MF",Leicester City,2054,36,5,0,5,0.22,0,29,0.22
+2015-2016,Wayne Rooney,"FW,MF",Manchester Utd,2406,28,8,6,14,0.3,0.22,29,0.52
+2015-2016,David Silva,"FW,MF",Manchester City,1791,24,2,11,13,0.1,0.55,29,0.65
+2015-2016,Ola Toivonen,"FW,MF",Sunderland,659,12,0,2,2,0,0.27,29,0.27
+2015-2016,Leonardo Ulloa,FW,Leicester City,984,29,6,1,7,0.55,0.09,29,0.64
+2016-2017,Nordin Amrabat,"FW,MF",Watford,2091,29,0,3,3,0,0.13,29,0.13
+2016-2017,Cesc Fàbregas,"FW,MF",Chelsea,1339,29,5,12,17,0.34,0.81,29,1.14
+2016-2017,Olivier Giroud,FW,Arsenal,1206,29,12,3,15,0.9,0.22,29,1.12
+2016-2017,Aaron Lennon,"FW,MF",Everton,509,11,0,1,1,0,0.18,29,0.18
+2016-2017,Shane Long,FW,Southampton,1261,32,3,2,5,0.21,0.14,29,0.36
+2016-2017,Nolito,"FW,MF",Manchester City,778,19,4,2,6,0.46,0.23,29,0.69
+2016-2017,Dimitri Payet,"FW,MF",West Ham,1511,18,2,6,8,0.12,0.36,29,0.48
+2016-2017,Pedro,"FW,MF",Chelsea,2140,35,9,9,18,0.38,0.38,29,0.76
+2016-2017,Marc Pugh,"FW,MF",Bournemouth,1328,21,2,2,4,0.14,0.14,29,0.27
+2016-2017,Cristhian Stuani,"FW,MF",Middlesbrough,1354,23,4,0,4,0.27,0,29,0.27
+2016-2017,Jamie Vardy,FW,Leicester City,2802,35,13,4,17,0.42,0.13,29,0.55
+2017-2018,Sergio Agüero,FW,Manchester City,1963,25,21,6,27,0.96,0.28,29,1.24
+2017-2018,Mame Biram Diouf,"FW,DF",Stoke City,2596,35,6,2,8,0.21,0.07,29,0.28
+2017-2018,Troy Deeney,FW,Watford,1844,29,5,2,7,0.24,0.1,29,0.34
+2017-2018,Nathan Dyer,"MF,FW",Swansea City,1307,24,0,0,0,0,0,29,0
+2017-2018,Javier Hernández,FW,West Ham,1548,28,8,0,8,0.47,0,29,0.47
+2017-2018,Juan Mata,FW,Manchester Utd,1922,28,3,5,8,0.14,0.23,29,0.37
+2017-2018,Bakary Sako,"FW,MF",Crystal Palace,478,16,3,0,3,0.56,0,29,0.56
+2018-2019,Marko Arnautovi?,FW,West Ham,1990,28,10,4,14,0.45,0.18,29,0.63
+2018-2019,Pierre-Emerick Aubameyang,FW,Arsenal,2726,36,22,5,27,0.73,0.17,29,0.89
+2018-2019,Charlie Austin,FW,Southampton,983,25,2,2,4,0.18,0.18,29,0.37
+2018-2019,Floyd Ayité,"FW,MF",Fulham,476,16,1,0,1,0.19,0,29,0.19
+2018-2019,Andy Carroll,FW,West Ham,461,12,0,0,0,0,0,29,0
+2018-2019,Laurent Depoitre,FW,Huddersfield,1068,23,0,1,1,0,0.08,29,0.08
+2018-2019,Henrikh Mkhitaryan,"FW,MF",Arsenal,1641,25,6,4,10,0.33,0.22,29,0.55
+2018-2019,Mesut Özil,"MF,FW",Arsenal,1735,24,5,2,7,0.26,0.1,29,0.36
+2018-2019,Lucas Pérez,"FW,MF",West Ham,475,15,3,0,3,0.57,0,29,0.57
+2018-2019,Alexis Sánchez,"FW,MF",Manchester Utd,880,20,1,3,4,0.1,0.31,29,0.41
+2018-2019,Theo Walcott,"FW,MF",Everton,2119,37,5,2,7,0.21,0.08,29,0.3
+2018-2019,Willian,FW,Chelsea,2097,32,3,6,9,0.13,0.26,29,0.39
+2019-2020,Michail Antonio,FW,West Ham,1768,24,10,3,13,0.51,0.15,29,0.66
+2019-2020,Ashley Barnes,FW,Burnley,1352,19,6,0,6,0.4,0,29,0.4
+2019-2020,Teemu Pukki,FW,Norwich City,2886,36,11,3,14,0.34,0.09,29,0.44
+2019-2020,Junior Stanislas,"MF,FW",Bournemouth,712,15,3,0,3,0.38,0,29,0.38
+2019-2020,Andriy Yarmolenko,"MF,FW",West Ham,991,23,5,1,6,0.45,0.09,29,0.54
+2020-2021,Christian Benteke,FW,Crystal Palace,1816,30,10,1,11,0.5,0.05,29,0.55
+2020-2021,Dwight Gayle,"FW,MF",Newcastle Utd,514,18,1,1,2,0.18,0.18,29,0.35
+2020-2021,Raúl Jiménez,FW,Wolves,823,10,4,0,4,0.44,0,29,0.44
+2020-2021,Alexandre Lacazette,FW,Arsenal,1923,31,13,2,15,0.61,0.09,29,0.7
+2020-2021,Riyad Mahrez,FW,Manchester City,1949,27,9,6,15,0.42,0.28,29,0.69
+2020-2021,Rodrigo,"MF,FW",Leeds United,1288,26,7,2,9,0.49,0.14,29,0.63
+2020-2021,James Rodríguez,"FW,MF",Everton,1764,23,6,4,10,0.31,0.2,29,0.51
+2020-2021,Andros Townsend,"MF,FW",Crystal Palace,2258,34,1,5,6,0.04,0.2,29,0.24
+2020-2021,Danny Welbeck,FW,Brighton,1545,24,6,1,7,0.35,0.06,29,0.41
+2021-2022,Jordan Ayew,FW,Crystal Palace,2019,31,3,3,6,0.13,0.13,29,0.27
+2021-2022,Philippe Coutinho,"MF,FW",Aston Villa,1329,19,5,3,8,0.34,0.2,29,0.54
+2021-2022,Roberto Firmino,FW,Liverpool,990,20,5,4,9,0.45,0.36,29,0.82
+2021-2022,Son Heung-min,"MF,FW",Tottenham,3006,35,23,7,30,0.69,0.21,29,0.9
+2021-2022,Danny Ings,FW,Aston Villa,1898,30,7,6,13,0.33,0.28,29,0.62
+2021-2022,Joshua King,FW,Watford,2248,32,5,3,8,0.2,0.12,29,0.32
+2021-2022,Sadio Mané,FW,Liverpool,2819,34,16,2,18,0.51,0.06,29,0.57
+2021-2022,Mohamed Salah,FW,Liverpool,2762,35,23,13,36,0.75,0.42,29,1.17
+2021-2022,Mat?j Vydra,FW,Burnley,679,22,2,3,5,0.27,0.4,29,0.66
+2021-2022,Callum Wilson,FW,Newcastle Utd,1386,18,8,0,8,0.52,0,29,0.52
+2021-2022,Chris Wood,FW,Burnley,1367,17,3,0,3,0.2,0,29,0.2
+2022-2023,Bobby De Cordova-Reid,"FW,DF",Fulham,2475,36,4,1,5,0.15,0.04,29,0.18
+2022-2023,Harry Kane,FW,Tottenham,3405,38,30,3,33,0.79,0.08,29,0.87
+2022-2023,Jesse Lingard,"FW,MF",Nott'ham Forest,923,17,0,0,0,0,0,29,0
+2022-2023,Kieffer Moore,FW,Bournemouth,1279,27,4,0,4,0.28,0,29,0.28
+2022-2023,Ayoze Pérez,"MF,FW",Leicester City,382,8,0,1,1,0,0.24,29,0.24
+2022-2023,Jeffrey Schlupp,"MF,FW",Crystal Palace,2531,34,3,1,4,0.11,0.04,29,0.14
+2022-2023,Wout Weghorst,"FW,MF",Manchester Utd,797,17,0,1,1,0,0.11,29,0.11
+2022-2023,Wilfried Zaha,"FW,MF",Crystal Palace,2288,27,7,2,9,0.28,0.08,29,0.35
+2022-2023,Hakim Ziyech,"FW,MF",Chelsea,661,18,0,3,3,0,0.41,29,0.41
+2023-2024,Miguel Almirón,FW,Newcastle Utd,1937,33,3,1,4,0.14,0.05,29,0.19
+2023-2024,Solly March,"FW,DF",Brighton,554,7,3,1,4,0.49,0.16,29,0.65
+2024-2025,Wes Burns,"FW,DF",Ipswich Town,926,18,0,1,1,0,0.1,29,0.1
+2024-2025,John McGinn,"MF,FW",Aston Villa,2223,34,1,4,5,0.04,0.16,29,0.2
+2024-2025,Jacob Murphy,FW,Newcastle Utd,2360,35,8,12,20,0.31,0.46,29,0.76
+2024-2025,Bernardo Silva,"MF,FW",Manchester City,2670,33,4,4,8,0.13,0.13,29,0.27
+2024-2025,Raheem Sterling,"FW,MF",Arsenal,499,17,0,2,2,0,0.36,29,0.36
+2024-2025,Leandro Trossard,FW,Arsenal,2546,38,8,7,15,0.28,0.25,29,0.53
+2010-2011,Tim Cahill,"FW,MF",Everton,2016,27,9,3,12,0.4,0.13,30,0.54
+2010-2011,John Carew,FW,Stoke City,615,10,1,1,2,0.15,0.15,30,0.29
+2010-2011,Ricardo Fuller,FW,Stoke City,1096,28,4,1,5,0.33,0.08,30,0.41
+2010-2011,Marlon Harewood,FW,Blackpool,661,16,5,1,6,0.68,0.14,30,0.82
+2010-2011,Ivan Klasni?,FW,Bolton,335,22,4,1,5,1.07,0.27,30,1.34
+2010-2011,Dirk Kuyt,"DF,FW",Liverpool,2815,33,13,7,20,0.42,0.22,30,0.64
+2010-2011,Peter Løvenkrands,"FW,MF",Newcastle Utd,1451,25,6,3,9,0.37,0.19,30,0.56
+2010-2011,Florent Malouda,"FW,MF",Chelsea,2799,38,13,4,17,0.42,0.13,30,0.55
+2011-2012,Andrey Arshavin,"FW,MF",Arsenal,724,19,1,3,4,0.12,0.37,30,0.5
+2011-2012,Dimitar Berbatov,FW,Manchester Utd,521,12,7,0,7,1.21,0,30,1.21
+2011-2012,Peter Crouch,FW,Stoke City,2682,32,10,2,12,0.34,0.07,30,0.4
+2011-2012,Marc-Antoine Fortuné,FW,West Brom,1110,17,2,1,3,0.16,0.08,30,0.24
+2011-2012,Fitz Hall,"DF,FW",QPR,922,14,0,0,0,0,0,30,0
+2011-2012,Grant Holt,FW,Norwich City,2250,36,15,2,17,0.6,0.08,30,0.68
+2011-2012,Andrew Johnson,FW,Fulham,1247,20,3,1,4,0.22,0.07,30,0.29
+2011-2012,Peter Odemwingie,FW,West Brom,2285,30,10,2,12,0.39,0.08,30,0.47
+2011-2012,Maxi Rodríguez,"FW,MF",Liverpool,790,12,4,1,5,0.46,0.11,30,0.57
+2011-2012,Bobby Zamora,FW,QPR,1182,14,2,0,2,0.15,0,30,0.15
+2012-2013,Shola Ameobi,FW,Newcastle Utd,686,23,1,1,2,0.13,0.13,30,0.26
+2012-2013,Djibril Cissé,FW,QPR,1111,18,3,0,3,0.24,0,30,0.24
+2012-2013,Rickie Lambert,FW,Southampton,3126,38,15,5,20,0.43,0.14,30,0.58
+2012-2013,Guly do Prado,"FW,MF",Southampton,764,18,0,1,1,0,0.12,30,0.12
+2012-2013,Shaun Wright-Phillips,"FW,MF",QPR,1245,20,1,1,2,0.07,0.07,30,0.14
+2013-2014,Jermain Defoe,FW,Tottenham,434,14,1,0,1,0.21,0,30,0.21
+2013-2014,Clint Dempsey,"FW,MF",Fulham,354,5,0,0,0,0,0,30,0
+2013-2014,Jerome Thomas,"FW,MF",Crystal Palace,370,9,0,0,0,0,0,30,0
+2014-2015,Emmanuel Adebayor,FW,Tottenham,813,13,2,1,3,0.22,0.11,30,0.33
+2014-2015,Marouane Chamakh,FW,Crystal Palace,1149,18,2,0,2,0.16,0,30,0.16
+2014-2015,Carlton Cole,FW,West Ham,912,23,2,0,2,0.2,0,30,0.2
+2014-2015,Stewart Downing,"FW,MF",West Ham,3312,37,6,8,14,0.16,0.22,30,0.38
+2014-2015,Arouna Koné,FW,Everton,601,12,1,1,2,0.15,0.15,30,0.3
+2014-2015,Glenn Murray,FW,Crystal Palace,869,17,7,3,10,0.72,0.31,30,1.04
+2014-2015,Robin van Persie,FW,Manchester Utd,2108,27,10,2,12,0.43,0.09,30,0.51
+2014-2015,Stéphane Sessègnon,"FW,MF",West Brom,1761,28,1,3,4,0.05,0.15,30,0.2
+2014-2015,Jonathan Walters,"FW,MF",Stoke City,2419,32,8,4,12,0.3,0.15,30,0.45
+2015-2016,Papiss Cissé,FW,Newcastle Utd,1067,21,3,0,3,0.25,0,30,0.25
+2015-2016,Dame N'Doye,FW,Sunderland,572,11,1,0,1,0.16,0,30,0.16
+2015-2016,Graziano Pellè,FW,Southampton,2175,30,11,6,17,0.46,0.25,30,0.7
+2015-2016,Wayne Routledge,"FW,MF",Swansea City,1672,28,2,1,3,0.11,0.05,30,0.16
+2015-2016,Ashley Young,"DF,FW",Manchester Utd,1065,18,1,2,3,0.08,0.17,30,0.25
+2016-2017,Ibrahim Afellay,"FW,MF",Stoke City,384,12,0,0,0,0,0,30,0
+2016-2017,George Boyd,"FW,MF",Burnley,2836,36,2,1,3,0.06,0.03,30,0.1
+2016-2017,Dieumerci Mbokani,FW,Hull City,764,12,0,1,1,0,0.12,30,0.12
+2016-2017,James Morrison,"FW,MF",West Brom,1740,31,5,2,7,0.26,0.1,30,0.36
+2016-2017,Jesús Navas,"DF,FW",Manchester City,1064,24,0,1,1,0,0.08,30,0.08
+2016-2017,Álvaro Negredo,FW,Middlesbrough,2870,36,9,5,14,0.28,0.16,30,0.44
+2016-2017,Shinji Okazaki,"FW,MF",Leicester City,1565,30,3,1,4,0.17,0.06,30,0.23
+2016-2017,Wayne Rooney,"FW,MF",Manchester Utd,1539,25,5,5,10,0.29,0.29,30,0.58
+2016-2017,David Silva,"FW,MF",Manchester City,2759,34,4,7,11,0.13,0.23,30,0.36
+2016-2017,Leonardo Ulloa,FW,Leicester City,447,16,1,0,1,0.2,0,30,0.2
+2016-2017,Stephen Ward,"DF,FW",Burnley,3230,37,1,1,2,0.03,0.03,30,0.06
+2017-2018,Olivier Giroud,FW,Arsenal,388,16,4,1,5,0.93,0.23,30,1.16
+2017-2018,Tomer Hemed,FW,Brighton,849,16,2,2,4,0.21,0.21,30,0.42
+2017-2018,Shane Long,FW,Southampton,1582,30,2,1,3,0.11,0.06,30,0.17
+2017-2018,Pedro,"MF,FW",Chelsea,1523,31,4,2,6,0.24,0.12,30,0.35
+2017-2018,Marc Pugh,"MF,FW",Bournemouth,985,20,0,0,0,0,0,30,0
+2017-2018,Jamie Vardy,FW,Leicester City,3247,37,20,1,21,0.55,0.03,30,0.58
+2018-2019,Sergio Agüero,FW,Manchester City,2459,33,21,8,29,0.77,0.29,30,1.06
+2018-2019,Troy Deeney,FW,Watford,2545,32,9,5,14,0.32,0.18,30,0.5
+2018-2019,Javier Hernández,FW,West Ham,1334,25,7,1,8,0.47,0.07,30,0.54
+2018-2019,Gonzalo Higuaín,FW,Chelsea,1085,14,5,0,5,0.41,0,30,0.41
+2018-2019,Adam Lallana,"MF,FW",Liverpool,468,13,0,0,0,0,0,30,0
+2018-2019,Juan Mata,"FW,MF",Manchester Utd,1289,22,3,2,5,0.21,0.14,30,0.35
+2019-2020,Pierre-Emerick Aubameyang,FW,Arsenal,3136,36,22,3,25,0.63,0.09,30,0.72
+2019-2020,Andy Carroll,FW,Newcastle Utd,632,19,0,4,4,0,0.57,30,0.57
+2019-2020,Jay Rodriguez,FW,Burnley,2016,36,8,1,9,0.36,0.04,30,0.4
+2019-2020,Theo Walcott,"MF,FW",Everton,1287,25,2,3,5,0.14,0.21,30,0.35
+2019-2020,Willian,"FW,MF",Chelsea,2600,36,9,7,16,0.31,0.24,30,0.55
+2020-2021,Marc Albrighton,"DF,FW",Leicester City,1746,31,1,5,6,0.05,0.26,30,0.31
+2020-2021,Michail Antonio,FW,West Ham,1974,26,10,5,15,0.46,0.23,30,0.68
+2020-2021,Ashley Barnes,FW,Burnley,1331,22,3,0,3,0.2,0,30,0.2
+2020-2021,Gylfi Sigurðsson,"MF,FW",Everton,2253,36,6,5,11,0.24,0.2,30,0.44
+2020-2021,Andriy Yarmolenko,"FW,MF",West Ham,375,15,0,1,1,0,0.24,30,0.24
+2021-2022,Christian Benteke,FW,Crystal Palace,1145,25,4,1,5,0.31,0.08,30,0.39
+2021-2022,Raúl Jiménez,FW,Wolves,2631,34,6,4,10,0.21,0.14,30,0.34
+2021-2022,Alexandre Lacazette,FW,Arsenal,1782,30,4,7,11,0.2,0.35,30,0.56
+2021-2022,Riyad Mahrez,FW,Manchester City,1498,28,11,5,16,0.66,0.3,30,0.96
+2021-2022,Rodrigo,"MF,FW",Leeds United,2265,31,6,1,7,0.24,0.04,30,0.28
+2021-2022,Andros Townsend,"MF,FW",Everton,1455,21,3,2,5,0.19,0.12,30,0.31
+2021-2022,Danny Welbeck,"FW,MF",Brighton,1478,25,6,2,8,0.37,0.12,30,0.49
+2022-2023,Stuart Armstrong,"MF,FW",Southampton,1408,32,2,1,3,0.13,0.06,30,0.19
+2022-2023,Jordan Ayew,"FW,MF",Crystal Palace,2714,38,4,3,7,0.13,0.1,30,0.23
+2022-2023,Philippe Coutinho,"MF,FW",Aston Villa,788,20,1,0,1,0.11,0,30,0.11
+2022-2023,Roberto Firmino,"FW,MF",Liverpool,1213,25,11,4,15,0.82,0.3,30,1.11
+2022-2023,Son Heung-min,"MF,FW",Tottenham,2888,36,10,6,16,0.31,0.19,30,0.5
+2022-2023,Danny Ings,FW,West Ham,775,17,2,2,4,0.23,0.23,30,0.46
+2022-2023,Neeskens Kebano,FW,Fulham,764,17,0,3,3,0,0.35,30,0.35
+2022-2023,Mohamed Salah,FW,Liverpool,3290,38,19,12,31,0.52,0.33,30,0.85
+2022-2023,Pablo Sarabia,"FW,MF",Wolves,765,13,1,0,1,0.12,0,30,0.12
+2022-2023,Callum Wilson,FW,Newcastle Utd,1877,31,18,5,23,0.86,0.24,30,1.1
+2022-2023,Chris Wood,FW,Newcastle Utd,446,18,2,0,2,0.4,0,30,0.4
+2023-2024,Bobby De Cordova-Reid,FW,Fulham,1423,33,6,2,8,0.38,0.13,30,0.51
+2023-2024,Abdoulaye Doucouré,"FW,MF",Everton,2629,32,7,1,8,0.24,0.03,30,0.27
+2023-2024,André Gomes,"MF,FW",Everton,508,12,1,0,1,0.18,0,30,0.18
+2023-2024,Jeffrey Schlupp,"FW,MF",Crystal Palace,1352,29,2,2,4,0.13,0.13,30,0.27
+2024-2025,Ryan Fraser,"FW,DF",Southampton,306,8,0,0,0,0,0,30,0
+2024-2025,Paul Onuachu,FW,Southampton,1050,25,4,1,5,0.34,0.09,30,0.43
+2010-2011,Nicolas Anelka,FW,Chelsea,2356,32,6,4,10,0.23,0.15,31,0.38
+2010-2011,Benjani,FW,Blackburn,662,18,3,0,3,0.41,0,31,0.41
+2010-2011,Damien Duff,"FW,MF",Fulham,1876,24,4,2,6,0.19,0.1,31,0.29
+2010-2011,Martin Petrov,"FW,MF",Bolton,1463,28,3,5,8,0.18,0.31,31,0.49
+2010-2011,Frédéric Piquionne,FW,West Ham,2246,34,6,3,9,0.24,0.12,31,0.36
+2010-2011,Louis Saha,FW,Everton,1366,22,7,0,7,0.46,0,31,0.46
+2011-2012,Tim Cahill,"FW,MF",Everton,2346,35,2,2,4,0.08,0.08,31,0.15
+2011-2012,Ricardo Fuller,FW,Stoke City,359,13,0,0,0,0,0,31,0
+2011-2012,Robbie Keane,FW,Aston Villa,459,6,3,0,3,0.59,0,31,0.59
+2011-2012,Ivan Klasni?,FW,Bolton,1503,29,8,4,12,0.48,0.24,31,0.72
+2011-2012,Dirk Kuyt,"DF,FW",Liverpool,2008,34,2,1,3,0.09,0.04,31,0.13
+2011-2012,Florent Malouda,"FW,MF",Chelsea,1163,26,2,3,5,0.15,0.23,31,0.39
+2011-2012,Tommy Smith,"FW,MF",QPR,552,17,2,0,2,0.33,0,31,0.33
+2011-2012,Aaron Wilbraham,FW,Norwich City,314,11,1,1,2,0.29,0.29,31,0.57
+2012-2013,Dimitar Berbatov,FW,Fulham,2842,33,15,3,18,0.48,0.1,31,0.57
+2012-2013,Peter Crouch,FW,Stoke City,2321,34,7,4,11,0.27,0.16,31,0.43
+2012-2013,Marc-Antoine Fortuné,FW,West Brom,829,21,2,2,4,0.22,0.22,31,0.43
+2012-2013,Grant Holt,FW,Norwich City,2564,34,8,3,11,0.28,0.11,31,0.39
+2012-2013,Peter Odemwingie,FW,West Brom,1282,25,5,3,8,0.35,0.21,31,0.56
+2012-2013,Mladen Petri?,FW,Fulham,886,23,5,1,6,0.51,0.1,31,0.61
+2012-2013,Bobby Zamora,FW,QPR,1308,21,4,1,5,0.28,0.07,31,0.34
+2013-2014,Shola Ameobi,FW,Newcastle Utd,1287,26,2,0,2,0.14,0,31,0.14
+2013-2014,Rickie Lambert,FW,Southampton,2809,37,13,10,23,0.42,0.32,31,0.74
+2014-2015,Jermain Defoe,FW,Sunderland,1451,17,4,0,4,0.25,0,31,0.25
+2015-2016,Emmanuel Adebayor,FW,Crystal Palace,619,12,1,1,2,0.15,0.15,31,0.29
+2015-2016,Arouna Koné,FW,Everton,1456,25,5,4,9,0.31,0.25,31,0.56
+2015-2016,Stéphane Sessègnon,"FW,MF",West Brom,1752,25,2,2,4,0.1,0.1,31,0.21
+2015-2016,Jonathan Walters,"FW,MF",Stoke City,1728,27,5,3,8,0.26,0.16,31,0.42
+2016-2017,Fernando Llorente,FW,Swansea City,2442,33,15,1,16,0.55,0.04,31,0.59
+2016-2017,Wayne Routledge,"FW,MF",Swansea City,1922,27,3,1,4,0.14,0.05,31,0.19
+2016-2017,Ashley Young,"DF,FW",Manchester Utd,758,12,0,1,1,0,0.12,31,0.12
+2017-2018,Shinji Okazaki,"FW,MF",Leicester City,1324,27,6,2,8,0.41,0.14,31,0.54
+2017-2018,Wayne Rooney,"MF,FW",Everton,2268,31,10,2,12,0.4,0.08,31,0.48
+2018-2019,Ryan Babel,"FW,MF",Fulham,1251,16,5,3,8,0.36,0.22,31,0.58
+2018-2019,Olivier Giroud,FW,Chelsea,847,27,2,4,6,0.21,0.43,31,0.64
+2018-2019,Shane Long,"FW,MF",Southampton,1272,26,5,1,6,0.35,0.07,31,0.42
+2018-2019,Pedro,FW,Chelsea,1778,31,8,2,10,0.4,0.1,31,0.51
+2018-2019,Jamie Vardy,FW,Leicester City,2726,34,18,4,22,0.59,0.13,31,0.73
+2019-2020,Sergio Agüero,FW,Manchester City,1452,24,16,3,19,0.99,0.19,31,1.18
+2019-2020,Troy Deeney,FW,Watford,2225,27,10,2,12,0.4,0.08,31,0.49
+2019-2020,Adam Lallana,"MF,FW",Liverpool,382,15,1,1,2,0.24,0.24,31,0.47
+2019-2020,Juan Mata,"MF,FW",Manchester Utd,758,19,0,2,2,0,0.24,31,0.24
+2019-2020,David McGoldrick,FW,Sheffield Utd,1815,28,2,2,4,0.1,0.1,31,0.2
+2019-2020,Robert Snodgrass,"MF,FW",West Ham,1509,24,5,5,10,0.3,0.3,31,0.6
+2020-2021,Pierre-Emerick Aubameyang,FW,Arsenal,2332,29,10,3,13,0.39,0.12,31,0.5
+2020-2021,Gareth Bale,FW,Tottenham,920,20,11,2,13,1.08,0.2,31,1.27
+2020-2021,Andy Carroll,FW,Newcastle Utd,392,18,1,0,1,0.23,0,31,0.23
+2020-2021,Hal Robson-Kanu,FW,West Brom,561,19,2,0,2,0.32,0,31,0.32
+2020-2021,Jay Rodriguez,FW,Burnley,1265,31,1,2,3,0.07,0.14,31,0.21
+2020-2021,Theo Walcott,"MF,FW",Southampton,1618,21,3,3,6,0.17,0.17,31,0.33
+2020-2021,Willian,FW,Arsenal,1406,25,1,5,6,0.06,0.32,31,0.38
+2021-2022,Marc Albrighton,"FW,DF",Leicester City,1132,17,1,2,3,0.08,0.16,31,0.24
+2021-2022,Michail Antonio,FW,West Ham,2971,36,10,8,18,0.3,0.24,31,0.55
+2021-2022,Ashley Barnes,FW,Burnley,808,23,1,0,1,0.11,0,31,0.11
+2021-2022,Teemu Pukki,FW,Norwich City,3253,37,11,3,14,0.3,0.08,31,0.39
+2021-2022,Salomón Rondón,FW,Everton,790,20,1,1,2,0.11,0.11,31,0.23
+2021-2022,Andriy Yarmolenko,"FW,MF",West Ham,316,19,1,0,1,0.28,0,31,0.28
+2022-2023,Raúl Jiménez,FW,Wolves,846,15,0,1,1,0,0.11,31,0.11
+2022-2023,Riyad Mahrez,"FW,MF",Manchester City,1920,30,5,10,15,0.23,0.47,31,0.7
+2022-2023,Rodrigo,"FW,MF",Leeds United,1935,31,13,1,14,0.6,0.05,31,0.65
+2022-2023,Danny Welbeck,FW,Brighton,1854,31,6,3,9,0.29,0.15,31,0.44
+2023-2024,Jordan Ayew,"FW,MF",Crystal Palace,2543,35,4,7,11,0.14,0.25,31,0.39
+2023-2024,Son Heung-min,FW,Tottenham,2934,35,17,10,27,0.52,0.31,31,0.83
+2023-2024,Danny Ings,FW,West Ham,404,20,1,0,1,0.22,0,31,0.22
+2023-2024,Mohamed Salah,FW,Liverpool,2534,32,18,10,28,0.64,0.36,31,0.99
+2023-2024,Pablo Sarabia,"MF,FW",Wolves,1745,30,4,7,11,0.21,0.36,31,0.57
+2023-2024,Callum Wilson,FW,Newcastle Utd,991,20,9,1,10,0.82,0.09,31,0.91
+2023-2024,Chris Wood,FW,Nott'ham Forest,1812,31,14,1,15,0.7,0.05,31,0.75
+2024-2025,Bobby De Cordova-Reid,FW,Leicester City,744,23,1,2,3,0.12,0.24,31,0.36
+2024-2025,Niclas Füllkrug,FW,West Ham,790,18,3,2,5,0.34,0.23,31,0.57
+2010-2011,James Beattie,FW,Blackpool,433,9,0,3,3,0,0.62,32,0.62
+2010-2011,Luís Boa Morte,"FW,MF",West Ham,1499,22,0,2,2,0,0.12,32,0.12
+2010-2011,Didier Drogba,FW,Chelsea,2791,36,11,13,24,0.35,0.42,32,0.77
+2010-2011,Emile Heskey,FW,Aston Villa,893,19,3,1,4,0.3,0.1,32,0.4
+2010-2011,Jason Roberts,FW,Blackburn,1474,25,5,4,9,0.31,0.24,32,0.55
+2011-2012,Nicolas Anelka,FW,Chelsea,421,9,1,1,2,0.21,0.21,32,0.43
+2011-2012,Craig Bellamy,FW,Liverpool,1249,27,6,3,9,0.43,0.22,32,0.65
+2011-2012,Damien Duff,"FW,MF",Fulham,2114,28,2,3,5,0.09,0.13,32,0.21
+2011-2012,Martin Petrov,"FW,MF",Bolton,2566,31,4,6,10,0.14,0.21,32,0.35
+2011-2012,Louis Saha,FW,Tottenham,400,10,3,1,4,0.68,0.23,32,0.9
+2013-2014,Dimitar Berbatov,FW,Fulham,1564,18,4,1,5,0.23,0.06,32,0.29
+2013-2014,Peter Crouch,FW,Stoke City,2639,34,7,5,12,0.24,0.17,32,0.41
+2013-2014,Johan Elmander,FW,Norwich City,1489,29,1,4,5,0.06,0.24,32,0.3
+2013-2014,Samuel Eto'o,FW,Chelsea,1298,21,9,2,11,0.62,0.14,32,0.76
+2013-2014,Grant Holt,FW,Aston Villa,382,10,1,0,1,0.24,0,32,0.24
+2013-2014,Peter Odemwingie,FW,Stoke City,1290,15,5,1,6,0.35,0.07,32,0.42
+2014-2015,Rickie Lambert,FW,Liverpool,839,25,2,2,4,0.21,0.21,32,0.43
+2015-2016,Jermain Defoe,FW,Sunderland,2550,33,15,1,16,0.53,0.04,32,0.56
+2016-2017,Stewart Downing,"FW,MF",Middlesbrough,2214,30,1,3,4,0.04,0.12,32,0.16
+2016-2017,Jonathan Walters,"FW,MF",Stoke City,1304,23,4,2,6,0.28,0.14,32,0.41
+2017-2018,Wayne Routledge,"MF,FW",Swansea City,429,15,0,0,0,0,0,32,0
+2019-2020,Olivier Giroud,FW,Chelsea,993,18,8,0,8,0.73,0,32,0.73
+2019-2020,Shane Long,FW,Southampton,1395,26,2,2,4,0.13,0.13,32,0.26
+2019-2020,Pedro,"FW,MF",Chelsea,661,11,1,1,2,0.14,0.14,32,0.27
+2019-2020,Jamie Vardy,FW,Leicester City,3033,35,23,5,28,0.68,0.15,32,0.83
+2020-2021,Sergio Agüero,FW,Manchester City,559,12,4,1,5,0.64,0.16,32,0.81
+2020-2021,Adam Lallana,"MF,FW",Brighton,1596,30,1,1,2,0.06,0.06,32,0.11
+2020-2021,Juan Mata,"FW,MF",Manchester Utd,509,9,1,2,3,0.18,0.35,32,0.53
+2020-2021,David McGoldrick,"FW,MF",Sheffield Utd,2397,35,8,1,9,0.3,0.04,32,0.34
+2020-2021,Robert Snodgrass,"MF,FW",West Brom,526,8,0,0,0,0,0,32,0
+2021-2022,Pierre-Emerick Aubameyang,FW,Arsenal,1037,14,4,1,5,0.35,0.09,32,0.43
+2021-2022,Jay Rodriguez,FW,Burnley,1382,29,2,2,4,0.13,0.13,32,0.26
+2021-2022,Theo Walcott,"MF,FW",Southampton,379,9,0,0,0,0,0,32,0
+2022-2023,Michail Antonio,FW,West Ham,1829,33,5,3,8,0.25,0.15,32,0.39
+2022-2023,André Ayew,"FW,MF",Nott'ham Forest,316,13,0,0,0,0,0,32,0
+2023-2024,Jóhann Berg Guðmundsson,"MF,FW",Burnley,1192,26,1,3,4,0.08,0.23,32,0.3
+2023-2024,Raúl Jiménez,FW,Fulham,1395,24,7,0,7,0.45,0,32,0.45
+2023-2024,Andros Townsend,"MF,FW",Luton Town,1210,27,1,3,4,0.07,0.22,32,0.3
+2023-2024,Danny Welbeck,"FW,MF",Brighton,1693,29,5,1,6,0.27,0.05,32,0.32
+2024-2025,Son Heung-min,FW,Tottenham,2110,30,7,9,16,0.3,0.38,32,0.68
+2024-2025,Mohamed Salah,FW,Liverpool,3371,38,29,18,47,0.77,0.48,32,1.25
+2024-2025,Pablo Sarabia,"MF,FW",Wolves,814,23,3,2,5,0.33,0.22,32,0.55
+2024-2025,Callum Wilson,FW,Newcastle Utd,370,18,0,0,0,0,0,32,0
+2024-2025,Chris Wood,FW,Nott'ham Forest,2959,36,20,3,23,0.61,0.09,32,0.7
+2010-2011,Kevin Davies,FW,Bolton,3382,38,8,5,13,0.21,0.13,33,0.35
+2010-2011,Brett Ormerod,FW,Blackpool,716,19,1,2,3,0.13,0.25,33,0.38
+2010-2011,Boudewijn Zenden,"DF,FW",Sunderland,1122,27,2,3,5,0.16,0.24,33,0.4
+2011-2012,Didier Drogba,FW,Chelsea,1480,24,5,1,6,0.3,0.06,33,0.36
+2011-2012,Heiðar Helguson,FW,QPR,1153,16,8,2,10,0.62,0.16,33,0.78
+2011-2012,Emile Heskey,FW,Aston Villa,1456,28,1,0,1,0.06,0,33,0.06
+2011-2012,Jason Roberts,FW,Blackburn,467,10,0,1,1,0,0.19,33,0.19
+2012-2013,Damien Duff,"FW,MF",Fulham,2332,31,3,7,10,0.12,0.27,33,0.39
+2014-2015,Peter Crouch,FW,Stoke City,1685,33,8,2,10,0.43,0.11,33,0.53
+2014-2015,Samuel Eto'o,FW,Everton,787,14,3,1,4,0.34,0.11,33,0.46
+2014-2015,Paul Konchesky,"DF,FW",Leicester City,2244,26,1,1,2,0.04,0.04,33,0.08
+2014-2015,Bobby Zamora,FW,QPR,1779,31,3,4,7,0.15,0.2,33,0.35
+2015-2016,Rickie Lambert,FW,West Brom,625,19,1,1,2,0.14,0.14,33,0.29
+2016-2017,Jermain Defoe,FW,Sunderland,3321,37,15,2,17,0.41,0.05,33,0.46
+2017-2018,Glenn Murray,FW,Brighton,2192,35,12,0,12,0.49,0,33,0.49
+2018-2019,Fernando Llorente,FW,Tottenham,694,20,1,4,5,0.13,0.52,33,0.65
+2019-2020,Billy Sharp,FW,Sheffield Utd,1051,25,3,2,5,0.26,0.17,33,0.43
+2020-2021,Edinson Cavani,FW,Manchester Utd,1375,26,10,3,13,0.65,0.2,33,0.85
+2020-2021,Olivier Giroud,FW,Chelsea,748,17,4,0,4,0.48,0,33,0.48
+2020-2021,Jamie Vardy,FW,Leicester City,2840,34,15,9,24,0.48,0.29,33,0.76
+2022-2023,Pierre-Emerick Aubameyang,FW,Chelsea,554,15,1,0,1,0.16,0,33,0.16
+2022-2023,Diego Costa,FW,Wolves,1241,23,1,0,1,0.07,0,33,0.07
+2022-2023,Theo Walcott,"FW,MF",Southampton,1129,20,2,2,4,0.16,0.16,33,0.32
+2022-2023,Willian,FW,Fulham,2126,27,5,5,10,0.21,0.21,33,0.42
+2023-2024,Michail Antonio,FW,West Ham,1695,26,6,2,8,0.32,0.11,33,0.42
+2023-2024,Aaron Cresswell,"DF,FW",West Ham,436,11,0,0,0,0,0,33,0
+2024-2025,Kevin De Bruyne,"MF,FW",Manchester City,1702,28,4,7,11,0.21,0.37,33,0.58
+2024-2025,Raúl Jiménez,FW,Fulham,2494,38,12,3,15,0.43,0.11,33,0.54
+2024-2025,Danny Welbeck,FW,Brighton,2115,30,10,4,14,0.43,0.17,33,0.6
+2011-2012,Kevin Davies,FW,Bolton,1865,31,6,2,8,0.29,0.1,34,0.39
+2012-2013,Jason Roberts,FW,Reading,705,11,0,1,1,0,0.13,34,0.13
+2013-2014,Nicolas Anelka,FW,West Brom,849,12,2,0,2,0.21,0,34,0.21
+2013-2014,Craig Bellamy,FW,Cardiff City,1255,22,2,1,3,0.14,0.07,34,0.22
+2013-2014,Damien Duff,"FW,MF",Fulham,693,15,0,3,3,0,0.39,34,0.39
+2015-2016,Peter Crouch,FW,Stoke City,463,11,0,1,1,0,0.19,34,0.19
+2016-2017,Zlatan Ibrahimovi?,FW,Manchester Utd,2438,28,17,5,22,0.63,0.18,34,0.81
+2017-2018,Jermain Defoe,FW,Bournemouth,1088,24,4,1,5,0.33,0.08,34,0.41
+2018-2019,Glenn Murray,FW,Brighton,2508,38,13,1,14,0.47,0.04,34,0.5
+2020-2021,Billy Sharp,FW,Sheffield Utd,735,16,3,0,3,0.37,0,34,0.37
+2021-2022,Edinson Cavani,FW,Manchester Utd,766,15,2,1,3,0.23,0.12,34,0.35
+2021-2022,Aaron Lennon,"MF,FW",Burnley,1551,28,2,0,2,0.12,0,34,0.12
+2021-2022,Shane Long,FW,Southampton,308,13,1,0,1,0.29,0,34,0.29
+2021-2022,Jamie Vardy,FW,Leicester City,1806,25,15,2,17,0.75,0.1,34,0.85
+2022-2023,Adam Lallana,"MF,FW",Brighton,722,16,2,1,3,0.25,0.12,34,0.37
+2023-2024,Jay Rodriguez,FW,Burnley,822,21,2,1,3,0.22,0.11,34,0.33
+2023-2024,Willian,FW,Fulham,2053,31,4,2,6,0.18,0.09,34,0.26
+2024-2025,Michail Antonio,FW,West Ham,836,14,1,1,2,0.11,0.11,34,0.22
+2010-2011,Sol Campbell,"DF,FW",Newcastle Utd,408,7,0,0,0,0,0,35,0
+2016-2017,Peter Crouch,FW,Stoke City,1343,27,7,2,9,0.47,0.13,35,0.6
+2019-2020,Glenn Murray,FW,Brighton,797,23,1,1,2,0.11,0.11,35,0.23
+2022-2023,Jamie Vardy,FW,Leicester City,1857,37,3,4,7,0.15,0.19,35,0.34
+2023-2024,Adam Lallana,"MF,FW",Brighton,850,25,0,1,1,0,0.11,35,0.11
