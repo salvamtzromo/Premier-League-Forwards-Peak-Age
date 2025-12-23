@@ -10,7 +10,7 @@ Football clubs invest significant resources in attacking players, yet decisions 
 In this project, I analyzed Premier League forward performance from 2010–2025 to identify the age at which attackers deliver peak and consistent output. Using Goals + Assists per 90 minutes as a standardized performance metric, I combined Excel-based data cleaning, SQL analysis in Google BigQuery, and Power BI dashboards to generate actionable insights.
 
 The analysis shows that forward performance peaks in the mid-20s (approximately ages 24–27), where players combine high output, lower variability, and strong sample sizes. These insights can support data-driven recruitment, contract strategy, and risk management decisions.
-![Average G+A per 90 by Age](images/peak_age_line_chart.png)
+![Premier League forwards peak performance by age](images/peak_age_line_chart.png)
 *Average attacking output (Goals + Assists per 90) by age for Premier League forwards (2010–2025, ≥300 minutes). Highlighted points show peak ages at 24 and 31.*
 
 ---
