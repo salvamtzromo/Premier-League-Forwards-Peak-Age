@@ -11,6 +11,7 @@ In this project, I analyzed Premier League forward performance from 2010–2025 
 
 The analysis shows that forward performance peaks in the mid-20s (approximately ages 24–27), where players combine high output, lower variability, and strong sample sizes. These insights can support data-driven recruitment, contract strategy, and risk management decisions.
 ![Premier League forwards peak performance by age](images/peak_age_line_chart.png)
+
 *Average attacking output (Goals + Assists per 90) by age for Premier League forwards (2010–2025, ≥300 minutes). Highlighted points show peak ages at 24 and 31.*
 
 ---
