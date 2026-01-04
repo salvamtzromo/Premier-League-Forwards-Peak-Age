@@ -110,6 +110,8 @@ If applied by a club’s analytics or recruitment department, these insights cou
 
 ## Conclusion & Next Steps
 
-This analysis shows that forward performance peaks in the mid-20s, offering the best balance of output, consistency, and depth.
+This analysis shows that Premier League forward performance is strongest and most reliable in the mid twenties. Players between ages 24 and 27 combine high attacking output with lower variability and strong sample sizes, pointing to a stable performance window rather than production driven by a small number of elite seasons.
 
-Future extensions could include controlling for team strength, expanding the analysis to other leagues, or modeling age-related decline to support long-term contract optimization.
+Outside this range, attacking output becomes less predictable. Younger players show greater volatility as they develop, while older players rely more heavily on a smaller group of top performers, increasing uncertainty in overall production.
+
+Looking ahead, this framework could be expanded by incorporating expected goals and expected assists to separate chance quality from finishing, adding team context such as minutes played or possession to better isolate individual impact, and extending the analysis to other leagues. Performance beyond the peak years could also be modeled to understand how output changes over time and to inform long term recruitment and contract decisions.
