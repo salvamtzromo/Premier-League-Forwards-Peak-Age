@@ -1,6 +1,24 @@
 # Premier League Forwards Peak Performance Analysis (2010–2025)
 Sports Analytics | Data Cleaning | SQL (BigQuery) | Power BI | Business Insights
 
+## Why This Project
+
+When I first started working with Premier League performance data, I was not trying to prove a theory. I was simply curious.
+
+As a soccer player and data analyst, I kept hearing the same assumptions: players peak early, decline quickly, or stay elite only if they are “special.” But when I looked closer, I realized those claims were rarely backed by clear evidence. The data existed, but the story was not obvious.
+
+I began with a few simple questions:
+
+At what age do Premier League forwards actually perform at their best?
+
+Is peak performance driven by a few elite seasons, or is it consistent across players?
+
+How does reliability change as players move through their careers?
+
+Answering these questions required moving beyond highlights and reputation. Using goals and assists per 90 minutes, I analyzed fifteen seasons of Premier League data to understand how attacking output evolves with age and when performance is most dependable.
+
+This project is the result of that exploration.
+
 ---
 
 ## Executive Summary
