@@ -108,10 +108,17 @@ If applied by a club’s analytics or recruitment department, these insights cou
 
 ---
 
-## Conclusion & Next Steps
+## Conclusion and Next Steps
 
-This analysis shows that Premier League forward performance is strongest and most reliable in the mid twenties. Players between ages 24 and 27 combine high attacking output with lower variability and strong sample sizes, pointing to a stable performance window rather than production driven by a small number of elite seasons.
+### What the Data Shows
+- Premier League forward performance is strongest and most reliable in the **mid twenties**.
+- Players between **ages 24 and 27** consistently combine high attacking output with lower variability and strong sample sizes.
+- This suggests a **true performance window**, rather than results driven by a small group of standout seasons.
+- Outside this range, attacking output becomes harder to predict due to greater volatility at younger ages and increased reliance on top performers later in a career.
 
-Outside this range, attacking output becomes less predictable. Younger players show greater volatility as they develop, while older players rely more heavily on a smaller group of top performers, increasing uncertainty in overall production.
+### How This Analysis Can Be Extended
+- **Expected metrics**: Incorporate expected goals and expected assists to separate chance quality from finishing and reduce randomness in output.
+- **Team context**: Adjust for minutes played, possession, or team strength to better isolate individual contribution.
+- **Cross league comparison**: Apply the same framework to other leagues to test whether similar age performance patterns hold.
+- **Post peak trends**: Examine how attacking output changes beyond the mid twenties to support long term recruitment and contract decisions.
 
-Looking ahead, this framework could be expanded by incorporating expected goals and expected assists to separate chance quality from finishing, adding team context such as minutes played or possession to better isolate individual impact, and extending the analysis to other leagues. Performance beyond the peak years could also be modeled to understand how output changes over time and to inform long term recruitment and contract decisions.
